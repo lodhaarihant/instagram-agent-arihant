@@ -2,8 +2,8 @@
   "handle": "@thoughts4us.official",
   "week_start": "2026-10-17",
   "utc_offset": "+05:30",
-  "media_base_url": "",
-  "graph_host": "https://graph.facebook.com",
+  "media_base_url": "https://lodhaarihant.github.io/instagram-agent-arihant/thoughts4us",
+  "graph_host": "https://graph.instagram.com",
   "graph_version": "v23.0",
   "reply_mode": "auto",
   "max_replies_per_run": 25
