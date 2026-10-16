@@ -497,36 +497,42 @@ def build():
     for i in range(7):
         day = WEEK_START + dt.timedelta(days=i)
         d = f"d{i + 1}"
-        pal = i
+        # Content is written per weekday (index 0 = Monday) because some of it
+        # says "Sunday" or "Monday". The week can start on any day.
+        w = day.weekday()
+        pal = w
+        # The Dhammapada card explains the page name, so it always goes first;
+        # whatever card it displaces takes its weekday slot.
+        qi = 0 if i == 0 else (WEEK_START.weekday() if w == 0 else w)
 
-        q = QUOTE_CARDS[i]
+        q = QUOTE_CARDS[qi]
         posts.append({"id": f"{d}-f1-quote", "kind": "quote", "media": "IMAGE", "at": stamp(day, FEED_TIMES[0]),
                       "palette": pal, "quote": q["quote"], "author": q["author"], "source": q["source"],
                       "caption": caption(q)})
 
-        t = THOUGHTS[i]
+        t = THOUGHTS[w]
         posts.append({"id": f"{d}-f2-thought", "kind": "thought", "media": "IMAGE", "at": stamp(day, FEED_TIMES[1]),
                       "palette": pal, "text": t["text"], "caption": caption(t)})
 
-        c = CAROUSELS[i]
+        c = CAROUSELS[w]
         posts.append({"id": f"{d}-f3-carousel", "kind": "carousel", "media": "CAROUSEL", "at": stamp(day, FEED_TIMES[2]),
                       "palette": pal, "deck": {k: v for k, v in c.items() if k not in ("hook", "body", "ask", "tags")},
                       "caption": caption(c)})
 
-        r = REELS[i]
+        r = REELS[w]
         posts.append({"id": f"{d}-f4-reel", "kind": "reel", "media": "REELS", "at": stamp(day, FEED_TIMES[3]),
                       "palette": pal, "lines": r["lines"], "caption": caption(r)})
 
-        a, b = S_THIS_OR_THAT[i]
+        a, b = S_THIS_OR_THAT[w]
         frames = [
-            ("morning", {"text": S_MORNING[i]}),
-            ("quote", {"quote": S_QUOTE[i][0], "author": S_QUOTE[i][1]}),
+            ("morning", {"text": S_MORNING[w]}),
+            ("quote", {"quote": S_QUOTE[w][0], "author": S_QUOTE[w][1]}),
             ("choice", {"a": a, "b": b}),
             ("pointer", {"text": "New on the grid:\n" + t["text"].replace("\n", " "), "note": "Full post on the page"}),
-            ("prompt", {"text": S_ONE_WORD[i], "note": "Reply here. I read every one."}),
-            ("fragment", {"text": S_FRAGMENT[i]}),
-            ("prompt", {"text": S_FILL_IN[i], "note": "Reply and tell me."}),
-            ("night", {"text": S_NIGHT[i]}),
+            ("prompt", {"text": S_ONE_WORD[w], "note": "Reply here. I read every one."}),
+            ("fragment", {"text": S_FRAGMENT[w]}),
+            ("prompt", {"text": S_FILL_IN[w], "note": "Reply and tell me."}),
+            ("night", {"text": S_NIGHT[w]}),
         ]
         for n, (kind, data) in enumerate(frames):
             posts.append({"id": f"{d}-s{n + 1}-{kind}", "kind": "story", "story": kind, "media": "STORIES",

@@ -36,9 +36,9 @@ personal account. Settings > Account type and tools > Switch to professional.
 
 ## Pin these three after week 1
 
-1. Thu 18:30 carousel, *6 things I wish I knew at 25* (most shareable)
-2. Thu 21:30 reel, the "have you eaten?" poem (most relatable)
-3. Mon 08:00, the Dhammapada post that explains the name
+1. Thu 22 Oct 18:30 carousel, *6 things I wish I knew at 25* (most shareable)
+2. Thu 22 Oct 21:30 reel, the "have you eaten?" poem (most relatable)
+3. Sat 17 Oct 08:00, the Dhammapada post that explains the name
 
 Swap in whichever posts actually get the most shares, using `/ig-audit`.
 

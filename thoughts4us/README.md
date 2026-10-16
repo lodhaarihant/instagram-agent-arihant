@@ -20,7 +20,7 @@ this repo, plus the scripts that publish it automatically.
 | 21:30 | original four-line poem | reel, 10s |
 | 22:30 | goodnight line | story |
 
-Week 1 runs **Mon 19 Oct to Sun 25 Oct 2026**. Open `preview.html` to see
+Week 1 runs **Sat 17 Oct to Fri 23 Oct 2026**. Open `preview.html` to see
 every post and caption before it goes live.
 
 ## Files
