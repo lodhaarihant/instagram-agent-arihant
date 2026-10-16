@@ -60,12 +60,42 @@ def publish(g, p, files, base):
     return g.publish(c)
 
 
+def check():
+    """Confirm the secrets work and the media is reachable. Publishes nothing."""
+    import urllib.request
+    ok = True
+    try:
+        g = Graph()
+        me = g.get(g.user, fields="username")
+        print(f"token OK: logged in as @{me.get('username')}")
+        used, total = g.quota()
+        print(f"publishing quota: {used} used of {total} in the last 24h")
+    except GraphError as e:
+        print(f"token FAILED: {e}", file=sys.stderr)
+        ok = False
+    base = os.environ.get("MEDIA_BASE_URL") or CONFIG.get("media_base_url", "")
+    sample = next((f for _, _, files in due_posts(dt.datetime(2100, 1, 1, tzinfo=dt.timezone.utc)) for f in files), None)
+    if base and sample:
+        url = url_for(base, sample)
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, method="HEAD"), timeout=30) as r:
+                print(f"media OK: {r.status} {r.headers.get('Content-Type')} {url}")
+        except OSError as e:
+            print(f"media FAILED: {url}: {e}", file=sys.stderr)
+            ok = False
+    return 0 if ok else 1
+
+
 def main():
     ap = argparse.ArgumentParser(description="Publish due Instagram posts.")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--now", help="pretend the time is this ISO timestamp")
     ap.add_argument("--limit", type=int, default=6, help="max posts per run")
+    ap.add_argument("--check", action="store_true", help="check the token and media URL, publish nothing")
     a = ap.parse_args()
+
+    if a.check:
+        return check()
 
     now = dt.datetime.fromisoformat(a.now) if a.now else dt.datetime.now(dt.timezone.utc)
     base = os.environ.get("MEDIA_BASE_URL") or CONFIG.get("media_base_url", "")

@@ -41,6 +41,10 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Check token and media (dry runs only)
+        if: env.DRY != ''
+        run: python autopost.py --check
+
       - name: Publish due posts
         run: python autopost.py $DRY
 
