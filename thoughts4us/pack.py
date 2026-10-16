@@ -33,7 +33,7 @@ def main(path):
 
     days = {}
     for p in sched["posts"]:
-        days.setdefault(p["at"][:10], []).append(p)
+        days.setdefault(p.get("day") or p["at"][:10], []).append(p)
 
     for n, (day, posts) in enumerate(sorted(days.items()), 1):
         d = dt.date.fromisoformat(day)

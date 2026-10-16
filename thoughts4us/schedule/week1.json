@@ -81,80 +81,205 @@
  ],
  "posts": [
   {
-   "id": "d1-s1-morning",
+   "id": "d1-0500-morning",
+   "at": "2026-10-17T05:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
    "kind": "story",
    "story": "morning",
    "media": "STORIES",
-   "at": "2026-10-17T07:30:00+05:30",
-   "palette": 5,
    "text": "Morning.\nOpen a window.\nLet the day in slowly."
   },
   {
-   "id": "d1-f1-quote",
+   "id": "d1-0600-affirm",
+   "at": "2026-10-17T06:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "Rest is allowed.\nJoy is allowed."
+  },
+  {
+   "id": "d1-0700-thought",
+   "at": "2026-10-17T07:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "You can be gentle with yourself",
+    "and still keep going.",
+    "Both fit in one day."
+   ],
+   "credit": "",
+   "caption": "Being kind to yourself and working hard aren't opposites.\n\nWe think we have to be harsh to get things done. Most of us have been harsh for years and it hasn't helped much.\n\nTry gentle and steady for a week. See what happens.\n\nShare it with someone who's too hard on themselves.\n\n#selflove #motivationalquotes #mentalhealth"
+  },
+  {
+   "id": "d1-0800-quote",
+   "at": "2026-10-17T08:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
    "kind": "quote",
    "media": "IMAGE",
-   "at": "2026-10-17T08:00:00+05:30",
-   "palette": 5,
    "quote": "All that we are is the result of what we have thought.",
    "author": "The Dhammapada",
    "source": "verse 1, tr. Max Muller, 1881",
    "caption": "This line is over 2,000 years old and it's the reason this page is called Thought's.\n\nThe full verse goes on: it is founded on our thoughts, it is made up of our thoughts.\n\nWe named the page after that idea back in 2021. Same idea, new home. Daily quotes, short poems and life lines from people who said it first and said it best.\n\nFollow along this week. Four posts a day, all of them short.\n\n#buddha #motivationalquotes #dailyquotes"
   },
   {
-   "id": "d1-s2-quote",
+   "id": "d1-0900-quote",
+   "at": "2026-10-17T09:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
    "kind": "story",
    "story": "quote",
    "media": "STORIES",
-   "at": "2026-10-17T09:30:00+05:30",
-   "palette": 5,
    "quote": "This above all:\nto thine own self be true.",
    "author": "William Shakespeare, Hamlet"
   },
   {
-   "id": "d1-s3-choice",
+   "id": "d1-1000-choice",
+   "at": "2026-10-17T10:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
    "kind": "story",
    "story": "choice",
    "media": "STORIES",
-   "at": "2026-10-17T11:30:00+05:30",
-   "palette": 5,
    "a": "Chai",
    "b": "Coffee"
   },
   {
-   "id": "d1-f2-thought",
-   "kind": "thought",
-   "media": "IMAGE",
-   "at": "2026-10-17T13:00:00+05:30",
+   "id": "d1-1100-quote_am",
+   "at": "2026-10-17T11:00:00+05:30",
+   "day": "2026-10-17",
    "palette": 5,
-   "text": "You can be gentle with yourself\nand still keep going.\nBoth fit in one day.",
-   "caption": "Being kind to yourself and working hard aren't opposites.\n\nWe think we have to be harsh to get things done. Most of us have been harsh for years and it hasn't helped much.\n\nTry gentle and steady for a week. See what happens.\n\nShare it with someone who's too hard on themselves.\n\n#selflove #motivationalquotes #mentalhealth"
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Your pain is the breaking",
+    "of the shell",
+    "that encloses",
+    "your understanding."
+   ],
+   "credit": "Kahlil Gibran, The Prophet",
+   "caption": "Gibran on why the hard year taught you the most.\n\nFrom the chapter On Pain. It doesn't say pain is good. It says something opens.\n\nSave this for a hard day.\n\n#kahlilgibran #theprophet #healing"
   },
   {
-   "id": "d1-s4-pointer",
+   "id": "d1-1200-pointer",
+   "at": "2026-10-17T12:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
    "kind": "story",
    "story": "pointer",
    "media": "STORIES",
-   "at": "2026-10-17T14:30:00+05:30",
-   "palette": 5,
-   "text": "New on the grid:\nYou can be gentle with yourself and still keep going. Both fit in one day.",
-   "note": "Full post on the page"
+   "text": "This morning's reel:\nYou can be gentle with yourself and still keep going. Both fit in one day.",
+   "note": "Watch it on the page"
   },
   {
-   "id": "d1-s5-prompt",
+   "id": "d1-1300-noon",
+   "at": "2026-10-17T13:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "A reminder for your 20s",
+    "sub": "From someone a bit further down the road.",
+    "stake": "Nobody has it figured out. The ones who look like they do are just quieter.",
+    "slides": [
+     [
+      "Slow is fine.",
+      "",
+      "Most good lives were built slowly."
+     ],
+     [
+      "Their timeline isn't your deadline.",
+      "",
+      "Weddings, jobs, flats. Not a race."
+     ],
+     [
+      "Savings and sleep are self care.",
+      "",
+      "Boring. True."
+     ],
+     [
+      "Call your grandparents.",
+      "",
+      "Ask them about their 20s. You'll be surprised."
+     ],
+     [
+      "You can change your mind.",
+      "",
+      "About a degree, a city, a person."
+     ]
+    ],
+    "recap": [
+     "Slow is fine",
+     "Not a race",
+     "Save and sleep",
+     "Call your grandparents",
+     "Change your mind"
+    ],
+    "cta": "Share it with someone in their 20s."
+   },
+   "caption": "A reminder for your 20s. Screenshot slide 8.\n\nLife advice for your 20s from people who survived theirs.\n\nShare it with someone in their 20s.\n\n#20s #lifeadvice #adulting #selfgrowth"
+  },
+  {
+   "id": "d1-1400-prompt",
+   "at": "2026-10-17T14:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
    "kind": "story",
    "story": "prompt",
    "media": "STORIES",
-   "at": "2026-10-17T16:30:00+05:30",
-   "palette": 5,
    "text": "A word your grandmother\nused to say?",
    "note": "Reply here. I read every one."
   },
   {
-   "id": "d1-f3-carousel",
+   "id": "d1-1500-line",
+   "at": "2026-10-17T15:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Talk to yourself",
+    "the way you'd talk",
+    "to someone",
+    "you love."
+   ],
+   "credit": "",
+   "caption": "You'd never speak to a friend the way you speak to yourself.\n\nTry it for one day. Same words, same patience.\n\nShare it with someone who's hard on themselves.\n\n#selflove #mentalhealth #kindness"
+  },
+  {
+   "id": "d1-1600-reminder",
+   "at": "2026-10-17T16:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "Reminder:\nopen a window,\ntake three slow breaths."
+  },
+  {
+   "id": "d1-1700-choice2",
+   "at": "2026-10-17T17:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Silence",
+   "b": "Soft music"
+  },
+  {
+   "id": "d1-1800-main",
+   "at": "2026-10-17T18:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
    "kind": "carousel",
    "media": "CAROUSEL",
-   "at": "2026-10-17T18:30:00+05:30",
-   "palette": 5,
    "deck": {
     "cover": "6 lines from old books worth keeping",
     "sub": "Read one a day. Or all six now.",
@@ -204,122 +329,278 @@
    "caption": "Six lines from old books that are worth more than most new ones.\n\nThoreau, Emerson, Socrates, Shakespeare, Anne Frank and Swami Vivekananda. Famous quotes with the sources, so you can go read the rest.\n\nThe Anne Frank line gets me every time.\n\nSave it and read one each morning.\n\n#bookquotes #wordsofwisdom #inspiration #famousquotes"
   },
   {
-   "id": "d1-s6-fragment",
+   "id": "d1-1900-quote_pm",
+   "at": "2026-10-17T19:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "The world breaks every one,",
+    "and afterward",
+    "many are strong",
+    "at the broken places."
+   ],
+   "credit": "Ernest Hemingway, A Farewell to Arms",
+   "caption": "Hemingway on the places you were hurt.\n\nA Farewell to Arms, 1929. He'd been badly wounded in the war he was writing about.\n\nSave it for someone who's rebuilding.\n\n#hemingway #bookquotes #strength"
+  },
+  {
+   "id": "d1-2000-pointer2",
+   "at": "2026-10-17T20:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\n6 lines from old books worth keeping",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d1-2100-fragment",
+   "at": "2026-10-17T21:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
    "kind": "story",
    "story": "fragment",
    "media": "STORIES",
-   "at": "2026-10-17T19:30:00+05:30",
-   "palette": 5,
    "text": "Old songs know us\nbetter than we remember."
   },
   {
-   "id": "d1-s7-prompt",
-   "kind": "story",
-   "story": "prompt",
-   "media": "STORIES",
-   "at": "2026-10-17T20:30:00+05:30",
+   "id": "d1-2200-poem",
+   "at": "2026-10-17T22:00:00+05:30",
+   "day": "2026-10-17",
    "palette": 5,
-   "text": "Finish this:\nI'm learning to let go of ___",
-   "note": "Reply and tell me."
-  },
-  {
-   "id": "d1-f4-reel",
    "kind": "reel",
    "media": "REELS",
-   "at": "2026-10-17T21:30:00+05:30",
-   "palette": 5,
    "lines": [
     "The river doesn't argue with the rock.",
     "It goes around",
     "and keeps its song.",
     "Be the river today."
    ],
+   "credit": "",
    "caption": "Four lines for a day full of rocks.\n\nYou don't have to win every argument. Some things you just go around.\n\nSave it for the next difficult person.\n\n#poetry #peace #shortpoems"
   },
   {
-   "id": "d1-s8-night",
+   "id": "d1-2300-fill",
+   "at": "2026-10-17T23:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nI'm learning to let go of ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d1-0000-night",
+   "at": "2026-10-18T00:00:00+05:30",
+   "day": "2026-10-17",
+   "palette": 5,
    "kind": "story",
    "story": "night",
    "media": "STORIES",
-   "at": "2026-10-17T22:30:00+05:30",
-   "palette": 5,
    "text": "Goodnight.\nBe proud of the small stuff."
   },
   {
-   "id": "d2-s1-morning",
+   "id": "d2-0500-morning",
+   "at": "2026-10-18T05:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
    "kind": "story",
    "story": "morning",
    "media": "STORIES",
-   "at": "2026-10-18T07:30:00+05:30",
-   "palette": 6,
    "text": "Good morning.\nNo alarms in your head today, okay?"
   },
   {
-   "id": "d2-f1-quote",
+   "id": "d2-0600-affirm",
+   "at": "2026-10-18T06:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "I'm exactly\nwhere I need to start."
+  },
+  {
+   "id": "d2-0700-thought",
+   "at": "2026-10-18T07:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Start before you feel ready.",
+    "Ready is a feeling",
+    "that shows up halfway."
+   ],
+   "credit": "",
+   "caption": "If you're waiting to feel ready, read this.\n\nNobody felt ready for their first job, first child, first stage, first anything.\n\nThe feeling of ready comes after you start, usually somewhere in the middle, usually when you're too busy to notice.\n\nWhat are you starting this week? Tell me below.\n\n#motivation #startnow #inspiration"
+  },
+  {
+   "id": "d2-0800-quote",
+   "at": "2026-10-18T08:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
    "kind": "quote",
    "media": "IMAGE",
-   "at": "2026-10-18T08:00:00+05:30",
-   "palette": 6,
    "quote": "I am the master of my fate,\nI am the captain of my soul.",
    "author": "William Ernest Henley",
    "source": "Invictus, 1888",
    "caption": "Henley wrote Invictus from a hospital bed after doctors took one of his legs.\n\nNelson Mandela recited it to other prisoners on Robben Island.\n\nTwo lines, 1888, still the thing people say to themselves before the hard day.\n\nSave it for Monday.\n\n#invictus #poetry #motivationalquotes"
   },
   {
-   "id": "d2-s2-quote",
+   "id": "d2-0900-quote",
+   "at": "2026-10-18T09:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
    "kind": "story",
    "story": "quote",
    "media": "STORIES",
-   "at": "2026-10-18T09:30:00+05:30",
-   "palette": 6,
    "quote": "Hatred does not cease by hatred at any time:\nhatred ceases by love.",
    "author": "The Dhammapada, verse 5"
   },
   {
-   "id": "d2-s3-choice",
+   "id": "d2-1000-choice",
+   "at": "2026-10-18T10:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
    "kind": "story",
    "story": "choice",
    "media": "STORIES",
-   "at": "2026-10-18T11:30:00+05:30",
-   "palette": 6,
    "a": "Rain on the window",
    "b": "Sun on your face"
   },
   {
-   "id": "d2-f2-thought",
-   "kind": "thought",
-   "media": "IMAGE",
-   "at": "2026-10-18T13:00:00+05:30",
+   "id": "d2-1100-quote_am",
+   "at": "2026-10-18T11:00:00+05:30",
+   "day": "2026-10-18",
    "palette": 6,
-   "text": "Start before you feel ready.\nReady is a feeling\nthat shows up halfway.",
-   "caption": "If you're waiting to feel ready, read this.\n\nNobody felt ready for their first job, first child, first stage, first anything.\n\nThe feeling of ready comes after you start, usually somewhere in the middle, usually when you're too busy to notice.\n\nWhat are you starting this week? Tell me below.\n\n#motivation #startnow #inspiration"
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "There is nothing",
+    "either good or bad,",
+    "but thinking makes it so."
+   ],
+   "credit": "William Shakespeare, Hamlet",
+   "caption": "Shakespeare said this 400 years before anyone called it mindset.\n\nHamlet says it to his friends Rosencrantz and Guildenstern, about Denmark feeling like a prison.\n\nShare it with your overthinking friend.\n\n#shakespeare #hamlet #mindset"
   },
   {
-   "id": "d2-s4-pointer",
+   "id": "d2-1200-pointer",
+   "at": "2026-10-18T12:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
    "kind": "story",
    "story": "pointer",
    "media": "STORIES",
-   "at": "2026-10-18T14:30:00+05:30",
-   "palette": 6,
-   "text": "New on the grid:\nStart before you feel ready. Ready is a feeling that shows up halfway.",
-   "note": "Full post on the page"
+   "text": "This morning's reel:\nStart before you feel ready. Ready is a feeling that shows up halfway.",
+   "note": "Watch it on the page"
   },
   {
-   "id": "d2-s5-prompt",
+   "id": "d2-1300-noon",
+   "at": "2026-10-18T13:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "Before you give up, read this",
+    "sub": "Five slides. Then decide.",
+    "stake": "Quitting is allowed. Just not on the worst day.",
+    "slides": [
+     [
+      "You've been here before.",
+      "",
+      "And you got through it. Every time."
+     ],
+     [
+      "Tired isn't the same as finished.",
+      "",
+      "Rest first. Decide later."
+     ],
+     [
+      "Rest. Don't quit.",
+      "",
+      "A break is not a failure."
+     ],
+     [
+      "Ask for help.",
+      "",
+      "One message. One person."
+     ],
+     [
+      "Look how far you've come.",
+      "",
+      "Scroll back a year. Look properly."
+     ]
+    ],
+    "recap": [
+     "You've done this before",
+     "Tired, not finished",
+     "Rest, don't quit",
+     "Ask for help",
+     "Look back"
+    ],
+    "cta": "Save it. Read it on the hard day."
+   },
+   "caption": "Before you give up, read this. Five slides.\n\nMotivation for the days you want to stop. No yelling, no hustle.\n\nSave it for the hard day.\n\n#dontgiveup #motivation #keepgoing #inspiration"
+  },
+  {
+   "id": "d2-1400-prompt",
+   "at": "2026-10-18T14:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
    "kind": "story",
    "story": "prompt",
    "media": "STORIES",
-   "at": "2026-10-18T16:30:00+05:30",
-   "palette": 6,
    "text": "One word\nfor next week.",
    "note": "Reply here. I read every one."
   },
   {
-   "id": "d2-f3-carousel",
+   "id": "d2-1500-line",
+   "at": "2026-10-18T15:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Every bad day so far,",
+    "you got through.",
+    "Keep",
+    "the streak."
+   ],
+   "credit": "",
+   "caption": "Your record on bad days is better than you think.\n\nEvery single one of them, you're still here. That counts.\n\nShare it with someone having a rough week.\n\n#keepgoing #mentalhealth #motivation"
+  },
+  {
+   "id": "d2-1600-reminder",
+   "at": "2026-10-18T16:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "Reminder:\ncall someone\nyou miss."
+  },
+  {
+   "id": "d2-1700-choice2",
+   "at": "2026-10-18T17:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Plans",
+   "b": "Spontaneous"
+  },
+  {
+   "id": "d2-1800-main",
+   "at": "2026-10-18T18:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
    "kind": "carousel",
    "media": "CAROUSEL",
-   "at": "2026-10-18T18:30:00+05:30",
-   "palette": 6,
    "deck": {
     "cover": "A small guide to bad days",
     "sub": "No fixing. Just getting through.",
@@ -369,122 +650,277 @@
    "caption": "A small guide to bad days. Screenshot the last slide.\n\nIt's Sunday. Some of you are dreading tomorrow. This is for you.\n\nSimple self care, nothing that costs money, nothing that needs motivation you don't have.\n\nShare it with someone having a bad day.\n\n#selfcare #mentalhealth #baddays #inspiration"
   },
   {
-   "id": "d2-s6-fragment",
+   "id": "d2-1900-quote_pm",
+   "at": "2026-10-18T19:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "All we have to decide",
+    "is what to do",
+    "with the time",
+    "that is given us."
+   ],
+   "credit": "J.R.R. Tolkien, The Fellowship of the Ring",
+   "caption": "Gandalf's answer to every Sunday-night worry.\n\nFrodo wishes none of it had happened in his time. Gandalf says this.\n\nShare it with someone dreading Monday.\n\n#tolkien #lordoftherings #bookquotes"
+  },
+  {
+   "id": "d2-2000-pointer2",
+   "at": "2026-10-18T20:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\nA small guide to bad days",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d2-2100-fragment",
+   "at": "2026-10-18T21:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
    "kind": "story",
    "story": "fragment",
    "media": "STORIES",
-   "at": "2026-10-18T19:30:00+05:30",
-   "palette": 6,
    "text": "Light gets in\nwhen you stop holding the curtain shut."
   },
   {
-   "id": "d2-s7-prompt",
-   "kind": "story",
-   "story": "prompt",
-   "media": "STORIES",
-   "at": "2026-10-18T20:30:00+05:30",
+   "id": "d2-2200-poem",
+   "at": "2026-10-18T22:00:00+05:30",
+   "day": "2026-10-18",
    "palette": 6,
-   "text": "Finish this:\nNext week I'll try ___",
-   "note": "Reply and tell me."
-  },
-  {
-   "id": "d2-f4-reel",
    "kind": "reel",
    "media": "REELS",
-   "at": "2026-10-18T21:30:00+05:30",
-   "palette": 6,
    "lines": [
     "Sunday says:",
     "nothing is due,",
     "nothing is late,",
     "you are not behind."
    ],
+   "credit": "",
    "caption": "A Sunday poem. Read it twice.\n\nWhatever the week was, it's over. Tomorrow can wait until tomorrow.\n\nShare it with someone who works too much.\n\n#sundayvibes #poetry #rest"
   },
   {
-   "id": "d2-s8-night",
+   "id": "d2-2300-fill",
+   "at": "2026-10-18T23:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nNext week I'll try ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d2-0000-night",
+   "at": "2026-10-19T00:00:00+05:30",
+   "day": "2026-10-18",
+   "palette": 6,
    "kind": "story",
    "story": "night",
    "media": "STORIES",
-   "at": "2026-10-18T22:30:00+05:30",
-   "palette": 6,
    "text": "Goodnight.\nNext week, same us,\na little braver."
   },
   {
-   "id": "d3-s1-morning",
+   "id": "d3-0500-morning",
+   "at": "2026-10-19T05:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
    "kind": "story",
    "story": "morning",
    "media": "STORIES",
-   "at": "2026-10-19T07:30:00+05:30",
-   "palette": 0,
    "text": "Good morning.\nOne thing at a time today."
   },
   {
-   "id": "d3-f1-quote",
+   "id": "d3-0600-affirm",
+   "at": "2026-10-19T06:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "Today I'll do\nwhat I can,\nand that will be enough."
+  },
+  {
+   "id": "d3-0700-thought",
+   "at": "2026-10-19T07:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "You don't need a new life.",
+    "You need ten quiet minutes",
+    "with the one you have."
+   ],
+   "credit": "",
+   "caption": "Before you change everything, try ten quiet minutes.\n\nNo phone, no plan, no podcast in your ears. Tea, a window, whatever's around.\n\nMost of us are not unhappy with our life. We're just never in it long enough to notice.\n\nTry it today and tell me how it went.\n\n#lifequotes #inspiration #selfgrowth"
+  },
+  {
+   "id": "d3-0800-quote",
+   "at": "2026-10-19T08:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
    "kind": "quote",
    "media": "IMAGE",
-   "at": "2026-10-19T08:00:00+05:30",
-   "palette": 0,
    "quote": "Work is love made visible.",
    "author": "Kahlil Gibran",
    "source": "The Prophet, 1923",
    "caption": "Five words from Kahlil Gibran about every meal your mother ever cooked.\n\nAnd every report someone stayed late to fix, every shirt ironed before school, every song practised a hundred times.\n\nThe Prophet has sold over ten million copies. This might be its shortest line.\n\nTag the person whose work you see as love.\n\n#kahlilgibran #theprophet #poetryquotes"
   },
   {
-   "id": "d3-s2-quote",
+   "id": "d3-0900-quote",
+   "at": "2026-10-19T09:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
    "kind": "story",
    "story": "quote",
    "media": "STORIES",
-   "at": "2026-10-19T09:30:00+05:30",
-   "palette": 0,
    "quote": "If you can keep your head when all about you\nare losing theirs and blaming it on you...",
    "author": "Rudyard Kipling, If, 1910"
   },
   {
-   "id": "d3-s3-choice",
+   "id": "d3-1000-choice",
+   "at": "2026-10-19T10:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
    "kind": "story",
    "story": "choice",
    "media": "STORIES",
-   "at": "2026-10-19T11:30:00+05:30",
-   "palette": 0,
    "a": "Sunrise",
    "b": "Sunset"
   },
   {
-   "id": "d3-f2-thought",
-   "kind": "thought",
-   "media": "IMAGE",
-   "at": "2026-10-19T13:00:00+05:30",
+   "id": "d3-1100-quote_am",
+   "at": "2026-10-19T11:00:00+05:30",
+   "day": "2026-10-19",
    "palette": 0,
-   "text": "You don't need a new life.\nYou need ten quiet minutes\nwith the one you have.",
-   "caption": "Before you change everything, try ten quiet minutes.\n\nNo phone, no plan, no podcast in your ears. Tea, a window, whatever's around.\n\nMost of us are not unhappy with our life. We're just never in it long enough to notice.\n\nTry it today and tell me how it went.\n\n#lifequotes #inspiration #selfgrowth"
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Nothing is ours,",
+    "except time."
+   ],
+   "credit": "Seneca, Letters to Lucilius, I",
+   "caption": "Seneca wrote this 2,000 years ago. Your screen time report agrees.\n\nThe first of his letters to a friend opens with time, and how quietly it gets taken from us.\n\nShare this with someone who keeps saying they're too busy.\n\n#seneca #stoicism #timequotes"
   },
   {
-   "id": "d3-s4-pointer",
+   "id": "d3-1200-pointer",
+   "at": "2026-10-19T12:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
    "kind": "story",
    "story": "pointer",
    "media": "STORIES",
-   "at": "2026-10-19T14:30:00+05:30",
-   "palette": 0,
-   "text": "New on the grid:\nYou don't need a new life. You need ten quiet minutes with the one you have.",
-   "note": "Full post on the page"
+   "text": "This morning's reel:\nYou don't need a new life. You need ten quiet minutes with the one you have.",
+   "note": "Watch it on the page"
   },
   {
-   "id": "d3-s5-prompt",
+   "id": "d3-1300-noon",
+   "at": "2026-10-19T13:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "5 small habits for a calmer mind",
+    "sub": "None of them take more than ten minutes.",
+    "stake": "A calm mind isn't a personality. It's a few small habits, repeated.",
+    "slides": [
+     [
+      "Tea before messages.",
+      "",
+      "The first ten minutes of the day set the next ten hours."
+     ],
+     [
+      "One walk without earphones.",
+      "",
+      "Let your own thoughts finish a sentence."
+     ],
+     [
+      "Three lines before sleep.",
+      "",
+      "What happened, what you felt, what you're grateful for."
+     ],
+     [
+      "Say no once this week.",
+      "",
+      "Kindly. Without a long reason."
+     ],
+     [
+      "Phone sleeps outside the bedroom.",
+      "",
+      "An old alarm clock costs 200 rupees."
+     ]
+    ],
+    "recap": [
+     "Tea before messages",
+     "Walk without earphones",
+     "Three lines at night",
+     "One kind no",
+     "Phone out of the bedroom"
+    ],
+    "cta": "Save this. Try one habit tomorrow."
+   },
+   "caption": "5 small habits for a calmer mind. Number 5 is the hardest.\n\nSimple mental health habits that cost nothing and take ten minutes or less.\n\nSave it and try one tomorrow.\n\n#selfcare #mentalhealth #calm #habits"
+  },
+  {
+   "id": "d3-1400-prompt",
+   "at": "2026-10-19T14:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
    "kind": "story",
    "story": "prompt",
    "media": "STORIES",
-   "at": "2026-10-19T16:30:00+05:30",
-   "palette": 0,
    "text": "Describe today\nin one word.",
    "note": "Reply here. I read every one."
   },
   {
-   "id": "d3-f3-carousel",
+   "id": "d3-1500-line",
+   "at": "2026-10-19T15:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Not everyone who leaves",
+    "was meant to stay.",
+    "Some came",
+    "to show you the door."
+   ],
+   "credit": "",
+   "caption": "For the person who keeps replaying why they left.\n\nSome people are a chapter, not the book. That's allowed.\n\nShare it with someone who needs to let go.\n\n#lettinggo #poetry #healing"
+  },
+  {
+   "id": "d3-1600-reminder",
+   "at": "2026-10-19T16:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "Reminder:\ndrink some water,\nunclench your jaw."
+  },
+  {
+   "id": "d3-1700-choice2",
+   "at": "2026-10-19T17:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Handwritten letters",
+   "b": "Long phone calls"
+  },
+  {
+   "id": "d3-1800-main",
+   "at": "2026-10-19T18:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
    "kind": "carousel",
    "media": "CAROUSEL",
-   "at": "2026-10-19T18:30:00+05:30",
-   "palette": 0,
    "deck": {
     "cover": "5 old lines for a loud week",
     "sub": "Written up to 2,500 years ago. Still true on a Monday.",
@@ -528,122 +964,277 @@
    "caption": "5 old lines for a loud week. Swipe slowly.\n\nEpictetus, Marcus Aurelius, Emerson, Seneca and Lao Tzu. Philosophy and life quotes from people who lived through plagues, wars and empires falling, and still wrote calmly.\n\nMy favourite is the Seneca one. Which is yours?\n\nSave it for the week you need it.\n\n#stoicism #philosophy #wordsofwisdom #motivationalquotes"
   },
   {
-   "id": "d3-s6-fragment",
+   "id": "d3-1900-quote_pm",
+   "at": "2026-10-19T19:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "It is not that we have",
+    "a short space of time,",
+    "but that we waste",
+    "much of it."
+   ],
+   "credit": "Seneca, On the Shortness of Life",
+   "caption": "Seneca, before the evening scroll starts.\n\nHe wrote a whole essay on this, around the year 49. The point still lands at 7pm.\n\nSave it, then put the phone down for an hour.\n\n#seneca #shortnessoflife #stoicism"
+  },
+  {
+   "id": "d3-2000-pointer2",
+   "at": "2026-10-19T20:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\n5 old lines for a loud week",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d3-2100-fragment",
+   "at": "2026-10-19T21:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
    "kind": "story",
    "story": "fragment",
    "media": "STORIES",
-   "at": "2026-10-19T19:30:00+05:30",
-   "palette": 0,
    "text": "Some people are home\nwithout having a door."
   },
   {
-   "id": "d3-s7-prompt",
-   "kind": "story",
-   "story": "prompt",
-   "media": "STORIES",
-   "at": "2026-10-19T20:30:00+05:30",
+   "id": "d3-2200-poem",
+   "at": "2026-10-19T22:00:00+05:30",
+   "day": "2026-10-19",
    "palette": 0,
-   "text": "Finish this:\nI'm proud of myself for ___",
-   "note": "Reply and tell me."
-  },
-  {
-   "id": "d3-f4-reel",
    "kind": "reel",
    "media": "REELS",
-   "at": "2026-10-19T21:30:00+05:30",
-   "palette": 0,
    "lines": [
     "I left a light on",
     "for the person I was becoming.",
     "It took years.",
     "Tonight, they walked in."
    ],
+   "credit": "",
    "caption": "A four-line poem for anyone who finally feels like themselves.\n\nShort poems, every night at 9:30. This one is for the slow growers.\n\nShare it with someone who's becoming.\n\n#poetry #poetrycommunity #shortpoems"
   },
   {
-   "id": "d3-s8-night",
+   "id": "d3-2300-fill",
+   "at": "2026-10-19T23:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nI'm proud of myself for ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d3-0000-night",
+   "at": "2026-10-20T00:00:00+05:30",
+   "day": "2026-10-19",
+   "palette": 0,
    "kind": "story",
    "story": "night",
    "media": "STORIES",
-   "at": "2026-10-19T22:30:00+05:30",
-   "palette": 0,
    "text": "Goodnight.\nWhat didn't get done\ncan wait for the sun."
   },
   {
-   "id": "d4-s1-morning",
+   "id": "d4-0500-morning",
+   "at": "2026-10-20T05:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
    "kind": "story",
    "story": "morning",
    "media": "STORIES",
-   "at": "2026-10-20T07:30:00+05:30",
-   "palette": 1,
    "text": "Morning.\nThe day hasn't decided anything yet.\nNeither have you."
   },
   {
-   "id": "d4-f1-quote",
+   "id": "d4-0600-affirm",
+   "at": "2026-10-20T06:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "I'm allowed to\ntake up space."
+  },
+  {
+   "id": "d4-0700-thought",
+   "at": "2026-10-20T07:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Some days the win",
+    "is that you showed up.",
+    "Count it."
+   ],
+   "credit": "",
+   "caption": "Showing up on a bad day is a win. Count it.\n\nNot every day is a good day. Some days you just get out of bed, do the minimum and go back.\n\nThat still counts. The streak is what matters, not the score.\n\nShare this with someone who showed up today.\n\n#motivationalquotes #keepgoing #selfcare"
+  },
+  {
+   "id": "d4-0800-quote",
+   "at": "2026-10-20T08:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
    "kind": "quote",
    "media": "IMAGE",
-   "at": "2026-10-20T08:00:00+05:30",
-   "palette": 1,
    "quote": "We suffer more often in imagination than in reality.",
    "author": "Seneca",
    "source": "Letters to Lucilius, XIII",
    "caption": "Seneca wrote this to a friend who was scared of things that hadn't happened yet.\n\nThe full line: there are more things likely to frighten us than there are to crush us.\n\nThink of the last thing you dreaded for a week. How long did the actual thing take? Ten minutes? An hour?\n\nShare this with the friend who overthinks. They'll know why.\n\n#stoicism #seneca #overthinking"
   },
   {
-   "id": "d4-s2-quote",
+   "id": "d4-0900-quote",
+   "at": "2026-10-20T09:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
    "kind": "story",
    "story": "quote",
    "media": "STORIES",
-   "at": "2026-10-20T09:30:00+05:30",
-   "palette": 1,
    "quote": "That you are here, that life exists and identity,\nthat the powerful play goes on,\nand you may contribute a verse.",
    "author": "Walt Whitman, O Me! O Life!"
   },
   {
-   "id": "d4-s3-choice",
+   "id": "d4-1000-choice",
+   "at": "2026-10-20T10:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
    "kind": "story",
    "story": "choice",
    "media": "STORIES",
-   "at": "2026-10-20T11:30:00+05:30",
-   "palette": 1,
    "a": "Old letters",
    "b": "Voice notes"
   },
   {
-   "id": "d4-f2-thought",
-   "kind": "thought",
-   "media": "IMAGE",
-   "at": "2026-10-20T13:00:00+05:30",
+   "id": "d4-1100-quote_am",
+   "at": "2026-10-20T11:00:00+05:30",
+   "day": "2026-10-20",
    "palette": 1,
-   "text": "Some days the win\nis that you showed up.\nCount it.",
-   "caption": "Showing up on a bad day is a win. Count it.\n\nNot every day is a good day. Some days you just get out of bed, do the minimum and go back.\n\nThat still counts. The streak is what matters, not the score.\n\nShare this with someone who showed up today.\n\n#motivationalquotes #keepgoing #selfcare"
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "You cannot cross the sea",
+    "merely by standing",
+    "and staring at the water."
+   ],
+   "credit": "Rabindranath Tagore, Stray Birds",
+   "caption": "Tagore on the thing you keep planning and not starting.\n\nOne line from Stray Birds, 1916. Still the shortest push you'll get today.\n\nSave this for the morning you need it.\n\n#tagore #motivationalquotes #startnow"
   },
   {
-   "id": "d4-s4-pointer",
+   "id": "d4-1200-pointer",
+   "at": "2026-10-20T12:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
    "kind": "story",
    "story": "pointer",
    "media": "STORIES",
-   "at": "2026-10-20T14:30:00+05:30",
-   "palette": 1,
-   "text": "New on the grid:\nSome days the win is that you showed up. Count it.",
-   "note": "Full post on the page"
+   "text": "This morning's reel:\nSome days the win is that you showed up. Count it.",
+   "note": "Watch it on the page"
   },
   {
-   "id": "d4-s5-prompt",
+   "id": "d4-1300-noon",
+   "at": "2026-10-20T13:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "Free things that are still priceless",
+    "sub": "A short list. Add yours.",
+    "stake": "The best things in your week probably didn't cost anything.",
+    "slides": [
+     [
+      "A long call with an old friend.",
+      "",
+      "The kind where you lose track of time."
+     ],
+     [
+      "Sunrise, on purpose.",
+      "",
+      "Not on the way to work. Just to watch it."
+     ],
+     [
+      "A library card.",
+      "",
+      "Thousands of lives, for free."
+     ],
+     [
+      "Saying sorry first.",
+      "",
+      "Costs pride. Saves years."
+     ],
+     [
+      "Your mother's voice note.",
+      "",
+      "Keep them. All of them."
+     ]
+    ],
+    "recap": [
+     "Old friends",
+     "Sunrise",
+     "Libraries",
+     "Sorry, first",
+     "Mum's voice notes"
+    ],
+    "cta": "What's on your list? Tell me in the comments."
+   },
+   "caption": "Free things that are still priceless. The last one got me.\n\nGratitude lists don't need to be big. These are small and free.\n\nTell me what's on your list in the comments.\n\n#gratitude #simplelife #lifequotes #happiness"
+  },
+  {
+   "id": "d4-1400-prompt",
+   "at": "2026-10-20T14:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
    "kind": "story",
    "story": "prompt",
    "media": "STORIES",
-   "at": "2026-10-20T16:30:00+05:30",
-   "palette": 1,
    "text": "One word for\nhow your heart is doing?",
    "note": "Reply here. I read every one."
   },
   {
-   "id": "d4-f3-carousel",
+   "id": "d4-1500-line",
+   "at": "2026-10-20T15:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Your pace",
+    "is not wrong.",
+    "It's yours."
+   ],
+   "credit": "",
+   "caption": "A reminder for anyone comparing timelines today.\n\nSomeone got engaged, someone got promoted, someone bought a flat. You're still on your own clock.\n\nShare it with a friend who feels behind.\n\n#selfgrowth #comparison #motivationalquotes"
+  },
+  {
+   "id": "d4-1600-reminder",
+   "at": "2026-10-20T16:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "Reminder:\nstand up,\nstretch for a minute."
+  },
+  {
+   "id": "d4-1700-choice2",
+   "at": "2026-10-20T17:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Rainy evenings",
+   "b": "Winter mornings"
+  },
+  {
+   "id": "d4-1800-main",
+   "at": "2026-10-20T18:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
    "kind": "carousel",
    "media": "CAROUSEL",
-   "at": "2026-10-20T18:30:00+05:30",
-   "palette": 1,
    "deck": {
     "kind": "poem",
     "cover": "Emily Dickinson wrote hope as a bird",
@@ -678,122 +1269,278 @@
    "caption": "Emily Dickinson wrote hope as a bird. Read it one line at a time.\n\nOne of the best known poems about hope in English, and it's only the first stanza.\n\nShe didn't title it. She almost never titled anything. The world just started calling it by its first line.\n\nShare it with someone who needs a little bird today.\n\n#emilydickinson #poetry #quotesabouthope #classicpoetry"
   },
   {
-   "id": "d4-s6-fragment",
+   "id": "d4-1900-quote_pm",
+   "at": "2026-10-20T19:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Clouds come floating into my life,",
+    "no longer to carry rain",
+    "or usher storm,",
+    "but to add colour",
+    "to my sunset sky."
+   ],
+   "credit": "Rabindranath Tagore, Stray Birds",
+   "caption": "Tagore on what the hard years look like from far away.\n\nWhat felt like a storm at the time, later just looks like colour.\n\nShare it with someone who's past their storm.\n\n#tagore #poetry #sunset"
+  },
+  {
+   "id": "d4-2000-pointer2",
+   "at": "2026-10-20T20:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\nEmily Dickinson wrote hope as a bird",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d4-2100-fragment",
+   "at": "2026-10-20T21:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
    "kind": "story",
    "story": "fragment",
    "media": "STORIES",
-   "at": "2026-10-20T19:30:00+05:30",
-   "palette": 1,
    "text": "I counted my worries tonight.\nMost of them were tomorrow's."
   },
   {
-   "id": "d4-s7-prompt",
-   "kind": "story",
-   "story": "prompt",
-   "media": "STORIES",
-   "at": "2026-10-20T20:30:00+05:30",
+   "id": "d4-2200-poem",
+   "at": "2026-10-20T22:00:00+05:30",
+   "day": "2026-10-20",
    "palette": 1,
-   "text": "Finish this:\nThe best advice I ever got was ___",
-   "note": "Reply and tell me."
-  },
-  {
-   "id": "d4-f4-reel",
    "kind": "reel",
    "media": "REELS",
-   "at": "2026-10-20T21:30:00+05:30",
-   "palette": 1,
    "lines": [
     "The tea went cold",
     "while I worried about Thursday.",
     "Thursday came. I was fine.",
     "The tea wasn't."
    ],
+   "credit": "",
    "caption": "A short poem about overthinking, and cold tea.\n\nMost of what we worry about turns out fine. The tea is the only real loss.\n\nTag the friend whose tea is always cold.\n\n#shortpoems #overthinking #poetry"
   },
   {
-   "id": "d4-s8-night",
+   "id": "d4-2300-fill",
+   "at": "2026-10-20T23:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nThe best advice I ever got was ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d4-0000-night",
+   "at": "2026-10-21T00:00:00+05:30",
+   "day": "2026-10-20",
+   "palette": 1,
    "kind": "story",
    "story": "night",
    "media": "STORIES",
-   "at": "2026-10-20T22:30:00+05:30",
-   "palette": 1,
    "text": "Goodnight.\nYou did more than you think."
   },
   {
-   "id": "d5-s1-morning",
+   "id": "d5-0500-morning",
+   "at": "2026-10-21T05:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
    "kind": "story",
    "story": "morning",
    "media": "STORIES",
-   "at": "2026-10-21T07:30:00+05:30",
-   "palette": 2,
    "text": "Good morning.\nWater first. Then the world."
   },
   {
-   "id": "d5-f1-quote",
+   "id": "d5-0600-affirm",
+   "at": "2026-10-21T06:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "I don't have to\nhave it all figured out\nby tonight."
+  },
+  {
+   "id": "d5-0700-thought",
+   "at": "2026-10-21T07:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Keep the people",
+    "who stayed",
+    "when you were boring."
+   ],
+   "credit": "",
+   "caption": "The friends who stayed when you had nothing exciting going on? Keep them.\n\nEveryone shows up for the wedding, the promotion, the trip photos.\n\nFewer people show up for the Tuesday when you have nothing to say. Those are the ones.\n\nTag one of yours.\n\n#friendshipquotes #lifequotes #truefriends"
+  },
+  {
+   "id": "d5-0800-quote",
+   "at": "2026-10-21T08:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
    "kind": "quote",
    "media": "IMAGE",
-   "at": "2026-10-21T08:00:00+05:30",
-   "palette": 2,
    "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
    "author": "Helen Keller",
    "source": "Optimism, 1903",
    "caption": "Helen Keller wrote an entire essay on optimism at 23, after losing sight and hearing at 19 months old.\n\nIt's not the cheerful kind of optimism. It's the stubborn kind, the one that does the work anyway.\n\nQuotes about hope usually come from people who had it easy. This one didn't.\n\nSave it for a week when hope feels expensive.\n\n#helenkeller #hope #motivationalquotes"
   },
   {
-   "id": "d5-s2-quote",
+   "id": "d5-0900-quote",
+   "at": "2026-10-21T09:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
    "kind": "story",
    "story": "quote",
    "media": "STORIES",
-   "at": "2026-10-21T09:30:00+05:30",
-   "palette": 2,
    "quote": "Let right deeds be thy motive,\nnot the fruit which comes from them.",
    "author": "Bhagavad Gita 2.47, tr. Edwin Arnold"
   },
   {
-   "id": "d5-s3-choice",
+   "id": "d5-1000-choice",
+   "at": "2026-10-21T10:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
    "kind": "story",
    "story": "choice",
    "media": "STORIES",
-   "at": "2026-10-21T11:30:00+05:30",
-   "palette": 2,
    "a": "Mountains",
    "b": "Sea"
   },
   {
-   "id": "d5-f2-thought",
-   "kind": "thought",
-   "media": "IMAGE",
-   "at": "2026-10-21T13:00:00+05:30",
+   "id": "d5-1100-quote_am",
+   "at": "2026-10-21T11:00:00+05:30",
+   "day": "2026-10-21",
    "palette": 2,
-   "text": "Keep the people\nwho stayed\nwhen you were boring.",
-   "caption": "The friends who stayed when you had nothing exciting going on? Keep them.\n\nEveryone shows up for the wedding, the promotion, the trip photos.\n\nFewer people show up for the Tuesday when you have nothing to say. Those are the ones.\n\nTag one of yours.\n\n#friendshipquotes #lifequotes #truefriends"
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "To be great",
+    "is to be misunderstood."
+   ],
+   "credit": "Ralph Waldo Emerson, Self-Reliance",
+   "caption": "Emerson, for anyone whose family doesn't get their plan yet.\n\nRight before it he names Socrates, Galileo and Newton as people who were misunderstood. Good company.\n\nShare it with someone who's being doubted right now.\n\n#emerson #selfreliance #motivationalquotes"
   },
   {
-   "id": "d5-s4-pointer",
+   "id": "d5-1200-pointer",
+   "at": "2026-10-21T12:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
    "kind": "story",
    "story": "pointer",
    "media": "STORIES",
-   "at": "2026-10-21T14:30:00+05:30",
-   "palette": 2,
-   "text": "New on the grid:\nKeep the people who stayed when you were boring.",
-   "note": "Full post on the page"
+   "text": "This morning's reel:\nKeep the people who stayed when you were boring.",
+   "note": "Watch it on the page"
   },
   {
-   "id": "d5-s5-prompt",
+   "id": "d5-1300-noon",
+   "at": "2026-10-21T13:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "How to be a good friend, quietly",
+    "sub": "Nothing dramatic. All of it matters.",
+    "stake": "The best friends don't make big speeches. They do small things.",
+    "slides": [
+     [
+      "Remember the small things.",
+      "",
+      "Their exam date. Their mum's name. How they take their chai."
+     ],
+     [
+      "Text back when it matters.",
+      "",
+      "Not always fast. But never when they need you."
+     ],
+     [
+      "Show up without being asked.",
+      "",
+      "Hospital, house move, bad day."
+     ],
+     [
+      "Listen without fixing.",
+      "",
+      "Sometimes they just want you to hear it."
+     ],
+     [
+      "Celebrate them loudly.",
+      "",
+      "Their wins are not your losses."
+     ]
+    ],
+    "recap": [
+     "Remember small things",
+     "Text back when it counts",
+     "Show up",
+     "Listen, don't fix",
+     "Celebrate them"
+    ],
+    "cta": "Share this with the friend who does all five."
+   },
+   "caption": "How to be a good friend, quietly. Five things.\n\nFriendship quotes are everywhere. This is the practical version.\n\nShare it with the friend who does all five.\n\n#friendship #friendshipquotes #truefriends #lifelessons"
+  },
+  {
+   "id": "d5-1400-prompt",
+   "at": "2026-10-21T14:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
    "kind": "story",
    "story": "prompt",
    "media": "STORIES",
-   "at": "2026-10-21T16:30:00+05:30",
-   "palette": 2,
    "text": "One word you needed\nto hear this week?",
    "note": "Reply here. I read every one."
   },
   {
-   "id": "d5-f3-carousel",
+   "id": "d5-1500-line",
+   "at": "2026-10-21T15:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Small steps, every day,",
+    "look like nothing",
+    "until they look",
+    "like everything."
+   ],
+   "credit": "",
+   "caption": "If your progress feels invisible, read this.\n\nTen pages a day is a book a month. Ten minutes a day is sixty hours a year.\n\nSave this and come back in 30 days.\n\n#consistency #motivation #smallsteps"
+  },
+  {
+   "id": "d5-1600-reminder",
+   "at": "2026-10-21T16:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "Reminder:\nyou haven't eaten properly.\nGo."
+  },
+  {
+   "id": "d5-1700-choice2",
+   "at": "2026-10-21T17:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Poetry",
+   "b": "Novels"
+  },
+  {
+   "id": "d5-1800-main",
+   "at": "2026-10-21T18:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
    "kind": "carousel",
    "media": "CAROUSEL",
-   "at": "2026-10-21T18:30:00+05:30",
-   "palette": 2,
    "deck": {
     "cover": "4 tiny poems from Tagore",
     "sub": "Some barely a sentence. All of them enough.",
@@ -831,122 +1578,282 @@
    "caption": "Tagore could fit a whole life into one sentence. Here are four.\n\nRabindranath Tagore, the first non-European to win the Nobel Prize in Literature, in 1913.\n\nStray Birds and Fireflies are his shortest poems and maybe his most quoted.\n\nComment the number of the one that stays with you.\n\n#tagore #rabindranathtagore #poetry #indianpoetry"
   },
   {
-   "id": "d5-s6-fragment",
+   "id": "d5-1900-quote_pm",
+   "at": "2026-10-21T19:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "No man is free",
+    "who is not master",
+    "of himself."
+   ],
+   "credit": "Epictetus, Fragments",
+   "caption": "Epictetus was born a slave. This is what he said about freedom.\n\nHe later taught philosophy in Rome and in Greece. Freedom, for him, started inside.\n\nSave it for the next time your phone is running your evening.\n\n#epictetus #stoicism #selfcontrol"
+  },
+  {
+   "id": "d5-2000-pointer2",
+   "at": "2026-10-21T20:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\n4 tiny poems from Tagore",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d5-2100-fragment",
+   "at": "2026-10-21T21:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
    "kind": "story",
    "story": "fragment",
    "media": "STORIES",
-   "at": "2026-10-21T19:30:00+05:30",
-   "palette": 2,
    "text": "The moon doesn't hurry,\nand it still gets everywhere."
   },
   {
-   "id": "d5-s7-prompt",
-   "kind": "story",
-   "story": "prompt",
-   "media": "STORIES",
-   "at": "2026-10-21T20:30:00+05:30",
+   "id": "d5-2200-poem",
+   "at": "2026-10-21T22:00:00+05:30",
+   "day": "2026-10-21",
    "palette": 2,
-   "text": "Finish this:\nThis year taught me ___",
-   "note": "Reply and tell me."
-  },
-  {
-   "id": "d5-f4-reel",
    "kind": "reel",
    "media": "REELS",
-   "at": "2026-10-21T21:30:00+05:30",
-   "palette": 2,
    "lines": [
     "Not every season blooms.",
     "Some just hold the roots",
     "and wait,",
     "and that is also growing."
    ],
+   "credit": "",
    "caption": "If you feel stuck, this poem is for you.\n\nWinter isn't failure. The roots are busy. So are you.\n\nSave it for the slow season.\n\n#poetry #growth #shortpoems"
   },
   {
-   "id": "d5-s8-night",
+   "id": "d5-2300-fill",
+   "at": "2026-10-21T23:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nThis year taught me ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d5-0000-night",
+   "at": "2026-10-22T00:00:00+05:30",
+   "day": "2026-10-21",
+   "palette": 2,
    "kind": "story",
    "story": "night",
    "media": "STORIES",
-   "at": "2026-10-21T22:30:00+05:30",
-   "palette": 2,
    "text": "Rest now.\nThe worrying can clock out too."
   },
   {
-   "id": "d6-s1-morning",
+   "id": "d6-0500-morning",
+   "at": "2026-10-22T05:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
    "kind": "story",
    "story": "morning",
    "media": "STORIES",
-   "at": "2026-10-22T07:30:00+05:30",
-   "palette": 3,
    "text": "Morning.\nBe a little kinder than yesterday.\nThat's the whole plan."
   },
   {
-   "id": "d6-f1-quote",
+   "id": "d6-0600-affirm",
+   "at": "2026-10-22T06:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "I'm getting better,\neven when\nit doesn't feel like it."
+  },
+  {
+   "id": "d6-0700-thought",
+   "at": "2026-10-22T07:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Rest is not a reward",
+    "for finishing.",
+    "It's part of how you finish."
+   ],
+   "credit": "",
+   "caption": "If you only rest after the work is done, you'll never rest.\n\nThe work is never done. There's always one more email.\n\nAthletes plan rest days. Farmers let fields sit. You're allowed to stop before you're empty.\n\nSave it for the next time you feel guilty about a nap.\n\n#rest #selfcare #inspiration"
+  },
+  {
+   "id": "d6-0800-quote",
+   "at": "2026-10-22T08:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
    "kind": "quote",
    "media": "IMAGE",
-   "at": "2026-10-22T08:00:00+05:30",
-   "palette": 3,
    "quote": "Life is like riding a bicycle. To keep your balance you must keep moving.",
    "author": "Albert Einstein",
    "source": "letter to his son Eduard, 1930",
    "caption": "Einstein wrote this in a letter to his 19-year-old son, who was going through a hard time.\n\nNo equations. Just a dad telling his kid to keep pedalling.\n\nMoving doesn't mean fast. It means not stopping completely. Small counts.\n\nWhich part of your life needs one small push this week? Tell me below.\n\n#einstein #lifequotes #keepgoing"
   },
   {
-   "id": "d6-s2-quote",
+   "id": "d6-0900-quote",
+   "at": "2026-10-22T09:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
    "kind": "story",
    "story": "quote",
    "media": "STORIES",
-   "at": "2026-10-22T09:30:00+05:30",
-   "palette": 3,
    "quote": "Your children are not your children.\nThey are the sons and daughters\nof Life's longing for itself.",
    "author": "Kahlil Gibran, The Prophet"
   },
   {
-   "id": "d6-s3-choice",
+   "id": "d6-1000-choice",
+   "at": "2026-10-22T10:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
    "kind": "story",
    "story": "choice",
    "media": "STORIES",
-   "at": "2026-10-22T11:30:00+05:30",
-   "palette": 3,
    "a": "Books",
    "b": "Long walks"
   },
   {
-   "id": "d6-f2-thought",
-   "kind": "thought",
-   "media": "IMAGE",
-   "at": "2026-10-22T13:00:00+05:30",
+   "id": "d6-1100-quote_am",
+   "at": "2026-10-22T11:00:00+05:30",
+   "day": "2026-10-22",
    "palette": 3,
-   "text": "Rest is not a reward\nfor finishing.\nIt's part of how you finish.",
-   "caption": "If you only rest after the work is done, you'll never rest.\n\nThe work is never done. There's always one more email.\n\nAthletes plan rest days. Farmers let fields sit. You're allowed to stop before you're empty.\n\nSave it for the next time you feel guilty about a nap.\n\n#rest #selfcare #inspiration"
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Things do not change;",
+    "we change."
+   ],
+   "credit": "Henry David Thoreau, Walden",
+   "caption": "Five words from Walden for anyone waiting for life to change.\n\nThoreau spent two years in a cabin he built himself. This is one of the things he came back with.\n\nSave it and read it again on Sunday.\n\n#thoreau #walden #lifequotes"
   },
   {
-   "id": "d6-s4-pointer",
+   "id": "d6-1200-pointer",
+   "at": "2026-10-22T12:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
    "kind": "story",
    "story": "pointer",
    "media": "STORIES",
-   "at": "2026-10-22T14:30:00+05:30",
-   "palette": 3,
-   "text": "New on the grid:\nRest is not a reward for finishing. It's part of how you finish.",
-   "note": "Full post on the page"
+   "text": "This morning's reel:\nRest is not a reward for finishing. It's part of how you finish.",
+   "note": "Watch it on the page"
   },
   {
-   "id": "d6-s5-prompt",
+   "id": "d6-1300-noon",
+   "at": "2026-10-22T13:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "6 sentences to say more often",
+    "sub": "Short. Free. Hard to say.",
+    "stake": "Most relationships are repaired with six or seven words.",
+    "slides": [
+     [
+      "\"I'm proud of you.\"",
+      "",
+      "Parents, kids, friends, colleagues. Everyone needs it."
+     ],
+     [
+      "\"Take your time.\"",
+      "",
+      "The kindest thing you can give someone in a hurry."
+     ],
+     [
+      "\"I was wrong.\"",
+      "",
+      "Three words that end a lot of fights."
+     ],
+     [
+      "\"Tell me more.\"",
+      "",
+      "Makes anyone feel interesting."
+     ],
+     [
+      "\"You did enough today.\"",
+      "",
+      "Say it to yourself too."
+     ],
+     [
+      "\"I'm here.\"",
+      "",
+      "No advice needed after it."
+     ]
+    ],
+    "recap": [
+     "I'm proud of you",
+     "Take your time",
+     "I was wrong",
+     "Tell me more",
+     "You did enough today",
+     "I'm here"
+    ],
+    "cta": "Which one will you say today? Comment its number."
+   },
+   "caption": "6 sentences to say more often. Number 3 is the hardest.\n\nKind words cost nothing and fix more than long conversations.\n\nComment the number you'll say today.\n\n#kindwords #relationships #lifequotes #kindness"
+  },
+  {
+   "id": "d6-1400-prompt",
+   "at": "2026-10-22T14:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
    "kind": "story",
    "story": "prompt",
    "media": "STORIES",
-   "at": "2026-10-22T16:30:00+05:30",
-   "palette": 3,
    "text": "One small thing\nthat made you smile today?",
    "note": "Reply here. I read every one."
   },
   {
-   "id": "d6-f3-carousel",
+   "id": "d6-1500-line",
+   "at": "2026-10-22T15:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Some chapters",
+    "close quietly.",
+    "You're still allowed",
+    "to turn the page."
+   ],
+   "credit": "",
+   "caption": "Not every ending gets a goodbye.\n\nFriendships fade, jobs end, cities change. No closure needed to move on.\n\nShare it with someone turning a page.\n\n#newbeginnings #poetry #lifequotes"
+  },
+  {
+   "id": "d6-1600-reminder",
+   "at": "2026-10-22T16:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "Reminder:\nlook at something\nfar away for 20 seconds."
+  },
+  {
+   "id": "d6-1700-choice2",
+   "at": "2026-10-22T17:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Old songs",
+   "b": "New songs"
+  },
+  {
+   "id": "d6-1800-main",
+   "at": "2026-10-22T18:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
    "kind": "carousel",
    "media": "CAROUSEL",
-   "at": "2026-10-22T18:30:00+05:30",
-   "palette": 3,
    "deck": {
     "cover": "6 things I wish I knew at 25",
     "sub": "Nobody handed me this list. So here it is.",
@@ -996,122 +1903,278 @@
    "caption": "6 things I wish someone told me at 25. Number 6 took me the longest.\n\nLife lessons don't come with a manual. They come late, usually after the mistake.\n\nIf you're 25 now, screenshot the last slide. If you're past it, you know.\n\nAdd your number 7 in the comments.\n\n#lifelessons #lifequotes #adulting #selfgrowth"
   },
   {
-   "id": "d6-s6-fragment",
+   "id": "d6-1900-quote_pm",
+   "at": "2026-10-22T19:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Forever",
+    "is composed",
+    "of nows."
+   ],
+   "credit": "Emily Dickinson",
+   "caption": "Emily Dickinson's shortest answer to the future.\n\nFour words, from a poem she wrote around 1862. Tonight is one of the nows.\n\nShare it with someone you want to spend more nows with.\n\n#emilydickinson #poetry #presentmoment"
+  },
+  {
+   "id": "d6-2000-pointer2",
+   "at": "2026-10-22T20:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\n6 things I wish I knew at 25",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d6-2100-fragment",
+   "at": "2026-10-22T21:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
    "kind": "story",
    "story": "fragment",
    "media": "STORIES",
-   "at": "2026-10-22T19:30:00+05:30",
-   "palette": 3,
    "text": "Be soft.\nEven rivers carve stone that way."
   },
   {
-   "id": "d6-s7-prompt",
-   "kind": "story",
-   "story": "prompt",
-   "media": "STORIES",
-   "at": "2026-10-22T20:30:00+05:30",
+   "id": "d6-2200-poem",
+   "at": "2026-10-22T22:00:00+05:30",
+   "day": "2026-10-22",
    "palette": 3,
-   "text": "Finish this:\nI feel most like me when ___",
-   "note": "Reply and tell me."
-  },
-  {
-   "id": "d6-f4-reel",
    "kind": "reel",
    "media": "REELS",
-   "at": "2026-10-22T21:30:00+05:30",
-   "palette": 3,
    "lines": [
     "My mother never said \"I love you.\"",
     "She said \"have you eaten?\"",
     "Every single day.",
     "Same thing."
    ],
+   "credit": "",
    "caption": "Our mothers said I love you in their own language.\n\nHave you eaten. Did you reach home. Take a jacket. Call when you get there.\n\nIt was always the same sentence.\n\nWhat did yours say instead? Tell me below.\n\n#motherslove #poetry #indianmoms"
   },
   {
-   "id": "d6-s8-night",
+   "id": "d6-2300-fill",
+   "at": "2026-10-22T23:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nI feel most like me when ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d6-0000-night",
+   "at": "2026-10-23T00:00:00+05:30",
+   "day": "2026-10-22",
+   "palette": 3,
    "kind": "story",
    "story": "night",
    "media": "STORIES",
-   "at": "2026-10-22T22:30:00+05:30",
-   "palette": 3,
    "text": "Goodnight.\nPut the phone down after this one."
   },
   {
-   "id": "d7-s1-morning",
+   "id": "d7-0500-morning",
+   "at": "2026-10-23T05:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
    "kind": "story",
    "story": "morning",
    "media": "STORIES",
-   "at": "2026-10-23T07:30:00+05:30",
-   "palette": 4,
    "text": "Good morning.\nYou slept. You woke up.\nThat's two things done."
   },
   {
-   "id": "d7-f1-quote",
+   "id": "d7-0600-affirm",
+   "at": "2026-10-23T06:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "I can be proud\nand still be growing."
+  },
+  {
+   "id": "d7-0700-thought",
+   "at": "2026-10-23T07:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Nobody remembers your bad haircut.",
+    "They remember",
+    "how you made the room feel."
+   ],
+   "credit": "",
+   "caption": "Nobody remembers your bad haircut. Promise.\n\nThink of your favourite teacher. You probably can't remember what they wore. You remember how they spoke to you.\n\nThat's what people keep of us.\n\nWho made a room feel good for you? Tell me about them below.\n\n#lifequotes #inspiration #selfgrowth"
+  },
+  {
+   "id": "d7-0800-quote",
+   "at": "2026-10-23T08:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
    "kind": "quote",
    "media": "IMAGE",
-   "at": "2026-10-23T08:00:00+05:30",
-   "palette": 4,
    "quote": "Everything can be taken from a man but one thing: the last of the human freedoms, to choose one's attitude in any given set of circumstances.",
    "author": "Viktor Frankl",
    "source": "Man's Search for Meaning, 1946",
    "caption": "Viktor Frankl wrote this after surviving four concentration camps.\n\nHe lost his parents, his brother and his wife. He came out and wrote a book about meaning.\n\nWhen people say attitude is a choice, it can sound cheap. From him, it isn't.\n\nShare it with someone who's carrying a lot right now.\n\n#viktorfrankl #mansearchformeaning #wordsofwisdom"
   },
   {
-   "id": "d7-s2-quote",
+   "id": "d7-0900-quote",
+   "at": "2026-10-23T09:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
    "kind": "story",
    "story": "quote",
    "media": "STORIES",
-   "at": "2026-10-23T09:30:00+05:30",
-   "palette": 4,
    "quote": "The mass of men lead lives\nof quiet desperation.",
    "author": "Henry David Thoreau, Walden"
   },
   {
-   "id": "d7-s3-choice",
+   "id": "d7-1000-choice",
+   "at": "2026-10-23T10:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
    "kind": "story",
    "story": "choice",
    "media": "STORIES",
-   "at": "2026-10-23T11:30:00+05:30",
-   "palette": 4,
    "a": "Early bird",
    "b": "Night owl"
   },
   {
-   "id": "d7-f2-thought",
-   "kind": "thought",
-   "media": "IMAGE",
-   "at": "2026-10-23T13:00:00+05:30",
+   "id": "d7-1100-quote_am",
+   "at": "2026-10-23T11:00:00+05:30",
+   "day": "2026-10-23",
    "palette": 4,
-   "text": "Nobody remembers your bad haircut.\nThey remember\nhow you made the room feel.",
-   "caption": "Nobody remembers your bad haircut. Promise.\n\nThink of your favourite teacher. You probably can't remember what they wore. You remember how they spoke to you.\n\nThat's what people keep of us.\n\nWho made a room feel good for you? Tell me about them below.\n\n#lifequotes #inspiration #selfgrowth"
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Although the world",
+    "is full of suffering,",
+    "it is full also",
+    "of the overcoming of it."
+   ],
+   "credit": "Helen Keller, Optimism, 1903",
+   "caption": "Helen Keller on the part of the news nobody reports.\n\nFor every hard story, there's someone who got through it. Usually quietly.\n\nShare it with someone who's getting through something.\n\n#helenkeller #hope #inspiration"
   },
   {
-   "id": "d7-s4-pointer",
+   "id": "d7-1200-pointer",
+   "at": "2026-10-23T12:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
    "kind": "story",
    "story": "pointer",
    "media": "STORIES",
-   "at": "2026-10-23T14:30:00+05:30",
-   "palette": 4,
-   "text": "New on the grid:\nNobody remembers your bad haircut. They remember how you made the room feel.",
-   "note": "Full post on the page"
+   "text": "This morning's reel:\nNobody remembers your bad haircut. They remember how you made the room feel.",
+   "note": "Watch it on the page"
   },
   {
-   "id": "d7-s5-prompt",
+   "id": "d7-1300-noon",
+   "at": "2026-10-23T13:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "Signs you're healing that nobody posts about",
+    "sub": "Quiet ones. Real ones.",
+    "stake": "Healing doesn't look like a glow-up. It looks like this.",
+    "slides": [
+     [
+      "You sleep through the night.",
+      "",
+      "The 3am replay stopped without you noticing."
+     ],
+     [
+      "Old songs don't hurt the same.",
+      "",
+      "You can listen and stay."
+     ],
+     [
+      "You say no without a speech.",
+      "",
+      "No guilt essay needed."
+     ],
+     [
+      "You enjoy being alone.",
+      "",
+      "Lonely turned into peaceful."
+     ],
+     [
+      "You stopped checking.",
+      "",
+      "Their profile, their status, their story."
+     ]
+    ],
+    "recap": [
+     "You sleep",
+     "Songs are just songs",
+     "No without a speech",
+     "Alone is peaceful",
+     "You stopped checking"
+    ],
+    "cta": "Share it with someone who's healing."
+   },
+   "caption": "Signs you're healing that nobody posts about.\n\nHealing quotes usually talk about big moments. Most of it is small and quiet.\n\nShare it with someone who's healing.\n\n#healing #selfgrowth #mentalhealth #movingon"
+  },
+  {
+   "id": "d7-1400-prompt",
+   "at": "2026-10-23T14:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
    "kind": "story",
    "story": "prompt",
    "media": "STORIES",
-   "at": "2026-10-23T16:30:00+05:30",
-   "palette": 4,
    "text": "One word for the person\nyou're becoming.",
    "note": "Reply here. I read every one."
   },
   {
-   "id": "d7-f3-carousel",
+   "id": "d7-1500-line",
+   "at": "2026-10-23T15:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Peace is not a place.",
+    "It's the moment you stop",
+    "arguing",
+    "with what is."
+   ],
+   "credit": "",
+   "caption": "Looking for peace? It's not in the next holiday.\n\nMost of the noise is the fight with what already happened.\n\nSave it for the next argument in your head.\n\n#innerpeace #mindfulness #inspiration"
+  },
+  {
+   "id": "d7-1600-reminder",
+   "at": "2026-10-23T16:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
+   "kind": "story",
+   "story": "morning",
+   "media": "STORIES",
+   "text": "Reminder:\nreply to the message\nyou've been avoiding."
+  },
+  {
+   "id": "d7-1700-choice2",
+   "at": "2026-10-23T17:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Mountains at dawn",
+   "b": "Beach at sunset"
+  },
+  {
+   "id": "d7-1800-main",
+   "at": "2026-10-23T18:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
    "kind": "carousel",
    "media": "CAROUSEL",
-   "at": "2026-10-23T18:30:00+05:30",
-   "palette": 4,
    "deck": {
     "kind": "poem",
     "cover": "The most misread poem in English",
@@ -1150,45 +2213,77 @@
    "caption": "The Road Not Taken doesn't say what most people think it says.\n\nRobert Frost's most famous poem is quoted at graduations as advice to be different. Read the middle stanza and the roads were 'really about the same'.\n\nIt's about how we tell our life story afterwards. Which might be a better lesson.\n\nDid you know this? Tell me yes or no below.\n\n#robertfrost #poetry #theroadnottaken #classicpoetry"
   },
   {
-   "id": "d7-s6-fragment",
+   "id": "d7-1900-quote_pm",
+   "at": "2026-10-23T19:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Darkness cannot drive out darkness;",
+    "only light can do that.",
+    "Hate cannot drive out hate;",
+    "only love can do that."
+   ],
+   "credit": "Martin Luther King Jr., Strength to Love",
+   "caption": "Martin Luther King Jr. on the only thing that has ever worked.\n\nFrom his 1963 book of sermons, Strength to Love.\n\nShare it. Somebody needs it tonight.\n\n#martinlutherking #love #wordsofwisdom"
+  },
+  {
+   "id": "d7-2000-pointer2",
+   "at": "2026-10-23T20:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\nThe most misread poem in English",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d7-2100-fragment",
+   "at": "2026-10-23T21:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
    "kind": "story",
    "story": "fragment",
    "media": "STORIES",
-   "at": "2026-10-23T19:30:00+05:30",
-   "palette": 4,
    "text": "You are not late.\nYou are on your own clock."
   },
   {
-   "id": "d7-s7-prompt",
-   "kind": "story",
-   "story": "prompt",
-   "media": "STORIES",
-   "at": "2026-10-23T20:30:00+05:30",
+   "id": "d7-2200-poem",
+   "at": "2026-10-23T22:00:00+05:30",
+   "day": "2026-10-23",
    "palette": 4,
-   "text": "Finish this:\nA song that saved me was ___",
-   "note": "Reply and tell me."
-  },
-  {
-   "id": "d7-f4-reel",
    "kind": "reel",
    "media": "REELS",
-   "at": "2026-10-23T21:30:00+05:30",
-   "palette": 4,
    "lines": [
     "You are allowed to outgrow",
     "the room you prayed for.",
     "Say thank you.",
     "Open the door."
    ],
+   "credit": "",
    "caption": "A poem for when the dream you got doesn't fit any more.\n\nThe job, the city, the relationship. You wanted it, you got it, and now you want something else. That's not ungrateful. That's growing.\n\nShare it with someone standing at a door.\n\n#poetry #lettinggo #selfgrowth"
   },
   {
-   "id": "d7-s8-night",
+   "id": "d7-2300-fill",
+   "at": "2026-10-23T23:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nA song that saved me was ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d7-0000-night",
+   "at": "2026-10-24T00:00:00+05:30",
+   "day": "2026-10-23",
+   "palette": 4,
    "kind": "story",
    "story": "night",
    "media": "STORIES",
-   "at": "2026-10-23T22:30:00+05:30",
-   "palette": 4,
    "text": "Sleep well.\nTomorrow is a clean page."
   }
  ]

@@ -1,25 +1,13 @@
 name: thoughts4us autopost
 
-# One run shortly after each posting slot (IST = UTC+5:30). GitHub can start
-# scheduled runs late on busy days; autopost.py publishes whatever is due, so a
-# late run still posts, and stories more than 2h late are skipped.
-#
-#   IST   07:30 08:00 09:30 11:30 13:00 14:30 16:30 18:30 19:30 20:30 21:30 22:30
-#   UTC   02:00 02:30 04:00 06:00 07:30 09:00 11:00 13:00 14:00 15:00 16:00 17:00
+# One run shortly after every hour from 05:00 to 00:00 IST (UTC+5:30), which
+# is 23:30 to 18:30 UTC. GitHub can start scheduled runs late on busy days;
+# autopost.py publishes whatever is due, so a late run still posts, and
+# stories more than 2h late are skipped.
 on:
   schedule:
-    - cron: "3 2 * * *"
-    - cron: "33 2 * * *"
-    - cron: "3 4 * * *"
-    - cron: "3 6 * * *"
-    - cron: "33 7 * * *"
-    - cron: "3 9 * * *"
-    - cron: "3 11 * * *"
-    - cron: "3 13 * * *"
-    - cron: "3 14 * * *"
-    - cron: "3 15 * * *"
-    - cron: "3 16 * * *"
-    - cron: "3 17 * * *"
+    - cron: "33 23 * * *"
+    - cron: "33 0-18 * * *"
   workflow_dispatch:
     inputs:
       dry_run:

@@ -3,22 +3,33 @@
 A week of Instagram content for **@thoughts4us.official**, built with the ig-* skills in
 this repo, plus the scripts that publish it automatically.
 
-**Every day, 12 pieces (IST):**
+**Every day, 20 pieces, one an hour from 05:00 to 00:00 IST:**
 
 | time | what | format |
 | --- | --- | --- |
-| 07:30 | good-morning line | story |
+| 05:00 | good-morning line | story |
+| 06:00 | affirmation | story |
+| 07:00 | original thought, line by line | reel |
 | 08:00 | famous quote, with its real source | feed image |
-| 09:30 | old-book quote | story |
-| 11:30 | "this or that?" reply 1 or 2 | story |
-| 13:00 | original thought | feed image |
-| 14:30 | points to the 13:00 post | story |
-| 16:30 | "one word" prompt | story |
-| 18:30 | carousel (quotes, poems, life lists) | carousel, 8 to 10 slides |
-| 19:30 | two-line poem | story |
-| 20:30 | "finish this" prompt | story |
-| 21:30 | original four-line poem | reel, 10s |
-| 22:30 | goodnight line | story |
+| 09:00 | old-book quote | story |
+| 10:00 | "this or that?" reply 1 or 2 | story |
+| 11:00 | famous quote, line by line | reel |
+| 12:00 | points to the 07:00 reel | story |
+| 13:00 | list carousel (habits, friendship, healing) | carousel |
+| 14:00 | "one word" prompt | story |
+| 15:00 | original line | reel |
+| 16:00 | reminder (water, stretch, call someone) | story |
+| 17:00 | second "this or that?" | story |
+| 18:00 | quote or poem carousel | carousel |
+| 19:00 | famous quote, line by line | reel |
+| 20:00 | points to the 18:00 carousel | story |
+| 21:00 | two-line poem | story |
+| 22:00 | original four-line poem | reel |
+| 23:00 | "finish this" prompt | story |
+| 00:00 | goodnight line | story |
+
+5 reels, 3 feed posts and 12 stories. Reels are at the peak hours because
+they're the format Instagram shows to people who don't follow you yet.
 
 Week 1 runs **Sat 17 Oct to Fri 23 Oct 2026**. Open `preview.html` to see
 every post and caption before it goes live.
@@ -27,13 +38,14 @@ every post and caption before it goes live.
 
 | file | job |
 | --- | --- |
-| `content.py` | all the words: quotes, poems, captions, stories. Edit here. |
+| `content.py`, `content_extra.py` | all the words: quotes, poems, captions, stories. Edit here. |
 | `config.json` | handle, week start, timezone, media URL, reply mode |
 | `render.py` | turns the schedule into JPEGs and MP4s in `media/week1/` |
 | `preview.py` | writes `preview.html` |
+| `pack.py` | day-by-day upload folders for scheduling by hand in Meta Business Suite |
 | `autopost.py` | publishes due posts through the Instagram Graph API |
 | `replybot.py` | hides spam, thanks supporters, queues real comments to `state/review.md` |
-| `../.github/workflows/thoughts4us.yml` | runs both, 12 times a day, on GitHub |
+| `../.github/workflows/thoughts4us.yml` | runs both every hour, 05:00 to 00:00 IST, on GitHub |
 | `voice.md`, `profile.md`, `engagement.md` | voice, bio and growth playbook |
 
 Rebuild after editing words:

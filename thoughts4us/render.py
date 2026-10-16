@@ -391,6 +391,8 @@ def reel(p, th, handle, out):
             if j < k:
                 centre(d, wl, f, y, spacing=1.45)
             y += len(wl) * 66 * 1.45 + 34
+        if p.get("credit") and k == len(lines):
+            spaced(d, p["credit"], sans(26, "demi"), y + 30, INK, 4)
         handle_mark(d, STORY, handle, 1560)
         path = os.path.join(tmp, f"f{k}.png")
         img.convert("RGB").save(path)
@@ -463,7 +465,9 @@ RENDER = {"quote": quote_card, "thought": thought_card, "carousel": carousel, "r
 
 
 def theme_for(p):
-    return THEMES[dt.datetime.fromisoformat(p["at"]).weekday()]
+    # "day" is the content day; a 00:00 story still belongs to the day before.
+    day = p.get("day") or p["at"][:10]
+    return THEMES[dt.date.fromisoformat(day).weekday()]
 
 
 def main():

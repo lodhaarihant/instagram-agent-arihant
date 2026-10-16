@@ -1,317 +1,570 @@
 {
- "d1-s1-morning": [
-  "media/week1/d1-s1-morning.jpg"
+ "d1-0500-morning": [
+  "media/week1/d1-0500-morning.jpg"
  ],
- "d1-f1-quote": [
-  "media/week1/d1-f1-quote.jpg"
+ "d1-0600-affirm": [
+  "media/week1/d1-0600-affirm.jpg"
  ],
- "d1-s2-quote": [
-  "media/week1/d1-s2-quote.jpg"
+ "d1-0700-thought": [
+  "media/week1/d1-0700-thought.mp4",
+  "media/week1/d1-0700-thought-cover.jpg"
  ],
- "d1-s3-choice": [
-  "media/week1/d1-s3-choice.jpg"
+ "d1-0800-quote": [
+  "media/week1/d1-0800-quote.jpg"
  ],
- "d1-f2-thought": [
-  "media/week1/d1-f2-thought.jpg"
+ "d1-0900-quote": [
+  "media/week1/d1-0900-quote.jpg"
+ ],
+ "d1-1000-choice": [
+  "media/week1/d1-1000-choice.jpg"
+ ],
+ "d1-1100-quote_am": [
+  "media/week1/d1-1100-quote_am.mp4",
+  "media/week1/d1-1100-quote_am-cover.jpg"
+ ],
+ "d1-1200-pointer": [
+  "media/week1/d1-1200-pointer.jpg"
+ ],
+ "d1-1300-noon": [
+  "media/week1/d1-1300-noon-01.jpg",
+  "media/week1/d1-1300-noon-02.jpg",
+  "media/week1/d1-1300-noon-03.jpg",
+  "media/week1/d1-1300-noon-04.jpg",
+  "media/week1/d1-1300-noon-05.jpg",
+  "media/week1/d1-1300-noon-06.jpg",
+  "media/week1/d1-1300-noon-07.jpg",
+  "media/week1/d1-1300-noon-08.jpg",
+  "media/week1/d1-1300-noon-09.jpg"
+ ],
+ "d1-1400-prompt": [
+  "media/week1/d1-1400-prompt.jpg"
+ ],
+ "d1-1500-line": [
+  "media/week1/d1-1500-line.mp4",
+  "media/week1/d1-1500-line-cover.jpg"
+ ],
+ "d1-1600-reminder": [
+  "media/week1/d1-1600-reminder.jpg"
+ ],
+ "d1-1700-choice2": [
+  "media/week1/d1-1700-choice2.jpg"
+ ],
+ "d1-1800-main": [
+  "media/week1/d1-1800-main-01.jpg",
+  "media/week1/d1-1800-main-02.jpg",
+  "media/week1/d1-1800-main-03.jpg",
+  "media/week1/d1-1800-main-04.jpg",
+  "media/week1/d1-1800-main-05.jpg",
+  "media/week1/d1-1800-main-06.jpg",
+  "media/week1/d1-1800-main-07.jpg",
+  "media/week1/d1-1800-main-08.jpg",
+  "media/week1/d1-1800-main-09.jpg",
+  "media/week1/d1-1800-main-10.jpg"
+ ],
+ "d1-1900-quote_pm": [
+  "media/week1/d1-1900-quote_pm.mp4",
+  "media/week1/d1-1900-quote_pm-cover.jpg"
+ ],
+ "d1-2000-pointer2": [
+  "media/week1/d1-2000-pointer2.jpg"
+ ],
+ "d1-2100-fragment": [
+  "media/week1/d1-2100-fragment.jpg"
+ ],
+ "d1-2200-poem": [
+  "media/week1/d1-2200-poem.mp4",
+  "media/week1/d1-2200-poem-cover.jpg"
+ ],
+ "d1-2300-fill": [
+  "media/week1/d1-2300-fill.jpg"
+ ],
+ "d1-0000-night": [
+  "media/week1/d1-0000-night.jpg"
+ ],
+ "d2-0500-morning": [
+  "media/week1/d2-0500-morning.jpg"
  ],
- "d1-s4-pointer": [
-  "media/week1/d1-s4-pointer.jpg"
+ "d2-0600-affirm": [
+  "media/week1/d2-0600-affirm.jpg"
  ],
- "d1-s5-prompt": [
-  "media/week1/d1-s5-prompt.jpg"
+ "d2-0700-thought": [
+  "media/week1/d2-0700-thought.mp4",
+  "media/week1/d2-0700-thought-cover.jpg"
  ],
- "d1-f3-carousel": [
-  "media/week1/d1-f3-carousel-01.jpg",
-  "media/week1/d1-f3-carousel-02.jpg",
-  "media/week1/d1-f3-carousel-03.jpg",
-  "media/week1/d1-f3-carousel-04.jpg",
-  "media/week1/d1-f3-carousel-05.jpg",
-  "media/week1/d1-f3-carousel-06.jpg",
-  "media/week1/d1-f3-carousel-07.jpg",
-  "media/week1/d1-f3-carousel-08.jpg",
-  "media/week1/d1-f3-carousel-09.jpg",
-  "media/week1/d1-f3-carousel-10.jpg"
+ "d2-0800-quote": [
+  "media/week1/d2-0800-quote.jpg"
+ ],
+ "d2-0900-quote": [
+  "media/week1/d2-0900-quote.jpg"
+ ],
+ "d2-1000-choice": [
+  "media/week1/d2-1000-choice.jpg"
+ ],
+ "d2-1100-quote_am": [
+  "media/week1/d2-1100-quote_am.mp4",
+  "media/week1/d2-1100-quote_am-cover.jpg"
+ ],
+ "d2-1200-pointer": [
+  "media/week1/d2-1200-pointer.jpg"
+ ],
+ "d2-1300-noon": [
+  "media/week1/d2-1300-noon-01.jpg",
+  "media/week1/d2-1300-noon-02.jpg",
+  "media/week1/d2-1300-noon-03.jpg",
+  "media/week1/d2-1300-noon-04.jpg",
+  "media/week1/d2-1300-noon-05.jpg",
+  "media/week1/d2-1300-noon-06.jpg",
+  "media/week1/d2-1300-noon-07.jpg",
+  "media/week1/d2-1300-noon-08.jpg",
+  "media/week1/d2-1300-noon-09.jpg"
+ ],
+ "d2-1400-prompt": [
+  "media/week1/d2-1400-prompt.jpg"
+ ],
+ "d2-1500-line": [
+  "media/week1/d2-1500-line.mp4",
+  "media/week1/d2-1500-line-cover.jpg"
+ ],
+ "d2-1600-reminder": [
+  "media/week1/d2-1600-reminder.jpg"
+ ],
+ "d2-1700-choice2": [
+  "media/week1/d2-1700-choice2.jpg"
+ ],
+ "d2-1800-main": [
+  "media/week1/d2-1800-main-01.jpg",
+  "media/week1/d2-1800-main-02.jpg",
+  "media/week1/d2-1800-main-03.jpg",
+  "media/week1/d2-1800-main-04.jpg",
+  "media/week1/d2-1800-main-05.jpg",
+  "media/week1/d2-1800-main-06.jpg",
+  "media/week1/d2-1800-main-07.jpg",
+  "media/week1/d2-1800-main-08.jpg",
+  "media/week1/d2-1800-main-09.jpg",
+  "media/week1/d2-1800-main-10.jpg"
+ ],
+ "d2-1900-quote_pm": [
+  "media/week1/d2-1900-quote_pm.mp4",
+  "media/week1/d2-1900-quote_pm-cover.jpg"
+ ],
+ "d2-2000-pointer2": [
+  "media/week1/d2-2000-pointer2.jpg"
+ ],
+ "d2-2100-fragment": [
+  "media/week1/d2-2100-fragment.jpg"
+ ],
+ "d2-2200-poem": [
+  "media/week1/d2-2200-poem.mp4",
+  "media/week1/d2-2200-poem-cover.jpg"
+ ],
+ "d2-2300-fill": [
+  "media/week1/d2-2300-fill.jpg"
+ ],
+ "d2-0000-night": [
+  "media/week1/d2-0000-night.jpg"
+ ],
+ "d3-0500-morning": [
+  "media/week1/d3-0500-morning.jpg"
+ ],
+ "d3-0600-affirm": [
+  "media/week1/d3-0600-affirm.jpg"
+ ],
+ "d3-0700-thought": [
+  "media/week1/d3-0700-thought.mp4",
+  "media/week1/d3-0700-thought-cover.jpg"
+ ],
+ "d3-0800-quote": [
+  "media/week1/d3-0800-quote.jpg"
+ ],
+ "d3-0900-quote": [
+  "media/week1/d3-0900-quote.jpg"
+ ],
+ "d3-1000-choice": [
+  "media/week1/d3-1000-choice.jpg"
+ ],
+ "d3-1100-quote_am": [
+  "media/week1/d3-1100-quote_am.mp4",
+  "media/week1/d3-1100-quote_am-cover.jpg"
+ ],
+ "d3-1200-pointer": [
+  "media/week1/d3-1200-pointer.jpg"
+ ],
+ "d3-1300-noon": [
+  "media/week1/d3-1300-noon-01.jpg",
+  "media/week1/d3-1300-noon-02.jpg",
+  "media/week1/d3-1300-noon-03.jpg",
+  "media/week1/d3-1300-noon-04.jpg",
+  "media/week1/d3-1300-noon-05.jpg",
+  "media/week1/d3-1300-noon-06.jpg",
+  "media/week1/d3-1300-noon-07.jpg",
+  "media/week1/d3-1300-noon-08.jpg",
+  "media/week1/d3-1300-noon-09.jpg"
+ ],
+ "d3-1400-prompt": [
+  "media/week1/d3-1400-prompt.jpg"
+ ],
+ "d3-1500-line": [
+  "media/week1/d3-1500-line.mp4",
+  "media/week1/d3-1500-line-cover.jpg"
+ ],
+ "d3-1600-reminder": [
+  "media/week1/d3-1600-reminder.jpg"
+ ],
+ "d3-1700-choice2": [
+  "media/week1/d3-1700-choice2.jpg"
+ ],
+ "d3-1800-main": [
+  "media/week1/d3-1800-main-01.jpg",
+  "media/week1/d3-1800-main-02.jpg",
+  "media/week1/d3-1800-main-03.jpg",
+  "media/week1/d3-1800-main-04.jpg",
+  "media/week1/d3-1800-main-05.jpg",
+  "media/week1/d3-1800-main-06.jpg",
+  "media/week1/d3-1800-main-07.jpg",
+  "media/week1/d3-1800-main-08.jpg",
+  "media/week1/d3-1800-main-09.jpg"
+ ],
+ "d3-1900-quote_pm": [
+  "media/week1/d3-1900-quote_pm.mp4",
+  "media/week1/d3-1900-quote_pm-cover.jpg"
+ ],
+ "d3-2000-pointer2": [
+  "media/week1/d3-2000-pointer2.jpg"
+ ],
+ "d3-2100-fragment": [
+  "media/week1/d3-2100-fragment.jpg"
+ ],
+ "d3-2200-poem": [
+  "media/week1/d3-2200-poem.mp4",
+  "media/week1/d3-2200-poem-cover.jpg"
+ ],
+ "d3-2300-fill": [
+  "media/week1/d3-2300-fill.jpg"
+ ],
+ "d3-0000-night": [
+  "media/week1/d3-0000-night.jpg"
  ],
- "d1-s6-fragment": [
-  "media/week1/d1-s6-fragment.jpg"
+ "d4-0500-morning": [
+  "media/week1/d4-0500-morning.jpg"
+ ],
+ "d4-0600-affirm": [
+  "media/week1/d4-0600-affirm.jpg"
+ ],
+ "d4-0700-thought": [
+  "media/week1/d4-0700-thought.mp4",
+  "media/week1/d4-0700-thought-cover.jpg"
+ ],
+ "d4-0800-quote": [
+  "media/week1/d4-0800-quote.jpg"
+ ],
+ "d4-0900-quote": [
+  "media/week1/d4-0900-quote.jpg"
+ ],
+ "d4-1000-choice": [
+  "media/week1/d4-1000-choice.jpg"
+ ],
+ "d4-1100-quote_am": [
+  "media/week1/d4-1100-quote_am.mp4",
+  "media/week1/d4-1100-quote_am-cover.jpg"
+ ],
+ "d4-1200-pointer": [
+  "media/week1/d4-1200-pointer.jpg"
+ ],
+ "d4-1300-noon": [
+  "media/week1/d4-1300-noon-01.jpg",
+  "media/week1/d4-1300-noon-02.jpg",
+  "media/week1/d4-1300-noon-03.jpg",
+  "media/week1/d4-1300-noon-04.jpg",
+  "media/week1/d4-1300-noon-05.jpg",
+  "media/week1/d4-1300-noon-06.jpg",
+  "media/week1/d4-1300-noon-07.jpg",
+  "media/week1/d4-1300-noon-08.jpg",
+  "media/week1/d4-1300-noon-09.jpg"
+ ],
+ "d4-1400-prompt": [
+  "media/week1/d4-1400-prompt.jpg"
+ ],
+ "d4-1500-line": [
+  "media/week1/d4-1500-line.mp4",
+  "media/week1/d4-1500-line-cover.jpg"
+ ],
+ "d4-1600-reminder": [
+  "media/week1/d4-1600-reminder.jpg"
+ ],
+ "d4-1700-choice2": [
+  "media/week1/d4-1700-choice2.jpg"
+ ],
+ "d4-1800-main": [
+  "media/week1/d4-1800-main-01.jpg",
+  "media/week1/d4-1800-main-02.jpg",
+  "media/week1/d4-1800-main-03.jpg",
+  "media/week1/d4-1800-main-04.jpg",
+  "media/week1/d4-1800-main-05.jpg",
+  "media/week1/d4-1800-main-06.jpg",
+  "media/week1/d4-1800-main-07.jpg",
+  "media/week1/d4-1800-main-08.jpg"
+ ],
+ "d4-1900-quote_pm": [
+  "media/week1/d4-1900-quote_pm.mp4",
+  "media/week1/d4-1900-quote_pm-cover.jpg"
+ ],
+ "d4-2000-pointer2": [
+  "media/week1/d4-2000-pointer2.jpg"
+ ],
+ "d4-2100-fragment": [
+  "media/week1/d4-2100-fragment.jpg"
+ ],
+ "d4-2200-poem": [
+  "media/week1/d4-2200-poem.mp4",
+  "media/week1/d4-2200-poem-cover.jpg"
+ ],
+ "d4-2300-fill": [
+  "media/week1/d4-2300-fill.jpg"
+ ],
+ "d4-0000-night": [
+  "media/week1/d4-0000-night.jpg"
  ],
- "d1-s7-prompt": [
-  "media/week1/d1-s7-prompt.jpg"
- ],
- "d1-f4-reel": [
-  "media/week1/d1-f4-reel.mp4",
-  "media/week1/d1-f4-reel-cover.jpg"
- ],
- "d1-s8-night": [
-  "media/week1/d1-s8-night.jpg"
- ],
- "d2-s1-morning": [
-  "media/week1/d2-s1-morning.jpg"
- ],
- "d2-f1-quote": [
-  "media/week1/d2-f1-quote.jpg"
- ],
- "d2-s2-quote": [
-  "media/week1/d2-s2-quote.jpg"
- ],
- "d2-s3-choice": [
-  "media/week1/d2-s3-choice.jpg"
- ],
- "d2-f2-thought": [
-  "media/week1/d2-f2-thought.jpg"
- ],
- "d2-s4-pointer": [
-  "media/week1/d2-s4-pointer.jpg"
- ],
- "d2-s5-prompt": [
-  "media/week1/d2-s5-prompt.jpg"
- ],
- "d2-f3-carousel": [
-  "media/week1/d2-f3-carousel-01.jpg",
-  "media/week1/d2-f3-carousel-02.jpg",
-  "media/week1/d2-f3-carousel-03.jpg",
-  "media/week1/d2-f3-carousel-04.jpg",
-  "media/week1/d2-f3-carousel-05.jpg",
-  "media/week1/d2-f3-carousel-06.jpg",
-  "media/week1/d2-f3-carousel-07.jpg",
-  "media/week1/d2-f3-carousel-08.jpg",
-  "media/week1/d2-f3-carousel-09.jpg",
-  "media/week1/d2-f3-carousel-10.jpg"
- ],
- "d2-s6-fragment": [
-  "media/week1/d2-s6-fragment.jpg"
- ],
- "d2-s7-prompt": [
-  "media/week1/d2-s7-prompt.jpg"
- ],
- "d2-f4-reel": [
-  "media/week1/d2-f4-reel.mp4",
-  "media/week1/d2-f4-reel-cover.jpg"
- ],
- "d2-s8-night": [
-  "media/week1/d2-s8-night.jpg"
- ],
- "d3-s1-morning": [
-  "media/week1/d3-s1-morning.jpg"
- ],
- "d3-f1-quote": [
-  "media/week1/d3-f1-quote.jpg"
- ],
- "d3-s2-quote": [
-  "media/week1/d3-s2-quote.jpg"
- ],
- "d3-s3-choice": [
-  "media/week1/d3-s3-choice.jpg"
- ],
- "d3-f2-thought": [
-  "media/week1/d3-f2-thought.jpg"
- ],
- "d3-s4-pointer": [
-  "media/week1/d3-s4-pointer.jpg"
- ],
- "d3-s5-prompt": [
-  "media/week1/d3-s5-prompt.jpg"
- ],
- "d3-f3-carousel": [
-  "media/week1/d3-f3-carousel-01.jpg",
-  "media/week1/d3-f3-carousel-02.jpg",
-  "media/week1/d3-f3-carousel-03.jpg",
-  "media/week1/d3-f3-carousel-04.jpg",
-  "media/week1/d3-f3-carousel-05.jpg",
-  "media/week1/d3-f3-carousel-06.jpg",
-  "media/week1/d3-f3-carousel-07.jpg",
-  "media/week1/d3-f3-carousel-08.jpg",
-  "media/week1/d3-f3-carousel-09.jpg"
- ],
- "d3-s6-fragment": [
-  "media/week1/d3-s6-fragment.jpg"
- ],
- "d3-s7-prompt": [
-  "media/week1/d3-s7-prompt.jpg"
- ],
- "d3-f4-reel": [
-  "media/week1/d3-f4-reel.mp4",
-  "media/week1/d3-f4-reel-cover.jpg"
- ],
- "d3-s8-night": [
-  "media/week1/d3-s8-night.jpg"
- ],
- "d4-s1-morning": [
-  "media/week1/d4-s1-morning.jpg"
- ],
- "d4-f1-quote": [
-  "media/week1/d4-f1-quote.jpg"
- ],
- "d4-s2-quote": [
-  "media/week1/d4-s2-quote.jpg"
- ],
- "d4-s3-choice": [
-  "media/week1/d4-s3-choice.jpg"
- ],
- "d4-f2-thought": [
-  "media/week1/d4-f2-thought.jpg"
- ],
- "d4-s4-pointer": [
-  "media/week1/d4-s4-pointer.jpg"
- ],
- "d4-s5-prompt": [
-  "media/week1/d4-s5-prompt.jpg"
- ],
- "d4-f3-carousel": [
-  "media/week1/d4-f3-carousel-01.jpg",
-  "media/week1/d4-f3-carousel-02.jpg",
-  "media/week1/d4-f3-carousel-03.jpg",
-  "media/week1/d4-f3-carousel-04.jpg",
-  "media/week1/d4-f3-carousel-05.jpg",
-  "media/week1/d4-f3-carousel-06.jpg",
-  "media/week1/d4-f3-carousel-07.jpg",
-  "media/week1/d4-f3-carousel-08.jpg"
- ],
- "d4-s6-fragment": [
-  "media/week1/d4-s6-fragment.jpg"
- ],
- "d4-s7-prompt": [
-  "media/week1/d4-s7-prompt.jpg"
- ],
- "d4-f4-reel": [
-  "media/week1/d4-f4-reel.mp4",
-  "media/week1/d4-f4-reel-cover.jpg"
- ],
- "d4-s8-night": [
-  "media/week1/d4-s8-night.jpg"
- ],
- "d5-s1-morning": [
-  "media/week1/d5-s1-morning.jpg"
- ],
- "d5-f1-quote": [
-  "media/week1/d5-f1-quote.jpg"
- ],
- "d5-s2-quote": [
-  "media/week1/d5-s2-quote.jpg"
- ],
- "d5-s3-choice": [
-  "media/week1/d5-s3-choice.jpg"
- ],
- "d5-f2-thought": [
-  "media/week1/d5-f2-thought.jpg"
- ],
- "d5-s4-pointer": [
-  "media/week1/d5-s4-pointer.jpg"
- ],
- "d5-s5-prompt": [
-  "media/week1/d5-s5-prompt.jpg"
- ],
- "d5-f3-carousel": [
-  "media/week1/d5-f3-carousel-01.jpg",
-  "media/week1/d5-f3-carousel-02.jpg",
-  "media/week1/d5-f3-carousel-03.jpg",
-  "media/week1/d5-f3-carousel-04.jpg",
-  "media/week1/d5-f3-carousel-05.jpg",
-  "media/week1/d5-f3-carousel-06.jpg",
-  "media/week1/d5-f3-carousel-07.jpg",
-  "media/week1/d5-f3-carousel-08.jpg"
- ],
- "d5-s6-fragment": [
-  "media/week1/d5-s6-fragment.jpg"
- ],
- "d5-s7-prompt": [
-  "media/week1/d5-s7-prompt.jpg"
- ],
- "d5-f4-reel": [
-  "media/week1/d5-f4-reel.mp4",
-  "media/week1/d5-f4-reel-cover.jpg"
- ],
- "d5-s8-night": [
-  "media/week1/d5-s8-night.jpg"
- ],
- "d6-s1-morning": [
-  "media/week1/d6-s1-morning.jpg"
- ],
- "d6-f1-quote": [
-  "media/week1/d6-f1-quote.jpg"
- ],
- "d6-s2-quote": [
-  "media/week1/d6-s2-quote.jpg"
- ],
- "d6-s3-choice": [
-  "media/week1/d6-s3-choice.jpg"
- ],
- "d6-f2-thought": [
-  "media/week1/d6-f2-thought.jpg"
- ],
- "d6-s4-pointer": [
-  "media/week1/d6-s4-pointer.jpg"
- ],
- "d6-s5-prompt": [
-  "media/week1/d6-s5-prompt.jpg"
- ],
- "d6-f3-carousel": [
-  "media/week1/d6-f3-carousel-01.jpg",
-  "media/week1/d6-f3-carousel-02.jpg",
-  "media/week1/d6-f3-carousel-03.jpg",
-  "media/week1/d6-f3-carousel-04.jpg",
-  "media/week1/d6-f3-carousel-05.jpg",
-  "media/week1/d6-f3-carousel-06.jpg",
-  "media/week1/d6-f3-carousel-07.jpg",
-  "media/week1/d6-f3-carousel-08.jpg",
-  "media/week1/d6-f3-carousel-09.jpg",
-  "media/week1/d6-f3-carousel-10.jpg"
- ],
- "d6-s6-fragment": [
-  "media/week1/d6-s6-fragment.jpg"
- ],
- "d6-s7-prompt": [
-  "media/week1/d6-s7-prompt.jpg"
- ],
- "d6-f4-reel": [
-  "media/week1/d6-f4-reel.mp4",
-  "media/week1/d6-f4-reel-cover.jpg"
- ],
- "d6-s8-night": [
-  "media/week1/d6-s8-night.jpg"
- ],
- "d7-s1-morning": [
-  "media/week1/d7-s1-morning.jpg"
- ],
- "d7-f1-quote": [
-  "media/week1/d7-f1-quote.jpg"
- ],
- "d7-s2-quote": [
-  "media/week1/d7-s2-quote.jpg"
- ],
- "d7-s3-choice": [
-  "media/week1/d7-s3-choice.jpg"
- ],
- "d7-f2-thought": [
-  "media/week1/d7-f2-thought.jpg"
- ],
- "d7-s4-pointer": [
-  "media/week1/d7-s4-pointer.jpg"
- ],
- "d7-s5-prompt": [
-  "media/week1/d7-s5-prompt.jpg"
- ],
- "d7-f3-carousel": [
-  "media/week1/d7-f3-carousel-01.jpg",
-  "media/week1/d7-f3-carousel-02.jpg",
-  "media/week1/d7-f3-carousel-03.jpg",
-  "media/week1/d7-f3-carousel-04.jpg",
-  "media/week1/d7-f3-carousel-05.jpg",
-  "media/week1/d7-f3-carousel-06.jpg",
-  "media/week1/d7-f3-carousel-07.jpg",
-  "media/week1/d7-f3-carousel-08.jpg"
- ],
- "d7-s6-fragment": [
-  "media/week1/d7-s6-fragment.jpg"
- ],
- "d7-s7-prompt": [
-  "media/week1/d7-s7-prompt.jpg"
- ],
- "d7-f4-reel": [
-  "media/week1/d7-f4-reel.mp4",
-  "media/week1/d7-f4-reel-cover.jpg"
- ],
- "d7-s8-night": [
-  "media/week1/d7-s8-night.jpg"
+ "d5-0500-morning": [
+  "media/week1/d5-0500-morning.jpg"
+ ],
+ "d5-0600-affirm": [
+  "media/week1/d5-0600-affirm.jpg"
+ ],
+ "d5-0700-thought": [
+  "media/week1/d5-0700-thought.mp4",
+  "media/week1/d5-0700-thought-cover.jpg"
+ ],
+ "d5-0800-quote": [
+  "media/week1/d5-0800-quote.jpg"
+ ],
+ "d5-0900-quote": [
+  "media/week1/d5-0900-quote.jpg"
+ ],
+ "d5-1000-choice": [
+  "media/week1/d5-1000-choice.jpg"
+ ],
+ "d5-1100-quote_am": [
+  "media/week1/d5-1100-quote_am.mp4",
+  "media/week1/d5-1100-quote_am-cover.jpg"
+ ],
+ "d5-1200-pointer": [
+  "media/week1/d5-1200-pointer.jpg"
+ ],
+ "d5-1300-noon": [
+  "media/week1/d5-1300-noon-01.jpg",
+  "media/week1/d5-1300-noon-02.jpg",
+  "media/week1/d5-1300-noon-03.jpg",
+  "media/week1/d5-1300-noon-04.jpg",
+  "media/week1/d5-1300-noon-05.jpg",
+  "media/week1/d5-1300-noon-06.jpg",
+  "media/week1/d5-1300-noon-07.jpg",
+  "media/week1/d5-1300-noon-08.jpg",
+  "media/week1/d5-1300-noon-09.jpg"
+ ],
+ "d5-1400-prompt": [
+  "media/week1/d5-1400-prompt.jpg"
+ ],
+ "d5-1500-line": [
+  "media/week1/d5-1500-line.mp4",
+  "media/week1/d5-1500-line-cover.jpg"
+ ],
+ "d5-1600-reminder": [
+  "media/week1/d5-1600-reminder.jpg"
+ ],
+ "d5-1700-choice2": [
+  "media/week1/d5-1700-choice2.jpg"
+ ],
+ "d5-1800-main": [
+  "media/week1/d5-1800-main-01.jpg",
+  "media/week1/d5-1800-main-02.jpg",
+  "media/week1/d5-1800-main-03.jpg",
+  "media/week1/d5-1800-main-04.jpg",
+  "media/week1/d5-1800-main-05.jpg",
+  "media/week1/d5-1800-main-06.jpg",
+  "media/week1/d5-1800-main-07.jpg",
+  "media/week1/d5-1800-main-08.jpg"
+ ],
+ "d5-1900-quote_pm": [
+  "media/week1/d5-1900-quote_pm.mp4",
+  "media/week1/d5-1900-quote_pm-cover.jpg"
+ ],
+ "d5-2000-pointer2": [
+  "media/week1/d5-2000-pointer2.jpg"
+ ],
+ "d5-2100-fragment": [
+  "media/week1/d5-2100-fragment.jpg"
+ ],
+ "d5-2200-poem": [
+  "media/week1/d5-2200-poem.mp4",
+  "media/week1/d5-2200-poem-cover.jpg"
+ ],
+ "d5-2300-fill": [
+  "media/week1/d5-2300-fill.jpg"
+ ],
+ "d5-0000-night": [
+  "media/week1/d5-0000-night.jpg"
+ ],
+ "d6-0500-morning": [
+  "media/week1/d6-0500-morning.jpg"
+ ],
+ "d6-0600-affirm": [
+  "media/week1/d6-0600-affirm.jpg"
+ ],
+ "d6-0700-thought": [
+  "media/week1/d6-0700-thought.mp4",
+  "media/week1/d6-0700-thought-cover.jpg"
+ ],
+ "d6-0800-quote": [
+  "media/week1/d6-0800-quote.jpg"
+ ],
+ "d6-0900-quote": [
+  "media/week1/d6-0900-quote.jpg"
+ ],
+ "d6-1000-choice": [
+  "media/week1/d6-1000-choice.jpg"
+ ],
+ "d6-1100-quote_am": [
+  "media/week1/d6-1100-quote_am.mp4",
+  "media/week1/d6-1100-quote_am-cover.jpg"
+ ],
+ "d6-1200-pointer": [
+  "media/week1/d6-1200-pointer.jpg"
+ ],
+ "d6-1300-noon": [
+  "media/week1/d6-1300-noon-01.jpg",
+  "media/week1/d6-1300-noon-02.jpg",
+  "media/week1/d6-1300-noon-03.jpg",
+  "media/week1/d6-1300-noon-04.jpg",
+  "media/week1/d6-1300-noon-05.jpg",
+  "media/week1/d6-1300-noon-06.jpg",
+  "media/week1/d6-1300-noon-07.jpg",
+  "media/week1/d6-1300-noon-08.jpg",
+  "media/week1/d6-1300-noon-09.jpg",
+  "media/week1/d6-1300-noon-10.jpg"
+ ],
+ "d6-1400-prompt": [
+  "media/week1/d6-1400-prompt.jpg"
+ ],
+ "d6-1500-line": [
+  "media/week1/d6-1500-line.mp4",
+  "media/week1/d6-1500-line-cover.jpg"
+ ],
+ "d6-1600-reminder": [
+  "media/week1/d6-1600-reminder.jpg"
+ ],
+ "d6-1700-choice2": [
+  "media/week1/d6-1700-choice2.jpg"
+ ],
+ "d6-1800-main": [
+  "media/week1/d6-1800-main-01.jpg",
+  "media/week1/d6-1800-main-02.jpg",
+  "media/week1/d6-1800-main-03.jpg",
+  "media/week1/d6-1800-main-04.jpg",
+  "media/week1/d6-1800-main-05.jpg",
+  "media/week1/d6-1800-main-06.jpg",
+  "media/week1/d6-1800-main-07.jpg",
+  "media/week1/d6-1800-main-08.jpg",
+  "media/week1/d6-1800-main-09.jpg",
+  "media/week1/d6-1800-main-10.jpg"
+ ],
+ "d6-1900-quote_pm": [
+  "media/week1/d6-1900-quote_pm.mp4",
+  "media/week1/d6-1900-quote_pm-cover.jpg"
+ ],
+ "d6-2000-pointer2": [
+  "media/week1/d6-2000-pointer2.jpg"
+ ],
+ "d6-2100-fragment": [
+  "media/week1/d6-2100-fragment.jpg"
+ ],
+ "d6-2200-poem": [
+  "media/week1/d6-2200-poem.mp4",
+  "media/week1/d6-2200-poem-cover.jpg"
+ ],
+ "d6-2300-fill": [
+  "media/week1/d6-2300-fill.jpg"
+ ],
+ "d6-0000-night": [
+  "media/week1/d6-0000-night.jpg"
+ ],
+ "d7-0500-morning": [
+  "media/week1/d7-0500-morning.jpg"
+ ],
+ "d7-0600-affirm": [
+  "media/week1/d7-0600-affirm.jpg"
+ ],
+ "d7-0700-thought": [
+  "media/week1/d7-0700-thought.mp4",
+  "media/week1/d7-0700-thought-cover.jpg"
+ ],
+ "d7-0800-quote": [
+  "media/week1/d7-0800-quote.jpg"
+ ],
+ "d7-0900-quote": [
+  "media/week1/d7-0900-quote.jpg"
+ ],
+ "d7-1000-choice": [
+  "media/week1/d7-1000-choice.jpg"
+ ],
+ "d7-1100-quote_am": [
+  "media/week1/d7-1100-quote_am.mp4",
+  "media/week1/d7-1100-quote_am-cover.jpg"
+ ],
+ "d7-1200-pointer": [
+  "media/week1/d7-1200-pointer.jpg"
+ ],
+ "d7-1300-noon": [
+  "media/week1/d7-1300-noon-01.jpg",
+  "media/week1/d7-1300-noon-02.jpg",
+  "media/week1/d7-1300-noon-03.jpg",
+  "media/week1/d7-1300-noon-04.jpg",
+  "media/week1/d7-1300-noon-05.jpg",
+  "media/week1/d7-1300-noon-06.jpg",
+  "media/week1/d7-1300-noon-07.jpg",
+  "media/week1/d7-1300-noon-08.jpg",
+  "media/week1/d7-1300-noon-09.jpg"
+ ],
+ "d7-1400-prompt": [
+  "media/week1/d7-1400-prompt.jpg"
+ ],
+ "d7-1500-line": [
+  "media/week1/d7-1500-line.mp4",
+  "media/week1/d7-1500-line-cover.jpg"
+ ],
+ "d7-1600-reminder": [
+  "media/week1/d7-1600-reminder.jpg"
+ ],
+ "d7-1700-choice2": [
+  "media/week1/d7-1700-choice2.jpg"
+ ],
+ "d7-1800-main": [
+  "media/week1/d7-1800-main-01.jpg",
+  "media/week1/d7-1800-main-02.jpg",
+  "media/week1/d7-1800-main-03.jpg",
+  "media/week1/d7-1800-main-04.jpg",
+  "media/week1/d7-1800-main-05.jpg",
+  "media/week1/d7-1800-main-06.jpg",
+  "media/week1/d7-1800-main-07.jpg",
+  "media/week1/d7-1800-main-08.jpg"
+ ],
+ "d7-1900-quote_pm": [
+  "media/week1/d7-1900-quote_pm.mp4",
+  "media/week1/d7-1900-quote_pm-cover.jpg"
+ ],
+ "d7-2000-pointer2": [
+  "media/week1/d7-2000-pointer2.jpg"
+ ],
+ "d7-2100-fragment": [
+  "media/week1/d7-2100-fragment.jpg"
+ ],
+ "d7-2200-poem": [
+  "media/week1/d7-2200-poem.mp4",
+  "media/week1/d7-2200-poem-cover.jpg"
+ ],
+ "d7-2300-fill": [
+  "media/week1/d7-2300-fill.jpg"
+ ],
+ "d7-0000-night": [
+  "media/week1/d7-0000-night.jpg"
  ]
 }

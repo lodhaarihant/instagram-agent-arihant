@@ -14,7 +14,7 @@ def main(path):
     manifest = json.load(open(os.path.join(HERE, "media", week, "manifest.json")))
     days = {}
     for p in sched["posts"]:
-        days.setdefault(p["at"][:10], []).append(p)
+        days.setdefault(p.get("day") or p["at"][:10], []).append(p)
 
     out = ["<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'>",
            f"<title>Thoughts4us {week}</title><style>",

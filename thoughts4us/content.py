@@ -8,10 +8,11 @@ autopost.py publishes. Every famous quote here is one with a known source
 change", the Aristotle "we are what we repeatedly do") are left out on purpose:
 a quote page that gets attributions wrong loses the people who know.
 
-Daily shape (IST):
-  feed   08:00 quote card     13:00 original thought
-         18:30 carousel       21:30 reel (original short poem)
-  story  07:30 09:30 11:30 14:30 16:30 19:30 20:30 22:30
+Daily shape (IST): 20 items, one an hour, 05:00 to 00:00. See SLOTS.
+  reels     07 thought, 11 quote, 15 original line, 19 quote, 22 poem
+  feed      08 quote card, 13 list carousel, 18 quote/poem carousel
+  stories   the other 12 hours
+More content lives in content_extra.py.
 """
 import datetime as dt
 import json
@@ -22,8 +23,6 @@ CONFIG = json.load(open(os.path.join(HERE, "config.json")))
 WEEK_START = dt.date.fromisoformat(CONFIG["week_start"])
 TZ = CONFIG["utc_offset"]          # "+05:30"
 
-FEED_TIMES = ["08:00", "13:00", "18:30", "21:30"]
-STORY_TIMES = ["07:30", "09:30", "11:30", "14:30", "16:30", "19:30", "20:30", "22:30"]
 
 # One palette per day, so the grid alternates instead of blurring together.
 # bg, ink, accent, and the dot colours from the Thoughts4us logo.
@@ -492,7 +491,23 @@ def stamp(day, hhmm):
     return f"{day.isoformat()}T{hhmm}:00{TZ}"
 
 
+# Twenty slots a day, hourly, 05:00 to 00:00 IST. 5 reels, 3 feed posts,
+# 12 stories. Reels sit at the peak hours because they are what reaches
+# people who don't follow the page yet.
+SLOTS = [
+    ("05:00", "story", "morning"), ("06:00", "story", "affirm"), ("07:00", "reel", "thought"),
+    ("08:00", "quote", None), ("09:00", "story", "quote"), ("10:00", "story", "choice"),
+    ("11:00", "reel", "quote_am"), ("12:00", "story", "pointer"), ("13:00", "carousel", "noon"),
+    ("14:00", "story", "prompt"), ("15:00", "reel", "line"), ("16:00", "story", "reminder"),
+    ("17:00", "story", "choice2"), ("18:00", "carousel", "main"), ("19:00", "reel", "quote_pm"),
+    ("20:00", "story", "pointer2"), ("21:00", "story", "fragment"), ("22:00", "reel", "poem"),
+    ("23:00", "story", "fill"), ("00:00", "story", "night"),
+]
+
+
 def build():
+    from content_extra import (CAROUSELS_NOON, LINE_REELS, QUOTE_REELS_AM, QUOTE_REELS_PM,
+                               S_AFFIRM, S_CHOICE2, S_REMINDER)
     posts = []
     for i in range(7):
         day = WEEK_START + dt.timedelta(days=i)
@@ -500,43 +515,52 @@ def build():
         # Content is written per weekday (index 0 = Monday) because some of it
         # says "Sunday" or "Monday". The week can start on any day.
         w = day.weekday()
-        pal = w
         # The Dhammapada card explains the page name, so it always goes first;
         # whatever card it displaces takes its weekday slot.
         qi = 0 if i == 0 else (WEEK_START.weekday() if w == 0 else w)
-
-        q = QUOTE_CARDS[qi]
-        posts.append({"id": f"{d}-f1-quote", "kind": "quote", "media": "IMAGE", "at": stamp(day, FEED_TIMES[0]),
-                      "palette": pal, "quote": q["quote"], "author": q["author"], "source": q["source"],
-                      "caption": caption(q)})
-
         t = THOUGHTS[w]
-        posts.append({"id": f"{d}-f2-thought", "kind": "thought", "media": "IMAGE", "at": stamp(day, FEED_TIMES[1]),
-                      "palette": pal, "text": t["text"], "caption": caption(t)})
 
-        c = CAROUSELS[w]
-        posts.append({"id": f"{d}-f3-carousel", "kind": "carousel", "media": "CAROUSEL", "at": stamp(day, FEED_TIMES[2]),
-                      "palette": pal, "deck": {k: v for k, v in c.items() if k not in ("hook", "body", "ask", "tags")},
-                      "caption": caption(c)})
+        reels = {
+            "thought": {"lines": t["text"].split("\n"), **t},
+            "quote_am": QUOTE_REELS_AM[w], "line": LINE_REELS[w],
+            "quote_pm": QUOTE_REELS_PM[w], "poem": REELS[w],
+        }
+        decks = {"noon": CAROUSELS_NOON[w], "main": CAROUSELS[w]}
+        stories = {
+            "morning": ("morning", {"text": S_MORNING[w]}),
+            "affirm": ("morning", {"text": S_AFFIRM[w]}),
+            "quote": ("quote", {"quote": S_QUOTE[w][0], "author": S_QUOTE[w][1]}),
+            "choice": ("choice", {"a": S_THIS_OR_THAT[w][0], "b": S_THIS_OR_THAT[w][1]}),
+            "pointer": ("pointer", {"text": "This morning's reel:\n" + t["text"].replace("\n", " "), "note": "Watch it on the page"}),
+            "prompt": ("prompt", {"text": S_ONE_WORD[w], "note": "Reply here. I read every one."}),
+            "reminder": ("morning", {"text": S_REMINDER[w]}),
+            "choice2": ("choice", {"a": S_CHOICE2[w][0], "b": S_CHOICE2[w][1]}),
+            "pointer2": ("pointer", {"text": "Tonight's carousel:\n" + CAROUSELS[w]["cover"], "note": "Swipe through it on the page"}),
+            "fragment": ("fragment", {"text": S_FRAGMENT[w]}),
+            "fill": ("prompt", {"text": S_FILL_IN[w], "note": "Reply and tell me."}),
+            "night": ("night", {"text": S_NIGHT[w]}),
+        }
 
-        r = REELS[w]
-        posts.append({"id": f"{d}-f4-reel", "kind": "reel", "media": "REELS", "at": stamp(day, FEED_TIMES[3]),
-                      "palette": pal, "lines": r["lines"], "caption": caption(r)})
-
-        a, b = S_THIS_OR_THAT[w]
-        frames = [
-            ("morning", {"text": S_MORNING[w]}),
-            ("quote", {"quote": S_QUOTE[w][0], "author": S_QUOTE[w][1]}),
-            ("choice", {"a": a, "b": b}),
-            ("pointer", {"text": "New on the grid:\n" + t["text"].replace("\n", " "), "note": "Full post on the page"}),
-            ("prompt", {"text": S_ONE_WORD[w], "note": "Reply here. I read every one."}),
-            ("fragment", {"text": S_FRAGMENT[w]}),
-            ("prompt", {"text": S_FILL_IN[w], "note": "Reply and tell me."}),
-            ("night", {"text": S_NIGHT[w]}),
-        ]
-        for n, (kind, data) in enumerate(frames):
-            posts.append({"id": f"{d}-s{n + 1}-{kind}", "kind": "story", "story": kind, "media": "STORIES",
-                          "at": stamp(day, STORY_TIMES[n]), "palette": pal, **data})
+        for hhmm, kind, which in SLOTS:
+            when = day + dt.timedelta(days=1) if hhmm == "00:00" else day
+            base = {"id": f"{d}-{hhmm.replace(':', '')}-{which or kind}", "at": stamp(when, hhmm),
+                    "day": day.isoformat(), "palette": w}
+            if kind == "quote":
+                q = QUOTE_CARDS[qi]
+                posts.append({**base, "kind": "quote", "media": "IMAGE", "quote": q["quote"],
+                              "author": q["author"], "source": q["source"], "caption": caption(q)})
+            elif kind == "reel":
+                r = reels[which]
+                posts.append({**base, "kind": "reel", "media": "REELS", "lines": r["lines"],
+                              "credit": r.get("credit", ""), "caption": caption(r)})
+            elif kind == "carousel":
+                c = decks[which]
+                posts.append({**base, "kind": "carousel", "media": "CAROUSEL",
+                              "deck": {k: v for k, v in c.items() if k not in ("hook", "body", "ask", "tags")},
+                              "caption": caption(c)})
+            else:
+                sk, data = stories[which]
+                posts.append({**base, "kind": "story", "story": sk, "media": "STORIES", **data})
 
     posts.sort(key=lambda p: p["at"])
     return posts
@@ -547,6 +571,8 @@ if __name__ == "__main__":
     out = os.path.join(HERE, "schedule", "week1.json")
     os.makedirs(os.path.dirname(out), exist_ok=True)
     json.dump({"handle": CONFIG["handle"], "palettes": PALETTES, "posts": posts}, open(out, "w"), indent=1, ensure_ascii=False)
+    import shutil
+    shutil.rmtree(os.path.join(HERE, "captions"), ignore_errors=True)
     os.makedirs(os.path.join(HERE, "captions"), exist_ok=True)
     for p in posts:
         if "caption" in p:

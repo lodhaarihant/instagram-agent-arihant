@@ -12,7 +12,7 @@ are the words people type.
 ## Bio (150 chars)
 
     Quotes, small poems and old wisdom for ordinary days.
-    New thoughts at 8am, 1pm, 6:30pm, 9:30pm IST.
+    A new thought every hour, 5am to midnight IST.
     Reply to our stories. We read them all.
 
 ## Link
