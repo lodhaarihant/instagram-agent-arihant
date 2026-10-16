@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Week 1 content for @thoughts4us, as data.
+Week 1 content for @thoughts4us.official, as data.
 
 Run it to write schedule/week1.json, which render.py turns into images and
 autopost.py publishes. Every famous quote here is one with a known source

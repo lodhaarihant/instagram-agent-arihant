@@ -12,7 +12,7 @@ REVIEW comments are the valuable ones and never get a canned answer. Paste
 state/review.md into Claude with /ig-reply and send those replies by hand,
 or ask Claude to draft them.
 
-This only touches comments under @thoughts4us posts, through the official API.
+This only touches comments under @thoughts4us.official posts, through the official API.
 It never comments on, likes, follows or DMs other accounts: that is the kind
 of automation that gets accounts restricted.
 

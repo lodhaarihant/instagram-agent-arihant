@@ -1,6 +1,6 @@
 # Thoughts4us autopilot
 
-A week of Instagram content for **@thoughts4us**, built with the ig-* skills in
+A week of Instagram content for **@thoughts4us.official**, built with the ig-* skills in
 this repo, plus the scripts that publish it automatically.
 
 **Every day, 12 pieces (IST):**

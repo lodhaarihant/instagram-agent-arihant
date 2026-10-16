@@ -1,11 +1,11 @@
-# voice.md - Thought's (@thoughts4us)
+# voice.md - Thought's (@thoughts4us.official)
 
 Every ig-* skill reads this. Copy it to `~/.claude/instagram/voice.md` too.
 
 ## Who I am
 
 - **Name:** Thought's
-- **Handle:** @thoughts4us (Facebook: facebook.com/thoughts4us, since 2021)
+- **Handle:** @thoughts4us.official (Facebook: facebook.com/thoughts4us, since 2021)
 - **What I do, in one sentence:** Quotes, short poems and old wisdom for ordinary days.
 - **Who I am talking to:** 18 to 35, mostly in India, reading on the commute or before sleep, a little tired, a little hopeful.
 - **What I sell:** Nothing yet. Later: a poetry and quotes e-book, printable journal pages, book recommendations (affiliate).
