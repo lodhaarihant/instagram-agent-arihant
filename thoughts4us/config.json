@@ -1,0 +1,10 @@
+{
+  "handle": "@thoughts4us",
+  "week_start": "2026-10-19",
+  "utc_offset": "+05:30",
+  "media_base_url": "",
+  "graph_host": "https://graph.facebook.com",
+  "graph_version": "v23.0",
+  "reply_mode": "auto",
+  "max_replies_per_run": 25
+}

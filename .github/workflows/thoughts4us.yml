@@ -1,0 +1,71 @@
+name: thoughts4us autopost
+
+# One run shortly after each posting slot (IST = UTC+5:30). GitHub can start
+# scheduled runs late on busy days; autopost.py publishes whatever is due, so a
+# late run still posts, and stories more than 2h late are skipped.
+#
+#   IST   07:30 08:00 09:30 11:30 13:00 14:30 16:30 18:30 19:30 20:30 21:30 22:30
+#   UTC   02:00 02:30 04:00 06:00 07:30 09:00 11:00 13:00 14:00 15:00 16:00 17:00
+on:
+  schedule:
+    - cron: "3 2 * * *"
+    - cron: "33 2 * * *"
+    - cron: "3 4 * * *"
+    - cron: "3 6 * * *"
+    - cron: "33 7 * * *"
+    - cron: "3 9 * * *"
+    - cron: "3 11 * * *"
+    - cron: "3 13 * * *"
+    - cron: "3 14 * * *"
+    - cron: "3 15 * * *"
+    - cron: "3 16 * * *"
+    - cron: "3 17 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (print what would post, publish nothing)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: thoughts4us
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: thoughts4us
+    env:
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+      GRAPH_HOST: ${{ vars.GRAPH_HOST }}
+      DRY: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '--dry-run' || '' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Publish due posts
+        run: python autopost.py $DRY
+
+      - name: Answer comments
+        run: python replybot.py $DRY
+        continue-on-error: true
+
+      - name: Save state
+        if: env.DRY == ''
+        working-directory: .
+        run: |
+          git config user.name "thoughts4us-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add thoughts4us/state
+          git diff --cached --quiet || git commit -m "autopost: update state [skip ci]"
+          git push
