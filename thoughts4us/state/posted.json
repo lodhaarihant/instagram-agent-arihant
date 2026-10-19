@@ -242,13 +242,43 @@
   "posted_at": "2026-10-19T05:08:01.623157+00:00"
  },
  "d3-0900-quote": {
-  "attempts": 1,
-  "error": "POST 17841421482603186/media_publish: HTTP 400: The requested resource does not exist"
+  "skipped": "too late",
+  "at": "2026-10-19T11:06:43.836151+00:00"
  },
  "d3-1000-choice": {
   "media_id": "17871622890647065",
   "permalink": "https://www.instagram.com/stories/thoughts4us.official/4011151032037851843",
   "media": "STORIES",
   "posted_at": "2026-10-19T05:08:16.787566+00:00"
+ },
+ "d3-1200-pointer": {
+  "skipped": "too late",
+  "at": "2026-10-19T11:06:43.836151+00:00"
+ },
+ "d3-1400-prompt": {
+  "skipped": "too late",
+  "at": "2026-10-19T11:06:43.836151+00:00"
+ },
+ "d3-1100-quote_am": {
+  "media_id": "17922848688442756",
+  "permalink": "https://www.instagram.com/reel/DerHTLBlGJs/",
+  "media": "REELS",
+  "posted_at": "2026-10-19T11:08:09.079248+00:00"
+ },
+ "d3-1300-noon": {
+  "attempts": 1,
+  "error": "POST 17841421482603186/media_publish: HTTP 400: Media ID is not available"
+ },
+ "d3-1500-line": {
+  "media_id": "17992621011064687",
+  "permalink": "https://www.instagram.com/reel/DerHbpyDggo/",
+  "media": "REELS",
+  "posted_at": "2026-10-19T11:09:20.560906+00:00"
+ },
+ "d3-1600-reminder": {
+  "media_id": "18122152501734106",
+  "permalink": "https://www.instagram.com/stories/thoughts4us.official/4011332855687536998",
+  "media": "STORIES",
+  "posted_at": "2026-10-19T11:09:32.264937+00:00"
  }
 }
