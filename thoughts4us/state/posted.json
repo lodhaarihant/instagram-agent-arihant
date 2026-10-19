@@ -234,5 +234,21 @@
   "permalink": "https://www.instagram.com/reel/DeqF9CCERTY/",
   "media": "REELS",
   "posted_at": "2026-10-19T01:37:00.641769+00:00"
+ },
+ "d3-0800-quote": {
+  "media_id": "17970716814178976",
+  "permalink": "https://www.instagram.com/p/DeqeHwSjs0y/",
+  "media": "IMAGE",
+  "posted_at": "2026-10-19T05:08:01.623157+00:00"
+ },
+ "d3-0900-quote": {
+  "attempts": 1,
+  "error": "POST 17841421482603186/media_publish: HTTP 400: The requested resource does not exist"
+ },
+ "d3-1000-choice": {
+  "media_id": "17871622890647065",
+  "permalink": "https://www.instagram.com/stories/thoughts4us.official/4011151032037851843",
+  "media": "STORIES",
+  "posted_at": "2026-10-19T05:08:16.787566+00:00"
  }
 }
