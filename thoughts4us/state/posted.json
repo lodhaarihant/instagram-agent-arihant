@@ -390,8 +390,8 @@
   "at": "2026-10-20T15:18:23.922171+00:00"
  },
  "d4-1800-main": {
-  "attempts": 1,
-  "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
+  "skipped": "too late",
+  "at": "2026-10-20T19:31:25.976773+00:00"
  },
  "d4-1900-quote_pm": {
   "media_id": "17912294412552593",
@@ -404,5 +404,25 @@
   "permalink": "https://www.instagram.com/stories/thoughts4us.official/4012183653140855941",
   "media": "STORIES",
   "posted_at": "2026-10-20T15:19:53.549022+00:00"
+ },
+ "d4-2100-fragment": {
+  "skipped": "too late",
+  "at": "2026-10-20T19:31:25.976773+00:00"
+ },
+ "d4-2300-fill": {
+  "skipped": "too late",
+  "at": "2026-10-20T19:31:25.976773+00:00"
+ },
+ "d4-2200-poem": {
+  "media_id": "18075499355769436",
+  "permalink": "https://www.instagram.com/reel/Deulz8dgru4/",
+  "media": "REELS",
+  "posted_at": "2026-10-20T19:32:33.637422+00:00"
+ },
+ "d4-0000-night": {
+  "media_id": "18315251392304521",
+  "permalink": "https://www.instagram.com/stories/thoughts4us.official/4012310909515972707",
+  "media": "STORIES",
+  "posted_at": "2026-10-20T19:32:44.961040+00:00"
  }
 }
