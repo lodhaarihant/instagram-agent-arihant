@@ -442,8 +442,8 @@
   "posted_at": "2026-10-21T01:57:46.098191+00:00"
  },
  "d5-0800-quote": {
-  "attempts": 1,
-  "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
+  "skipped": "too late",
+  "at": "2026-10-21T10:29:58.335792+00:00"
  },
  "d5-0900-quote": {
   "media_id": "18636323689001620",
@@ -452,7 +452,31 @@
   "posted_at": "2026-10-21T05:11:48.704962+00:00"
  },
  "d5-1000-choice": {
+  "skipped": "too late",
+  "at": "2026-10-21T10:29:58.335792+00:00"
+ },
+ "d5-1200-pointer": {
+  "skipped": "too late",
+  "at": "2026-10-21T10:29:58.335792+00:00"
+ },
+ "d5-1100-quote_am": {
+  "media_id": "18110057891237994",
+  "permalink": "https://www.instagram.com/reel/DewMoRainRm/",
+  "media": "REELS",
+  "posted_at": "2026-10-21T10:30:48.502447+00:00"
+ },
+ "d5-1300-noon": {
+  "attempts": 1,
+  "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
+ },
+ "d5-1400-prompt": {
   "attempts": 1,
   "error": "POST 17841421482603186/media_publish: HTTP 400: The requested resource does not exist"
+ },
+ "d5-1500-line": {
+  "media_id": "17886226800505729",
+  "permalink": "https://www.instagram.com/reel/DewMx1uj0kU/",
+  "media": "REELS",
+  "posted_at": "2026-10-21T10:32:14.403478+00:00"
  }
 }
