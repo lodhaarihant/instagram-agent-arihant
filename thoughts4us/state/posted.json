@@ -466,17 +466,45 @@
   "posted_at": "2026-10-21T10:30:48.502447+00:00"
  },
  "d5-1300-noon": {
-  "attempts": 1,
-  "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
+  "skipped": "too late",
+  "at": "2026-10-21T15:31:56.042694+00:00"
  },
  "d5-1400-prompt": {
-  "attempts": 1,
-  "error": "POST 17841421482603186/media_publish: HTTP 400: The requested resource does not exist"
+  "skipped": "too late",
+  "at": "2026-10-21T15:31:56.042694+00:00"
  },
  "d5-1500-line": {
   "media_id": "17886226800505729",
   "permalink": "https://www.instagram.com/reel/DewMx1uj0kU/",
   "media": "REELS",
   "posted_at": "2026-10-21T10:32:14.403478+00:00"
+ },
+ "d5-1600-reminder": {
+  "skipped": "too late",
+  "at": "2026-10-21T15:31:56.042694+00:00"
+ },
+ "d5-1700-choice2": {
+  "skipped": "too late",
+  "at": "2026-10-21T15:31:56.042694+00:00"
+ },
+ "d5-1800-main": {
+  "attempts": 1,
+  "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
+ },
+ "d5-1900-quote_pm": {
+  "media_id": "18447952342134518",
+  "permalink": "https://www.instagram.com/reel/DewvM7qkslM/",
+  "media": "REELS",
+  "posted_at": "2026-10-21T15:33:02.718132+00:00"
+ },
+ "d5-2000-pointer2": {
+  "media_id": "18108014645214322",
+  "permalink": "https://www.instagram.com/stories/thoughts4us.official/4012915129540939010",
+  "media": "STORIES",
+  "posted_at": "2026-10-21T15:33:12.407291+00:00"
+ },
+ "d5-2100-fragment": {
+  "attempts": 1,
+  "error": "POST 17841421482603186/media_publish: HTTP 400: The requested resource does not exist"
  }
 }
