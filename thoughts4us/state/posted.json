@@ -440,5 +440,19 @@
   "permalink": "https://www.instagram.com/reel/DevR6XhgcQH/",
   "media": "REELS",
   "posted_at": "2026-10-21T01:57:46.098191+00:00"
+ },
+ "d5-0800-quote": {
+  "attempts": 1,
+  "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
+ },
+ "d5-0900-quote": {
+  "media_id": "18636323689001620",
+  "permalink": "https://www.instagram.com/stories/thoughts4us.official/4012602406102006590",
+  "media": "STORIES",
+  "posted_at": "2026-10-21T05:11:48.704962+00:00"
+ },
+ "d5-1000-choice": {
+  "attempts": 1,
+  "error": "POST 17841421482603186/media_publish: HTTP 400: The requested resource does not exist"
  }
 }
