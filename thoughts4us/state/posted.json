@@ -570,8 +570,8 @@
   "posted_at": "2026-10-22T10:31:13.932886+00:00"
  },
  "d6-1300-noon": {
-  "attempts": 1,
-  "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
+  "skipped": "too late",
+  "at": "2026-10-22T15:33:10.698466+00:00"
  },
  "d6-1500-line": {
   "media_id": "17889539502623623",
@@ -584,5 +584,31 @@
   "permalink": "https://www.instagram.com/stories/thoughts4us.official/4013488772394122004",
   "media": "STORIES",
   "posted_at": "2026-10-22T10:32:57.845555+00:00"
+ },
+ "d6-1700-choice2": {
+  "skipped": "too late",
+  "at": "2026-10-22T15:33:10.698466+00:00"
+ },
+ "d6-1800-main": {
+  "attempts": 1,
+  "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
+ },
+ "d6-1900-quote_pm": {
+  "media_id": "18017341907747715",
+  "permalink": "https://www.instagram.com/reel/DezUK0dlgKS/",
+  "media": "REELS",
+  "posted_at": "2026-10-22T15:34:33.042403+00:00"
+ },
+ "d6-2000-pointer2": {
+  "media_id": "18638350036054887",
+  "permalink": "https://www.instagram.com/stories/thoughts4us.official/4013640664122511663",
+  "media": "STORIES",
+  "posted_at": "2026-10-22T15:34:43.955963+00:00"
+ },
+ "d6-2100-fragment": {
+  "media_id": "17993001618023328",
+  "permalink": "https://www.instagram.com/stories/thoughts4us.official/4013640758074922730",
+  "media": "STORIES",
+  "posted_at": "2026-10-22T15:34:54.778937+00:00"
  }
 }
