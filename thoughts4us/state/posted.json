@@ -538,5 +538,21 @@
   "permalink": "https://www.instagram.com/reel/Dex1ae1AutZ/",
   "media": "REELS",
   "posted_at": "2026-10-22T01:46:37.529219+00:00"
+ },
+ "d6-0800-quote": {
+  "attempts": 1,
+  "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
+ },
+ "d6-0900-quote": {
+  "media_id": "18110475071183198",
+  "permalink": "https://www.instagram.com/stories/thoughts4us.official/4013328881071269270",
+  "media": "STORIES",
+  "posted_at": "2026-10-22T05:15:17.398863+00:00"
+ },
+ "d6-1000-choice": {
+  "media_id": "18037072040814753",
+  "permalink": "https://www.instagram.com/stories/thoughts4us.official/4013328981541635567",
+  "media": "STORIES",
+  "posted_at": "2026-10-22T05:15:28.243468+00:00"
  }
 }
