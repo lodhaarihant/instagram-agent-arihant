@@ -1,6 +1,6 @@
 # The Instagram agent skill
 
-Thirteen Claude skills that run an Instagram account. Free, MIT, no signup, no
+Fourteen Claude skills that run an Instagram account. Free, MIT, no signup, no
 API key, nothing to connect.
 
 One of them writes your Reels off 26 hook formulas and scores the hook before
@@ -52,7 +52,7 @@ reels and say "write my voice.md from these". Every skill reads that file. It
 matters more here than on other platforms, because you have to say the words
 out loud.
 
-## The thirteen
+## The fourteen
 
 | command | what it does |
 | --- | --- |
@@ -68,6 +68,7 @@ out loud.
 | `/ig-reply` | The thread under your own post. Sorts into keyword / lead / substance / question / support / noise, then writes in that order. |
 | `/ig-dm` | The keyword delivery, the first message, the collab pitch, and the two follow-ups. Two. |
 | `/ig-repurpose` | One video, podcast or newsletter into a week of reels and carousels that each stand alone. |
+| `/ig-music` | Finds the silent reels and adds a random track from `music/`, cut to the stretch that best fits the clip's length. Turns images into music videos too. |
 | `/ig-audit` | Post-mortem on what you already posted. Ranks by outlier multiple and sends per reach, not views. |
 
 ## The five tools that actually run

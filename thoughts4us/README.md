@@ -101,9 +101,36 @@ minutes late; posts go out on the next run that sees them due.
 - **No stickers.** The API can't add polls, question boxes or links to
   stories, so the story prompts say "reply here", which lands in your DMs.
   Add a poll by hand on any day you're around.
-- **No music on reels.** The API can't attach licensed audio. The reels are
-  silent text reels.
+- **No Instagram-library music.** The API can't attach songs from Instagram's
+  library. Instead `render.py` bakes a track from `music/` into every reel
+  (one per reel, chosen from its post id). Drop more MP3s into `music/` and
+  re-render to use them.
 - **No engagement on other accounts.** Commenting, liking, following or DMing
   other people by bot breaks Instagram's terms and gets accounts blocked.
   `engagement.md` is the 20-minute daily routine for that, with Claude drafting.
 - **DMs** are answered by you. Paste them into Claude with `/ig-dm`.
+
+## Week 2: the Bhagavad Gita (Sat 24 to Fri 30 Oct 2026)
+
+Same 20-a-day schedule, one theme a day: Karma, the mind and rest, staying steady,
+the soul, devotion, knowledge, peace. Every verse is cited by chapter and verse, in
+plain wording of ours; check it against the translation you prefer before it goes out.
+
+| file | job |
+| --- | --- |
+| `content_krishna.py` | all week 2 words. Edit here, then rerun. |
+| `bg.py` | which artwork each day uses, and where the text sits on it |
+| `backgrounds/` | the artwork (from the reference pins). Swap a file to change a look |
+| `render_krishna.py` | renders `schedule/week2.json` to `media/week2/` |
+
+```bash
+cd thoughts4us && ../.venv/bin/python content_krishna.py && ../.venv/bin/python render_krishna.py schedule/week2.json && python3 preview.py schedule/week2.json && python3 pack.py schedule/week2.json
+```
+
+- **Music:** every reel and the 05:00 and 00:00 story videos carry a flute track from
+  `music/flute/`. The two "native american" flutes are skipped on purpose.
+- **No voice-over in week 2.** Reels and the 05:00 and 00:00 stories are flute only, slowed to 80% (`MUSIC_TEMPO` in
+  `render_krishna.py`). The voice code is still there: set `VOICE_OVER = True` in `content_krishna.py`, rerun it, and re-render
+  to read the English aloud again, or save a recording as `voice/<post id>.mp3`.
+- **Artwork:** the images come from Pinterest pins and belong to their artists. Get
+  permission or licences before posting them on a page you plan to earn from.
