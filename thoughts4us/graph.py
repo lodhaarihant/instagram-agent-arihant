@@ -88,6 +88,9 @@ class Graph:
             p["caption"] = caption
         return self.post(f"{self.user}/media", **p)["id"]
 
+    def story_video(self, url):
+        return self.post(f"{self.user}/media", media_type="STORIES", video_url=url)["id"]
+
     def carousel(self, urls, caption):
         children = [self.image(u, carousel_item=True) for u in urls]
         for c in children:

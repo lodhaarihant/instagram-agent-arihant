@@ -48,7 +48,7 @@ def publish(g, p, files, base):
     if m == "IMAGE":
         c = g.image(urls[0], caption=p["caption"])
     elif m == "STORIES":
-        c = g.image(urls[0], story=True)
+        c = g.story_video(urls[0]) if urls[0].endswith(".mp4") else g.image(urls[0], story=True)
     elif m == "CAROUSEL":
         c = g.carousel(urls, p["caption"])
     elif m == "REELS":

@@ -1,9 +1,10 @@
 name: thoughts4us autopost
 
-# One run shortly after every hour from 05:00 to 00:00 IST (UTC+5:30), which
-# is 23:30 to 18:30 UTC. GitHub can start scheduled runs late on busy days;
-# autopost.py publishes whatever is due, so a late run still posts, and
-# stories more than 2h late are skipped.
+# GitHub's cron is unreliable (it ran ~5 times a day instead of 20), so a live
+# run does not exit after one pass. loop.sh checks for due posts every 5
+# minutes for 5 hours, then this workflow dispatches its own replacement.
+# The cron below is only a backup that restarts the chain if it ever breaks;
+# the concurrency group means at most one live run is going, one is queued.
 on:
   schedule:
     - cron: "33 23 * * *"
@@ -17,15 +18,18 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
+# Dry runs get their own group so a manual test can't replace the queued
+# live run that carries the chain forward.
 concurrency:
-  group: thoughts4us
+  group: thoughts4us-${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'dry' || 'live' }}
   cancel-in-progress: false
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 340
     defaults:
       run:
         working-directory: thoughts4us
@@ -45,19 +49,25 @@ jobs:
         if: env.DRY != ''
         run: python autopost.py --check
 
-      - name: Publish due posts
-        run: python autopost.py $DRY
-
-      - name: Answer comments
-        run: python replybot.py $DRY
-        continue-on-error: true
-
-      - name: Save state
-        if: env.DRY == ''
-        working-directory: .
+      - name: Dry run
+        if: env.DRY != ''
         run: |
-          git config user.name "thoughts4us-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add thoughts4us/state
-          git diff --cached --quiet || git commit -m "autopost: update state [skip ci]"
-          git push
+          python autopost.py $DRY
+          python replybot.py $DRY || true
+
+      - name: Publish loop (5h)
+        if: env.DRY == ''
+        run: bash loop.sh
+
+      - name: Start the next run
+        if: env.DRY == '' && (success() || failure())
+        working-directory: .
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for i in 1 2 3; do
+            gh workflow run thoughts4us.yml --ref "${GITHUB_REF_NAME}" -f dry_run=false && exit 0
+            sleep 20
+          done
+          echo "could not start the next run; the cron backup will restart the chain" >&2
+          exit 1
