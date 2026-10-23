@@ -694,7 +694,7 @@
   "at": "2026-10-23T15:23:43.674380+00:00"
  },
  "d7-1800-main": {
-  "attempts": 2,
+  "attempts": 3,
   "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
  },
  "d7-1900-quote_pm": {
