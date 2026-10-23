@@ -1,0 +1,3726 @@
+{
+ "handle": "@thoughts4us.official",
+ "posts": [
+  {
+   "id": "d1-0500-morning",
+   "at": "2026-10-24T05:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a1",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "Get up, Arjuna.",
+    "Be ready."
+   ],
+   "credit": "Bhagavad Gita 2.37",
+   "voice": false,
+   "verse": {
+    "ref": "2.37",
+    "deva": [
+     "तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ॥"
+    ],
+    "tr": [
+     "tasmād uttiṣhṭha kaunteya yuddhāya kṛita-niśhchayaḥ"
+    ]
+   }
+  },
+  {
+   "id": "d1-0600-affirm",
+   "at": "2026-10-24T06:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a5",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "Today I do my part\nand let go of the rest."
+  },
+  {
+   "id": "d1-0700-reel_am7",
+   "at": "2026-10-24T07:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a1",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "You have a right to your work,",
+    "but never to its fruits.",
+    "Do not let the reward be your reason,",
+    "and do not cling to doing nothing."
+   ],
+   "credit": "Bhagavad Gita 2.47",
+   "voice": false,
+   "verse": {
+    "ref": "2.47",
+    "deva": [
+     "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+     "मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥"
+    ],
+    "tr": [
+     "karmaṇy-evādhikāras te mā phaleṣhu kadāchana",
+     "mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi"
+    ]
+   },
+   "caption": "Krishna's most quoted line, and the one most of us only read half of.\n\nNew here? The Gita is a conversation between Arjuna, a warrior, and Krishna, his charioteer and friend, on the eve of a war. This is the line people quote most.\n\nIt says the effort is yours and the result never was. Then it adds the second half: do not hide in doing nothing.\n\nBhagavad Gita 2.47, on karma.\n\nWhich half did you need today? Tell me below.\n\n#bhagavadgita #krishna #karmayoga"
+  },
+  {
+   "id": "d1-0800-card",
+   "at": "2026-10-24T08:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a5",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "quote",
+   "media": "IMAGE",
+   "quote": "Do the work that is yours to do. Action is better than doing nothing.",
+   "author": "Krishna to Arjuna",
+   "source": "Bhagavad Gita 3.8",
+   "verse": {
+    "ref": "3.8",
+    "deva": [
+     "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।"
+    ],
+    "tr": [
+     "niyataṁ kuru karma tvaṁ karma jyāyo hyakarmaṇaḥ"
+    ]
+   },
+   "caption": "Arjuna sat down in the middle of the battlefield and said he couldn't do it. This is part of Krishna's answer.\n\nNot a pep talk. A reason to take one small step, even when the whole thing feels too big.\n\nThe verse goes on: even keeping the body going takes some work.\n\nBhagavad Gita 3.8, on karma.\n\nWhat is one small step you've been putting off? Tell me below.\n\n#bhagavadgita #krishna #karmayoga"
+  },
+  {
+   "id": "d1-0900-quote",
+   "at": "2026-10-24T09:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a1",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story",
+   "story": "quote",
+   "media": "STORIES",
+   "quote": "Stay steady, do your work,\nand let go of attachment\nto success or failure.",
+   "author": "Bhagavad Gita 2.48",
+   "verse": {
+    "ref": "2.48",
+    "deva": [
+     "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।",
+     "सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥"
+    ],
+    "tr": [
+     "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya",
+     "siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate"
+    ]
+   }
+  },
+  {
+   "id": "d1-1000-choice",
+   "at": "2026-10-24T10:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a5",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Effort",
+   "b": "Outcome"
+  },
+  {
+   "id": "d1-1100-reel_am11",
+   "at": "2026-10-24T11:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a1",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Better to do your own work",
+    "imperfectly,",
+    "than someone else's",
+    "perfectly."
+   ],
+   "credit": "Bhagavad Gita 3.35",
+   "voice": false,
+   "verse": {
+    "ref": "3.35",
+    "deva": [
+     "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।"
+    ],
+    "tr": [
+     "śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt"
+    ]
+   },
+   "caption": "Krishna on comparison, in four short lines.\n\nVerse 3.35. Your path has your name on it, even when it looks messier than the one next to you.\n\nBhagavad Gita 3.35, on karma.\n\nShare this with someone who keeps comparing.\n\n#bhagavadgita #krishna #karmayoga"
+  },
+  {
+   "id": "d1-1200-pointer",
+   "at": "2026-10-24T12:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a5",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "This morning's reel:\nYou have a right to your work, but never to its fruits.",
+   "note": "Watch it on the page"
+  },
+  {
+   "id": "d1-1300-noon",
+   "at": "2026-10-24T13:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a1",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "5 small ways to use the Gita at work",
+    "sub": "No incense needed. Just a Saturday and a to-do list.",
+    "stake": "The verses are 2,000 years old. The to-do list is yours.",
+    "slides": [
+     [
+      "Do the next task, not the whole list.",
+      "",
+      "2.47: you own the effort of this one thing."
+     ],
+     [
+      "Say what you did, not what you hoped.",
+      "",
+      "2.48: success and failure are the same weather."
+     ],
+     [
+      "Do the boring task before the shiny one.",
+      "",
+      "3.8: action beats thinking about action."
+     ],
+     [
+      "Stop checking how others are doing.",
+      "",
+      "3.35: their path is not your homework."
+     ],
+     [
+      "Be the person you want your team to copy.",
+      "",
+      "3.21: they watch you more than they listen."
+     ]
+    ],
+    "recap": [
+     "One task",
+     "Honest report",
+     "Boring first",
+     "Eyes on your own",
+     "Be the example"
+    ],
+    "cta": "Save this. Use number 1 on Monday.",
+    "verses": [
+     {
+      "ref": "2.47",
+      "deva": [
+       "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+       "मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥"
+      ],
+      "tr": [
+       "karmaṇy-evādhikāras te mā phaleṣhu kadāchana",
+       "mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi"
+      ]
+     },
+     {
+      "ref": "2.48",
+      "deva": [
+       "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।",
+       "सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥"
+      ],
+      "tr": [
+       "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya",
+       "siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate"
+      ]
+     },
+     {
+      "ref": "3.8",
+      "deva": [
+       "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।",
+       "शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ॥"
+      ],
+      "tr": [
+       "niyataṁ kuru karma tvaṁ karma jyāyo hyakarmaṇaḥ",
+       "śharīra-yātrāpi cha te na prasiddhyed akarmaṇaḥ"
+      ]
+     },
+     {
+      "ref": "3.35",
+      "deva": [
+       "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।",
+       "स्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥"
+      ],
+      "tr": [
+       "śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt",
+       "swa-dharme nidhanaṁ śhreyaḥ para-dharmo bhayāvahaḥ"
+      ]
+     },
+     {
+      "ref": "3.21",
+      "deva": [
+       "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।",
+       "स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥"
+      ],
+      "tr": [
+       "yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ",
+       "sa yat pramāṇaṁ kurute lokas tad anuvartate"
+      ]
+     }
+    ]
+   },
+   "caption": "5 small ways to use the Gita at work. Number 4 helps most.\n\nPlain words, not translations, with the verse behind each one. Take what helps, ignore what doesn't.\n\nBhagavad Gita, on karma.\n\nWhich one will you try first? Tell me the number.\n\n#bhagavadgita #karmayoga #workwisdom"
+  },
+  {
+   "id": "d1-1400-prompt",
+   "at": "2026-10-24T14:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a5",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "One task you'll do today\nwithout needing applause?",
+   "note": "Reply here. I read every one."
+  },
+  {
+   "id": "d1-1500-line",
+   "at": "2026-10-24T15:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a1",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Do the thing.",
+    "Let go of the applause.",
+    "Come back tomorrow",
+    "and do it again."
+   ],
+   "credit": "in plain words",
+   "voice": false,
+   "verse": null,
+   "caption": "The Gita on work, in plain words.\n\nNot a translation. The verses behind it are 2.47 and 3.8.\n\nBhagavad Gita, on karma.\n\nSave it for Monday.\n\n#karmayoga #gitawisdom #dailywisdom"
+  },
+  {
+   "id": "d1-1600-reminder",
+   "at": "2026-10-24T16:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a5",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "Drink some water.\nThe work can wait two minutes."
+  },
+  {
+   "id": "d1-1700-choice2",
+   "at": "2026-10-24T17:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a1",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Start small",
+   "b": "Start big"
+  },
+  {
+   "id": "d1-1800-main",
+   "at": "2026-10-24T18:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a5",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "Gita 2.47, one phrase at a time",
+    "sub": "The verse everyone quotes and few read slowly.",
+    "stake": "Four phrases. Each one says something different.",
+    "slides": [
+     [
+      "You have a right to your work.",
+      "2.47, part 1",
+      "The effort is yours. Nobody can take it."
+     ],
+     [
+      "But not to its fruits.",
+      "2.47, part 2",
+      "The result depends on a hundred things you don't control."
+     ],
+     [
+      "Do not let the reward be your reason.",
+      "2.47, part 3",
+      "Work because it's worth doing. Anything extra is a bonus."
+     ],
+     [
+      "And do not cling to doing nothing.",
+      "2.47, part 4",
+      "The verse is not permission to quit. It says the opposite."
+     ]
+    ],
+    "recap": [
+     "Effort is yours",
+     "Results are not",
+     "Work for the work",
+     "Don't quit"
+    ],
+    "cta": "Share it with someone who is waiting for results.",
+    "verses": [
+     {
+      "ref": "2.47",
+      "deva": [
+       "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।"
+      ],
+      "tr": [
+       "karmaṇy-evādhikāras te mā phaleṣhu kadāchana"
+      ]
+     },
+     {
+      "ref": "2.47",
+      "deva": [
+       "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।"
+      ],
+      "tr": [
+       "karmaṇy-evādhikāras te mā phaleṣhu kadāchana"
+      ]
+     },
+     {
+      "ref": "2.47",
+      "deva": [
+       "मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥"
+      ],
+      "tr": [
+       "mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi"
+      ]
+     },
+     {
+      "ref": "2.47",
+      "deva": [
+       "मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥"
+      ],
+      "tr": [
+       "mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi"
+      ]
+     }
+    ]
+   },
+   "caption": "Gita 2.47 in four phrases. Most people only quote the second one.\n\nChapter 2, verse 47. Krishna says it to Arjuna on the battlefield, and it has been quoted ever since.\n\nBhagavad Gita, on karma.\n\nWhich phrase hits hardest? Comment its number.\n\n#bhagavadgita #krishna #karmayoga"
+  },
+  {
+   "id": "d1-1900-reel_pm19",
+   "at": "2026-10-24T19:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a1",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Whatever a great person does,",
+    "others follow.",
+    "Whatever standard they set,",
+    "the world walks behind it."
+   ],
+   "credit": "Bhagavad Gita 3.21",
+   "voice": false,
+   "verse": {
+    "ref": "3.21",
+    "deva": [
+     "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।",
+     "स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥"
+    ],
+    "tr": [
+     "yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ",
+     "sa yat pramāṇaṁ kurute lokas tad anuvartate"
+    ]
+   },
+   "caption": "Gita 3.21: what you do matters more than what you say.\n\nYour family, your team and your little cousins are watching what you do, not what you tell them.\n\nBhagavad Gita 3.21, on karma.\n\nWho learned something from watching you? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d1-2000-pointer2",
+   "at": "2026-10-24T20:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a5",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\nGita 2.47, one phrase at a time",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d1-2100-fragment",
+   "at": "2026-10-24T21:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a1",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "The seed doesn't watch the tree.\nIt just does its part."
+  },
+  {
+   "id": "d1-2200-poem",
+   "at": "2026-10-24T22:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a5",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "I stopped counting what I would get.",
+    "The work grew quiet, and light.",
+    "The days were no easier.",
+    "I just stopped asking them for more."
+   ],
+   "credit": "",
+   "voice": false,
+   "verse": null,
+   "caption": "A short poem about doing the work and letting go of the result.\n\nOur own words, inspired by Bhagavad Gita 2.47.\n\nBhagavad Gita, on karma.\n\nSave it for the week you start something.\n\n#poetry #shortpoems #krishna"
+  },
+  {
+   "id": "d1-2300-fill",
+   "at": "2026-10-24T23:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a1",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nToday I did my part by ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d1-0000-night",
+   "at": "2026-10-25T00:00:00+05:30",
+   "day": "2026-10-24",
+   "bg": "a5",
+   "palette": 0,
+   "theme": "Karma",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "Yoga is",
+    "skill in action."
+   ],
+   "credit": "Bhagavad Gita 2.50",
+   "voice": false,
+   "verse": {
+    "ref": "2.50",
+    "deva": [
+     "तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ॥"
+    ],
+    "tr": [
+     "tasmād yogāya yujyasva yogaḥ karmasu kauśhalam"
+    ]
+   }
+  },
+  {
+   "id": "d2-0500-morning",
+   "at": "2026-10-25T05:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b7",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "Like a lamp",
+    "in a windless place,",
+    "the steady mind",
+    "does not flicker."
+   ],
+   "credit": "Bhagavad Gita 6.19",
+   "voice": false,
+   "verse": {
+    "ref": "6.19",
+    "deva": [
+     "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।",
+     "योगिनो यतचित्तस्य युञ्जतो योगमात्मनः ॥"
+    ],
+    "tr": [
+     "yathā dīpo nivāta-stho neṅgate sopamā smṛitā",
+     "yogino yata-chittasya yuñjato yogam ātmanaḥ"
+    ]
+   }
+  },
+  {
+   "id": "d2-0600-affirm",
+   "at": "2026-10-25T06:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b1",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "My mind is allowed\nto rest today."
+  },
+  {
+   "id": "d2-0700-reel_am7",
+   "at": "2026-10-25T07:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b2",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Lift yourself by your own mind.",
+    "Do not let it pull you down.",
+    "The mind can be your friend,",
+    "or your enemy."
+   ],
+   "credit": "Bhagavad Gita 6.5",
+   "voice": false,
+   "verse": {
+    "ref": "6.5",
+    "deva": [
+     "उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत् ।",
+     "आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥"
+    ],
+    "tr": [
+     "uddhared ātmanātmānaṁ nātmānam avasādayet",
+     "ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ"
+    ]
+   },
+   "caption": "Krishna on the voice in your head.\n\nSunday is when it gets loudest. The verse says you hold more of the volume knob than you think.\n\nBhagavad Gita 6.5, on the mind and rest.\n\nIs your mind a friend or a critic today? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d2-0800-card",
+   "at": "2026-10-25T08:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b7",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "quote",
+   "media": "IMAGE",
+   "quote": "For one who has won over the mind, the mind is a friend. For one who hasn't, it acts like an enemy.",
+   "author": "Krishna to Arjuna",
+   "source": "Bhagavad Gita 6.6",
+   "verse": {
+    "ref": "6.6",
+    "deva": [
+     "बन्धुरात्माऽऽत्मनस्तस्य येनात्मैवात्मना जितः ।",
+     "अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥"
+    ],
+    "tr": [
+     "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ",
+     "anātmanas tu śhatrutve vartetātmaiva śhatru-vat"
+    ]
+   },
+   "caption": "Your mind is on a side. This verse says the side depends on you.\n\nWinning over it doesn't mean silencing it. It means not letting every thought drive.\n\nStart with one: the next time it shouts, answer calmly.\n\nBhagavad Gita 6.6, on the mind and rest.\n\nShare it with someone who is hard on themselves.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d2-0900-quote",
+   "at": "2026-10-25T09:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b1",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story",
+   "story": "quote",
+   "media": "STORIES",
+   "quote": "The mind is restless\nand hard to hold.\nPractice and letting go\ncan train it.",
+   "author": "Bhagavad Gita 6.35",
+   "verse": {
+    "ref": "6.35",
+    "deva": [
+     "असंशयं महाबाहो मनो दुर्निग्रहं चलं ।",
+     "अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ॥"
+    ],
+    "tr": [
+     "asanśhayaṁ mahā-bāho mano durnigrahaṁ chalam",
+     "abhyāsena tu kaunteya vairāgyeṇa cha gṛihyate"
+    ]
+   }
+  },
+  {
+   "id": "d2-1000-choice",
+   "at": "2026-10-25T10:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b2",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Silence",
+   "b": "Soft music"
+  },
+  {
+   "id": "d2-1100-reel_am11",
+   "at": "2026-10-25T11:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b7",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Wherever the restless mind wanders,",
+    "bring it back,",
+    "and settle it in the Self."
+   ],
+   "credit": "Bhagavad Gita 6.26",
+   "voice": false,
+   "verse": {
+    "ref": "6.26",
+    "deva": [
+     "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।",
+     "ततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥"
+    ],
+    "tr": [
+     "yato yato niśhcharati manaśh chañchalam asthiram",
+     "tatas tato niyamyaitad ātmanyeva vaśhaṁ nayet"
+    ]
+   },
+   "caption": "Krishna's instruction for a wandering mind. It is the whole practice.\n\nNo scolding in the verse. Just: bring it back. Then bring it back again.\n\nBhagavad Gita 6.26, on the mind and rest.\n\nSave this for the next time you can't focus.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d2-1200-pointer",
+   "at": "2026-10-25T12:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b1",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "This morning's reel:\nLift yourself by your own mind. Do not let it pull you down.",
+   "note": "Watch it on the page"
+  },
+  {
+   "id": "d2-1300-noon",
+   "at": "2026-10-25T13:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b2",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "5 ways to bring a wandering mind back",
+    "sub": "Gentle ones. No sitting cross-legged for an hour.",
+    "stake": "The Gita doesn't say stop the mind from wandering. It says bring it back.",
+    "slides": [
+     [
+      "Name it. \"Thinking about Monday.\"",
+      "",
+      "Naming a thought is the first step back."
+     ],
+     [
+      "Look at one thing for ten breaths.",
+      "",
+      "A cup, a leaf, a window. Anything."
+     ],
+     [
+      "Walk slowly, on purpose.",
+      "",
+      "Feel each foot land. Takes two minutes."
+     ],
+     [
+      "Do one thing at a time today.",
+      "",
+      "Eat without the phone. Cook without a podcast."
+     ],
+     [
+      "Forgive the drift and begin again.",
+      "",
+      "6.26: bring it back. That is all of it."
+     ]
+    ],
+    "recap": [
+     "Name it",
+     "One object",
+     "Slow walk",
+     "One thing at a time",
+     "Begin again"
+    ],
+    "cta": "Save this. Try number 2 on Monday.",
+    "verses": [
+     null,
+     null,
+     null,
+     null,
+     {
+      "ref": "6.26",
+      "deva": [
+       "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।",
+       "ततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥"
+      ],
+      "tr": [
+       "yato yato niśhcharati manaśh chañchalam asthiram",
+       "tatas tato niyamyaitad ātmanyeva vaśhaṁ nayet"
+      ]
+     }
+    ]
+   },
+   "caption": "5 ways to bring a wandering mind back. None of them need a mat.\n\nPlain words, with the verse behind each idea. The Gita's answer to a busy mind is practice, not punishment.\n\nBhagavad Gita, on the mind and rest.\n\nWhich one will you try? Tell me the number.\n\n#mindfulness #bhagavadgita #krishna"
+  },
+  {
+   "id": "d2-1400-prompt",
+   "at": "2026-10-25T14:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b7",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "What is your mind\nchasing today?",
+   "note": "Reply here. I read every one."
+  },
+  {
+   "id": "d2-1500-line",
+   "at": "2026-10-25T15:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b1",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "A wandering mind",
+    "is not a broken one.",
+    "Bring it back.",
+    "That is the practice."
+   ],
+   "credit": "in plain words",
+   "voice": false,
+   "verse": null,
+   "caption": "The Gita on attention, in plain words.\n\nNot a translation. The verses behind it are 6.26 and 6.35.\n\nBhagavad Gita, on the mind and rest.\n\nShare it with someone who can't sit still.\n\n#mindfulness #gitawisdom #krishna"
+  },
+  {
+   "id": "d2-1600-reminder",
+   "at": "2026-10-25T16:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b2",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "Close your eyes for one minute.\nBreathe out slowly."
+  },
+  {
+   "id": "d2-1700-choice2",
+   "at": "2026-10-25T17:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b7",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Walk alone",
+   "b": "Walk with someone"
+  },
+  {
+   "id": "d2-1800-main",
+   "at": "2026-10-25T18:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b1",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "Gita 6.6, the mind as friend or enemy",
+    "sub": "One verse, four ways to read it.",
+    "stake": "Krishna says it plainly: your mind can work for you or against you.",
+    "slides": [
+     [
+      "The mind can be your friend.",
+      "6.6, part 1",
+      "When it's trained, it helps. It reminds you what matters."
+     ],
+     [
+      "The mind can be your enemy.",
+      "6.6, part 2",
+      "When it isn't, it argues with everything you try."
+     ],
+     [
+      "Which one it is depends on you.",
+      "6.5",
+      "\"Lift yourself by your own mind.\" You have a hand in it."
+     ],
+     [
+      "Start with one small habit.",
+      "6.17",
+      "Moderate food, work, sleep and rest. A steady body helps a steady mind."
+     ]
+    ],
+    "recap": [
+     "Mind as friend",
+     "Mind as enemy",
+     "It depends on you",
+     "Small habits first"
+    ],
+    "cta": "Share it with someone whose mind is loud.",
+    "verses": [
+     {
+      "ref": "6.6",
+      "deva": [
+       "बन्धुरात्माऽऽत्मनस्तस्य येनात्मैवात्मना जितः ।"
+      ],
+      "tr": [
+       "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ"
+      ]
+     },
+     {
+      "ref": "6.6",
+      "deva": [
+       "बन्धुरात्माऽऽत्मनस्तस्य येनात्मैवात्मना जितः ।"
+      ],
+      "tr": [
+       "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ"
+      ]
+     },
+     {
+      "ref": "6.5",
+      "deva": [
+       "उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत् ।",
+       "आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥"
+      ],
+      "tr": [
+       "uddhared ātmanātmānaṁ nātmānam avasādayet",
+       "ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ"
+      ]
+     },
+     {
+      "ref": "6.17",
+      "deva": [
+       "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।",
+       "युक्तस्वप्नावबोधस्य योगो भवति दुःखहा ॥"
+      ],
+      "tr": [
+       "yuktāhāra-vihārasya yukta-cheṣhṭasya karmasu",
+       "yukta-svapnāvabodhasya yogo bhavati duḥkha-hā"
+      ]
+     }
+    ]
+   },
+   "caption": "Gita 6.6: your mind is either a friend or an enemy. Which one is it today?\n\nChapter 6 is the Gita's chapter on the mind. These are its clearest lines.\n\nBhagavad Gita, on the mind and rest.\n\nFriend or enemy today? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d2-1900-reel_pm19",
+   "at": "2026-10-25T19:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b2",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "For one who is moderate",
+    "in eating and in rest,",
+    "in work, in sleep and in waking,",
+    "yoga ends all sorrow."
+   ],
+   "credit": "Bhagavad Gita 6.17",
+   "voice": false,
+   "verse": {
+    "ref": "6.17",
+    "deva": [
+     "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।",
+     "युक्तस्वप्नावबोधस्य योगो भवति दुःखहा ॥"
+    ],
+    "tr": [
+     "yuktāhāra-vihārasya yukta-cheṣhṭasya karmasu",
+     "yukta-svapnāvabodhasya yogo bhavati duḥkha-hā"
+    ]
+   },
+   "caption": "Krishna on balance: eat, work, sleep, rest. None of it in extremes.\n\nWritten long before anyone said burnout. Rest is part of the practice, and it always has been.\n\nBhagavad Gita 6.17, on the mind and rest.\n\nWhat is one thing you will do slower this week? Tell me below.\n\n#bhagavadgita #krishna #rest"
+  },
+  {
+   "id": "d2-2000-pointer2",
+   "at": "2026-10-25T20:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b7",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\nGita 6.6, the mind as friend or enemy",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d2-2100-fragment",
+   "at": "2026-10-25T21:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b1",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "A still lake\nshows the whole sky."
+  },
+  {
+   "id": "d2-2200-poem",
+   "at": "2026-10-25T22:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b2",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "My mind is a lake in the wind.",
+    "I stopped throwing stones.",
+    "By evening the water",
+    "showed the sky again."
+   ],
+   "credit": "",
+   "voice": false,
+   "verse": null,
+   "caption": "A short poem for a restless Sunday night.\n\nOur own words, inspired by Bhagavad Gita 6.19.\n\nBhagavad Gita, on the mind and rest.\n\nSave it for when your mind is loud.\n\n#poetry #shortpoems #krishna"
+  },
+  {
+   "id": "d2-2300-fill",
+   "at": "2026-10-25T23:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b7",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nMy mind feels calmest when ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d2-0000-night",
+   "at": "2026-10-26T00:00:00+05:30",
+   "day": "2026-10-25",
+   "bg": "b1",
+   "palette": 1,
+   "theme": "The mind and rest",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "Even a little of this practice",
+    "protects you from great fear."
+   ],
+   "credit": "Bhagavad Gita 2.40",
+   "voice": false,
+   "verse": {
+    "ref": "2.40",
+    "deva": [
+     "स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥"
+    ],
+    "tr": [
+     "svalpam apyasya dharmasya trāyate mahato bhayāt"
+    ]
+   }
+  },
+  {
+   "id": "d3-0500-morning",
+   "at": "2026-10-26T05:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a2",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "No one who does good",
+    "ever comes to a bad end."
+   ],
+   "credit": "Bhagavad Gita 6.40",
+   "voice": false,
+   "verse": {
+    "ref": "6.40",
+    "deva": [
+     "नहि कल्याणकृत्कश्िचद्दुर्गतिं तात गच्छति ॥"
+    ],
+    "tr": [
+     "na hi kalyāṇa-kṛit kaśhchid durgatiṁ tāta gachchhati"
+    ]
+   }
+  },
+  {
+   "id": "d3-0600-affirm",
+   "at": "2026-10-26T06:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a6",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "I can handle\nwhat today brings."
+  },
+  {
+   "id": "d3-0700-reel_am7",
+   "at": "2026-10-26T07:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a2",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Heat and cold, pleasure and pain,",
+    "they come and they go.",
+    "They do not stay.",
+    "Bear them, Arjuna."
+   ],
+   "credit": "Bhagavad Gita 2.14",
+   "voice": false,
+   "verse": {
+    "ref": "2.14",
+    "deva": [
+     "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः ।",
+     "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥"
+    ],
+    "tr": [
+     "mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ",
+     "āgamāpāyino ’nityās tans-titikṣhasva bhārata"
+    ]
+   },
+   "caption": "Krishna on every Monday that feels like it will last forever.\n\nVerse 2.14. Everything the senses bring in, good or bad, arrives and leaves. You are not stuck with it.\n\nBhagavad Gita 2.14, on staying steady.\n\nShare this with someone having a heavy Monday.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d3-0800-card",
+   "at": "2026-10-26T08:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a6",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "quote",
+   "media": "IMAGE",
+   "quote": "Treat pleasure and pain, gain and loss, victory and defeat alike. Then prepare for the battle.",
+   "author": "Krishna to Arjuna",
+   "source": "Bhagavad Gita 2.38",
+   "verse": {
+    "ref": "2.38",
+    "deva": [
+     "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ ।",
+     "ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥"
+    ],
+    "tr": [
+     "sukha-duḥkhe same kṛitvā lābhālābhau jayājayau",
+     "tato yuddhāya yujyasva naivaṁ pāpam avāpsyasi"
+    ]
+   },
+   "caption": "Gita 2.38: Krishna's advice before a war was not to feel nothing. It was to stop letting the swings decide.\n\nWin or lose, the next step is the same: prepare, then act.\n\nEasier said than done. Start with one swing today.\n\nBhagavad Gita 2.38, on staying steady.\n\nSave it for the day you need to stay level.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d3-0900-quote",
+   "at": "2026-10-26T09:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a2",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story",
+   "story": "quote",
+   "media": "STORIES",
+   "quote": "One who is not shaken by sorrow\nand does not chase joy\nis steady in wisdom.",
+   "author": "Bhagavad Gita 2.56",
+   "verse": {
+    "ref": "2.56",
+    "deva": [
+     "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः ।",
+     "वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ॥"
+    ],
+    "tr": [
+     "duḥkheṣhv-anudvigna-manāḥ sukheṣhu vigata-spṛihaḥ",
+     "vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate"
+    ]
+   }
+  },
+  {
+   "id": "d3-1000-choice",
+   "at": "2026-10-26T10:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a6",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Hot tea",
+   "b": "Cold water"
+  },
+  {
+   "id": "d3-1100-reel_am11",
+   "at": "2026-10-26T11:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a2",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Rivers flow into the ocean,",
+    "and the ocean does not move.",
+    "Desires flow into the steady mind,",
+    "and it stays at peace."
+   ],
+   "credit": "Bhagavad Gita 2.70",
+   "voice": false,
+   "verse": {
+    "ref": "2.70",
+    "deva": [
+     "आपूर्यमाणमचलप्रतिष्ठं ।",
+     "समुद्रमापः प्रविशन्ति यद्वत् ।",
+     "तद्वत्कामा यं प्रविशन्ति सर्वे ।",
+     "स शान्तिमाप्नोति न कामकामी ॥"
+    ],
+    "tr": [
+     "āpūryamāṇam achala-pratiṣhṭhaṁ",
+     "samudram āpaḥ praviśhanti yadvat",
+     "tadvat kāmā yaṁ praviśhanti sarve",
+     "sa śhāntim āpnoti na kāma-kāmī"
+    ]
+   },
+   "caption": "Krishna's picture of a steady mind is an ocean, not a rock.\n\nThings still arrive. Wants, worries, news. The ocean takes all of it and stays the ocean.\n\nBhagavad Gita 2.70, on staying steady.\n\nSave this for the next wave.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d3-1200-pointer",
+   "at": "2026-10-26T12:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a6",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "This morning's reel:\nHeat and cold, pleasure and pain, they come and they go.",
+   "note": "Watch it on the page"
+  },
+  {
+   "id": "d3-1300-noon",
+   "at": "2026-10-26T13:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a2",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "5 things Krishna tells Arjuna on his worst day",
+    "sub": "He didn't tell him to feel better. He told him what is true.",
+    "stake": "Arjuna put his bow down on the first page. This is what he heard next.",
+    "slides": [
+     [
+      "It will pass.",
+      "2.14",
+      "Heat and cold, pleasure and pain. Nothing stays."
+     ],
+     [
+      "Do not shrink.",
+      "2.3",
+      "\"It does not suit you.\" A friend's push."
+     ],
+     [
+      "Treat the swings alike.",
+      "2.38",
+      "Win, lose, gain, lose. Then act."
+     ],
+     [
+      "Do not be shaken by sorrow.",
+      "2.56",
+      "Steady, not numb."
+     ],
+     [
+      "Be the ocean.",
+      "2.70",
+      "Let the rivers in. Stay the ocean."
+     ]
+    ],
+    "recap": [
+     "It will pass",
+     "Don't shrink",
+     "Treat swings alike",
+     "Stay steady",
+     "Be the ocean"
+    ],
+    "cta": "Save this for the next bad day.",
+    "verses": [
+     {
+      "ref": "2.14",
+      "deva": [
+       "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः ।",
+       "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥"
+      ],
+      "tr": [
+       "mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ",
+       "āgamāpāyino ’nityās tans-titikṣhasva bhārata"
+      ]
+     },
+     {
+      "ref": "2.3",
+      "deva": [
+       "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते ।",
+       "क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ॥"
+      ],
+      "tr": [
+       "klaibyaṁ mā sma gamaḥ pārtha naitat tvayyupapadyate",
+       "kṣhudraṁ hṛidaya-daurbalyaṁ tyaktvottiṣhṭha parantapa"
+      ]
+     },
+     {
+      "ref": "2.38",
+      "deva": [
+       "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ ।",
+       "ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥"
+      ],
+      "tr": [
+       "sukha-duḥkhe same kṛitvā lābhālābhau jayājayau",
+       "tato yuddhāya yujyasva naivaṁ pāpam avāpsyasi"
+      ]
+     },
+     {
+      "ref": "2.56",
+      "deva": [
+       "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः ।",
+       "वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ॥"
+      ],
+      "tr": [
+       "duḥkheṣhv-anudvigna-manāḥ sukheṣhu vigata-spṛihaḥ",
+       "vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate"
+      ]
+     },
+     {
+      "ref": "2.70",
+      "deva": [
+       "आपूर्यमाणमचलप्रतिष्ठं ।",
+       "समुद्रमापः प्रविशन्ति यद्वत् ।",
+       "तद्वत्कामा यं प्रविशन्ति सर्वे ।",
+       "स शान्तिमाप्नोति न कामकामी ॥"
+      ],
+      "tr": [
+       "āpūryamāṇam achala-pratiṣhṭhaṁ",
+       "samudram āpaḥ praviśhanti yadvat",
+       "tadvat kāmā yaṁ praviśhanti sarve",
+       "sa śhāntim āpnoti na kāma-kāmī"
+      ]
+     }
+    ]
+   },
+   "caption": "5 things Krishna tells Arjuna on his worst day. Number 1 is the one I forget.\n\nFrom chapter 2 of the Gita. Short lines for a day when long advice won't stick.\n\nBhagavad Gita, on staying steady.\n\nComment the number of the one you need.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d3-1400-prompt",
+   "at": "2026-10-26T14:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a6",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "One thing that felt\nbigger than it was?",
+   "note": "Reply here. I read every one."
+  },
+  {
+   "id": "d3-1500-line",
+   "at": "2026-10-26T15:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a2",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Not every wave",
+    "needs your reaction.",
+    "Let it reach the shore",
+    "and leave."
+   ],
+   "credit": "in plain words",
+   "voice": false,
+   "verse": null,
+   "caption": "The Gita on staying calm, in plain words.\n\nNot a translation. The verses behind it are 2.14 and 2.70.\n\nBhagavad Gita, on staying steady.\n\nShare it with someone who reacts to everything.\n\n#calm #gitawisdom #krishna"
+  },
+  {
+   "id": "d3-1600-reminder",
+   "at": "2026-10-26T16:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a6",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "Stand up.\nRoll your shoulders.\nBack to it."
+  },
+  {
+   "id": "d3-1700-choice2",
+   "at": "2026-10-26T17:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a2",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Monday",
+   "b": "Friday"
+  },
+  {
+   "id": "d3-1800-main",
+   "at": "2026-10-26T18:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a6",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "Arjuna's bad day",
+    "sub": "The Gita starts with someone falling apart.",
+    "stake": "The world's most famous teaching begins with a man who couldn't go on.",
+    "slides": [
+     [
+      "A great archer put down his bow.",
+      "Gita 1.47",
+      "He wasn't lazy. He was overwhelmed."
+     ],
+     [
+      "He told Krishna: I will not fight.",
+      "Gita 2.9",
+      "Said out loud, to a friend."
+     ],
+     [
+      "Krishna didn't scold him. He explained.",
+      "",
+      "Seventeen more chapters of explaining."
+     ],
+     [
+      "The war went on. Arjuna got up.",
+      "",
+      "The first step was listening."
+     ]
+    ],
+    "recap": [
+     "He fell apart",
+     "He said so",
+     "Krishna explained",
+     "He got up"
+    ],
+    "cta": "Share it with someone who needs to hear it's okay to fall apart.",
+    "verses": [
+     {
+      "ref": "1.47",
+      "deva": [
+       "एवमुक्त्वाऽर्जुनः संख्ये रथोपस्थ उपाविशत् ।",
+       "विसृज्य सशरं चापं शोकसंविग्नमानसः ॥"
+      ],
+      "tr": [
+       "evam uktvārjunaḥ saṅkhye rathopastha upāviśhat",
+       "visṛijya sa-śharaṁ chāpaṁ śhoka-saṁvigna-mānasaḥ"
+      ]
+     },
+     {
+      "ref": "2.9",
+      "deva": [
+       "एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप ।",
+       "न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ॥"
+      ],
+      "tr": [
+       "evam-uktvā hṛiṣhīkeśhaṁ guḍākeśhaḥ parantapa",
+       "na yotsya iti govindam uktvā tūṣhṇīṁ babhūva ha"
+      ]
+     },
+     null,
+     null
+    ]
+   },
+   "caption": "The Gita begins with a man who put down his weapons. Sound familiar?\n\nArjuna doesn't start as a hero. He starts as someone who can't do it, and says so. That is why it still works.\n\nBhagavad Gita, on staying steady.\n\nHave you been Arjuna lately? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d3-1900-reel_pm19",
+   "at": "2026-10-26T19:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a2",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Do not give in to weakness, Arjuna.",
+    "It does not suit you.",
+    "Shake off this small-heartedness,",
+    "and stand up."
+   ],
+   "credit": "Bhagavad Gita 2.3",
+   "voice": false,
+   "verse": {
+    "ref": "2.3",
+    "deva": [
+     "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते ।",
+     "क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ॥"
+    ],
+    "tr": [
+     "klaibyaṁ mā sma gamaḥ pārtha naitat tvayyupapadyate",
+     "kṣhudraṁ hṛidaya-daurbalyaṁ tyaktvottiṣhṭha parantapa"
+    ]
+   },
+   "caption": "The first thing Krishna says to Arjuna is not comfort.\n\nVerse 2.3. Arjuna had just put his bow down. Krishna's reply is short and kind in the way a friend is kind: he says you are capable of more.\n\nBhagavad Gita 2.3, on staying steady.\n\nWho told you that you could, when you didn't think so? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d3-2000-pointer2",
+   "at": "2026-10-26T20:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a6",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\nArjuna's bad day",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d3-2100-fragment",
+   "at": "2026-10-26T21:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a2",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "Storms are loud.\nThey are not long."
+  },
+  {
+   "id": "d3-2200-poem",
+   "at": "2026-10-26T22:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a6",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Monday is only a door.",
+    "I have walked through worse.",
+    "Whatever waits on the other side,",
+    "I will meet it standing."
+   ],
+   "credit": "",
+   "voice": false,
+   "verse": null,
+   "caption": "A short poem for the hardest day of the week.\n\nOur own words, inspired by Bhagavad Gita 2.3.\n\nBhagavad Gita, on staying steady.\n\nShare it with someone starting a hard week.\n\n#poetry #shortpoems #krishna"
+  },
+  {
+   "id": "d3-2300-fill",
+   "at": "2026-10-26T23:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a2",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nI got through ___ and I can do it again",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d3-0000-night",
+   "at": "2026-10-27T00:00:00+05:30",
+   "day": "2026-10-26",
+   "bg": "a6",
+   "palette": 2,
+   "theme": "Staying steady",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "The one who stays steady",
+    "in pain and in pleasure",
+    "is fit for immortality."
+   ],
+   "credit": "Bhagavad Gita 2.15",
+   "voice": false,
+   "verse": {
+    "ref": "2.15",
+    "deva": [
+     "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ ।",
+     "समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ॥"
+    ],
+    "tr": [
+     "yaṁ hi na vyathayantyete puruṣhaṁ puruṣharṣhabha",
+     "sama-duḥkha-sukhaṁ dhīraṁ so ’mṛitatvāya kalpate"
+    ]
+   }
+  },
+  {
+   "id": "d4-0500-morning",
+   "at": "2026-10-27T05:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "a4",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "What is unreal never is,",
+    "and what is real never ceases."
+   ],
+   "credit": "Bhagavad Gita 2.16",
+   "voice": false,
+   "verse": {
+    "ref": "2.16",
+    "deva": [
+     "नासतो विद्यते भावो नाभावो विद्यते सतः ।"
+    ],
+    "tr": [
+     "nāsato vidyate bhāvo nābhāvo vidyate sataḥ"
+    ]
+   }
+  },
+  {
+   "id": "d4-0600-affirm",
+   "at": "2026-10-27T06:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "b6",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "I am more than\nthis one day."
+  },
+  {
+   "id": "d4-0700-reel_am7",
+   "at": "2026-10-27T07:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "a4",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "The soul is never born,",
+    "and it never dies.",
+    "It did not begin,",
+    "and it will not end."
+   ],
+   "credit": "Bhagavad Gita 2.20",
+   "voice": false,
+   "verse": {
+    "ref": "2.20",
+    "deva": [
+     "न जायते म्रियते वा कदाचि ।",
+     "न्नायं भूत्वा भविता वा न भूयः ।",
+     "अजो नित्यः शाश्वतोऽयं पुराणो ।"
+    ],
+    "tr": [
+     "na jāyate mriyate vā kadāchin",
+     "nāyaṁ bhūtvā bhavitā vā na bhūyaḥ",
+     "ajo nityaḥ śhāśhvato ’yaṁ purāṇo"
+    ]
+   },
+   "caption": "Krishna on what you are underneath everything that happens to you.\n\nVerse 2.20 is read at funerals. It is also a good one for a Tuesday when everything feels final.\n\nBhagavad Gita 2.20, on the soul.\n\nShare this with someone who is grieving.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d4-0800-card",
+   "at": "2026-10-27T08:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "b6",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "quote",
+   "media": "IMAGE",
+   "quote": "The soul cannot be cut by any weapon, burned by fire, wet by water or dried by wind.",
+   "author": "Krishna to Arjuna",
+   "source": "Bhagavad Gita 2.23",
+   "verse": {
+    "ref": "2.23",
+    "deva": [
+     "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।",
+     "न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥"
+    ],
+    "tr": [
+     "nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ",
+     "na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ"
+    ]
+   },
+   "caption": "Four elements, none of them can touch it. Krishna lists them one by one.\n\nThe verse isn't about being tough. It's about what in you cannot be hurt.\n\nThat is a gentle thing to know on a hard day.\n\nBhagavad Gita 2.23, on the soul.\n\nSave it for a day you feel small.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d4-0900-quote",
+   "at": "2026-10-27T09:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "a4",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story",
+   "story": "quote",
+   "media": "STORIES",
+   "quote": "As a person puts on new clothes\nand leaves the old,\nthe soul takes new bodies.",
+   "author": "Bhagavad Gita 2.22",
+   "verse": {
+    "ref": "2.22",
+    "deva": [
+     "वासांसि जीर्णानि यथा विहाय ।",
+     "नवानि गृह्णाति नरोऽपराणि ।",
+     "तथा शरीराणि विहाय जीर्णा ।",
+     "न्यन्यानि संयाति नवानि देही ॥"
+    ],
+    "tr": [
+     "vāsānsi jīrṇāni yathā vihāya",
+     "navāni gṛihṇāti naro ’parāṇi",
+     "tathā śharīrāṇi vihāya jīrṇānya",
+     "nyāni sanyāti navāni dehī"
+    ]
+   }
+  },
+  {
+   "id": "d4-1000-choice",
+   "at": "2026-10-27T10:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "b6",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Memory",
+   "b": "Dream"
+  },
+  {
+   "id": "d4-1100-reel_am11",
+   "at": "2026-10-27T11:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "a4",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "The Lord lives",
+    "in the heart",
+    "of every being."
+   ],
+   "credit": "Bhagavad Gita 18.61",
+   "voice": false,
+   "verse": {
+    "ref": "18.61",
+    "deva": [
+     "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।"
+    ],
+    "tr": [
+     "īśhvaraḥ sarva-bhūtānāṁ hṛid-deśhe ‘rjuna tiṣhṭhati"
+    ]
+   },
+   "caption": "Seven words. Krishna says you are never alone in there.\n\nFrom the last chapter, when Krishna is nearly done teaching. Even the quietest person has company.\n\nBhagavad Gita 18.61, on the soul.\n\nShare it with someone who feels alone.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d4-1200-pointer",
+   "at": "2026-10-27T12:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "b6",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "This morning's reel:\nThe soul is never born, and it never dies.",
+   "note": "Watch it on the page"
+  },
+  {
+   "id": "d4-1300-noon",
+   "at": "2026-10-27T13:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "a4",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "5 lines from the Gita for a grieving day",
+    "sub": "Not to fix it. Just to sit with it.",
+    "stake": "Krishna talks about loss early in the Gita, because Arjuna was in the middle of it.",
+    "slides": [
+     [
+      "As the soul passes through childhood, youth and old age, so it passes on.",
+      "Gita 2.13",
+      "The wise are not shaken by it."
+     ],
+     [
+      "The soul is never born and never dies.",
+      "Gita 2.20",
+      "It did not begin and will not end."
+     ],
+     [
+      "As old clothes are given up, so are old bodies.",
+      "Gita 2.22",
+      "A change, not an ending."
+     ],
+     [
+      "No weapon can cut it, no fire burn it.",
+      "Gita 2.23",
+      "Something in us cannot be touched."
+     ],
+     [
+      "For one born, death is certain. For one who has died, birth is certain.",
+      "Gita 2.27",
+      "So do not grieve over what cannot be avoided."
+     ]
+    ],
+    "recap": [
+     "The soul moves on",
+     "It never dies",
+     "A change of clothes",
+     "It can't be hurt",
+     "Do not grieve alone"
+    ],
+    "cta": "Share this with someone grieving. No words needed.",
+    "verses": [
+     {
+      "ref": "2.13",
+      "deva": [
+       "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।",
+       "तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥"
+      ],
+      "tr": [
+       "dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā",
+       "tathā dehāntara-prāptir dhīras tatra na muhyati"
+      ]
+     },
+     {
+      "ref": "2.20",
+      "deva": [
+       "न जायते म्रियते वा कदाचि ।",
+       "न्नायं भूत्वा भविता वा न भूयः ।",
+       "अजो नित्यः शाश्वतोऽयं पुराणो ।",
+       "न हन्यते हन्यमाने शरीरे ॥"
+      ],
+      "tr": [
+       "na jāyate mriyate vā kadāchin",
+       "nāyaṁ bhūtvā bhavitā vā na bhūyaḥ",
+       "ajo nityaḥ śhāśhvato ’yaṁ purāṇo",
+       "na hanyate hanyamāne śharīre"
+      ]
+     },
+     {
+      "ref": "2.22",
+      "deva": [
+       "वासांसि जीर्णानि यथा विहाय ।",
+       "नवानि गृह्णाति नरोऽपराणि ।",
+       "तथा शरीराणि विहाय जीर्णा ।",
+       "न्यन्यानि संयाति नवानि देही ॥"
+      ],
+      "tr": [
+       "vāsānsi jīrṇāni yathā vihāya",
+       "navāni gṛihṇāti naro ’parāṇi",
+       "tathā śharīrāṇi vihāya jīrṇānya",
+       "nyāni sanyāti navāni dehī"
+      ]
+     },
+     {
+      "ref": "2.23",
+      "deva": [
+       "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।",
+       "न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥"
+      ],
+      "tr": [
+       "nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ",
+       "na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ"
+      ]
+     },
+     {
+      "ref": "2.27",
+      "deva": [
+       "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।",
+       "तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥"
+      ],
+      "tr": [
+       "jātasya hi dhruvo mṛityur dhruvaṁ janma mṛitasya cha",
+       "tasmād aparihārye ’rthe na tvaṁ śhochitum arhasi"
+      ]
+     }
+    ]
+   },
+   "caption": "5 lines from the Gita for a day when you're grieving.\n\nIf you've lost someone, these verses are for you. There is no right way to feel today.\n\nBhagavad Gita, on the soul.\n\nTell me who you are thinking of today.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d4-1400-prompt",
+   "at": "2026-10-27T14:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "b6",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Who in your life\nfelt like home?",
+   "note": "Reply here. I read every one."
+  },
+  {
+   "id": "d4-1500-line",
+   "at": "2026-10-27T15:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "a4",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "You are more",
+    "than your worst year.",
+    "Underneath it,",
+    "something stays."
+   ],
+   "credit": "in plain words",
+   "voice": false,
+   "verse": null,
+   "caption": "The Gita on who you are, in plain words.\n\nNot a translation. The verses behind it are 2.20 and 2.23.\n\nBhagavad Gita, on the soul.\n\nSave it for a hard day.\n\n#soul #gitawisdom #krishna"
+  },
+  {
+   "id": "d4-1600-reminder",
+   "at": "2026-10-27T16:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "b6",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "Call someone\nyou haven't called in a while."
+  },
+  {
+   "id": "d4-1700-choice2",
+   "at": "2026-10-27T17:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "a4",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Old photos",
+   "b": "New plans"
+  },
+  {
+   "id": "d4-1800-main",
+   "at": "2026-10-27T18:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "b6",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "Gita 2.20, one phrase at a time",
+    "sub": "The verse read at funerals, read slowly.",
+    "stake": "Four phrases about the one thing in you that doesn't change.",
+    "slides": [
+     [
+      "The soul is never born.",
+      "2.20, part 1",
+      "It didn't start when your body did."
+     ],
+     [
+      "And it never dies.",
+      "2.20, part 2",
+      "It doesn't end when the body does."
+     ],
+     [
+      "It did not begin and will not end.",
+      "2.20, part 3",
+      "Time doesn't reach it."
+     ],
+     [
+      "The body is only its home.",
+      "2.20, part 4",
+      "It isn't killed when the body is struck."
+     ]
+    ],
+    "recap": [
+     "Never born",
+     "Never dies",
+     "No beginning or end",
+     "The body is a home"
+    ],
+    "cta": "Share it with someone who is missing someone.",
+    "verses": [
+     {
+      "ref": "2.20",
+      "deva": [
+       "न जायते म्रियते वा कदाचि ।"
+      ],
+      "tr": [
+       "na jāyate mriyate vā kadāchin"
+      ]
+     },
+     {
+      "ref": "2.20",
+      "deva": [
+       "न्नायं भूत्वा भविता वा न भूयः ।"
+      ],
+      "tr": [
+       "nāyaṁ bhūtvā bhavitā vā na bhūyaḥ"
+      ]
+     },
+     {
+      "ref": "2.20",
+      "deva": [
+       "अजो नित्यः शाश्वतोऽयं पुराणो ।"
+      ],
+      "tr": [
+       "ajo nityaḥ śhāśhvato ’yaṁ purāṇo"
+      ]
+     },
+     {
+      "ref": "2.20",
+      "deva": [
+       "न हन्यते हन्यमाने शरीरे ॥"
+      ],
+      "tr": [
+       "na hanyate hanyamāne śharīre"
+      ]
+     }
+    ]
+   },
+   "caption": "Gita 2.20: what Krishna says about the part of you that doesn't end.\n\nChapter 2, verse 20. The verse is always read slowly, and it should be.\n\nBhagavad Gita, on the soul.\n\nWho are you carrying in your heart today? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d4-1900-reel_pm19",
+   "at": "2026-10-27T19:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "a4",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "I am the Self,",
+    "seated in the heart of every being.",
+    "I am the beginning,",
+    "the middle and the end."
+   ],
+   "credit": "Bhagavad Gita 10.20",
+   "voice": false,
+   "verse": {
+    "ref": "10.20",
+    "deva": [
+     "अहमात्मा गुडाकेश सर्वभूताशयस्थितः ।",
+     "अहमादिश्च मध्यं च भूतानामन्त एव च ॥"
+    ],
+    "tr": [
+     "aham ātmā guḍākeśha sarva-bhūtāśhaya-sthitaḥ",
+     "aham ādiśh cha madhyaṁ cha bhūtānām anta eva cha"
+    ]
+   },
+   "caption": "Krishna describes himself, and starts with the heart.\n\nVerse 10.20. Before the grand descriptions, the first thing he says is: I am in you.\n\nBhagavad Gita 10.20, on the soul.\n\nWhere do you feel most like yourself? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d4-2000-pointer2",
+   "at": "2026-10-27T20:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "b6",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\nGita 2.20, one phrase at a time",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d4-2100-fragment",
+   "at": "2026-10-27T21:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "a4",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "Something in you\nhas never been afraid."
+  },
+  {
+   "id": "d4-2200-poem",
+   "at": "2026-10-27T22:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "b6",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Clothes wear thin and we replace them.",
+    "Houses age and we move on.",
+    "Something in me has never worn out.",
+    "I am learning to trust it."
+   ],
+   "credit": "",
+   "voice": false,
+   "verse": null,
+   "caption": "A short poem about what doesn't wear out.\n\nOur own words, inspired by Bhagavad Gita 2.22.\n\nBhagavad Gita, on the soul.\n\nShare it with someone who has lost something.\n\n#poetry #shortpoems #krishna"
+  },
+  {
+   "id": "d4-2300-fill",
+   "at": "2026-10-27T23:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "a4",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nSomething in me that never changes is ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d4-0000-night",
+   "at": "2026-10-28T00:00:00+05:30",
+   "day": "2026-10-27",
+   "bg": "b6",
+   "palette": 3,
+   "theme": "The soul",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "As the soul passes through",
+    "childhood, youth and old age,",
+    "so it passes to another body.",
+    "The wise are not shaken."
+   ],
+   "credit": "Bhagavad Gita 2.13",
+   "voice": false,
+   "verse": {
+    "ref": "2.13",
+    "deva": [
+     "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।",
+     "तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥"
+    ],
+    "tr": [
+     "dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā",
+     "tathā dehāntara-prāptir dhīras tatra na muhyati"
+    ]
+   }
+  },
+  {
+   "id": "d5-0500-morning",
+   "at": "2026-10-28T05:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b4",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "Declare it boldly, Arjuna:",
+    "My devotee never perishes."
+   ],
+   "credit": "Bhagavad Gita 9.31",
+   "voice": false,
+   "verse": {
+    "ref": "9.31",
+    "deva": [
+     "कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ॥"
+    ],
+    "tr": [
+     "kaunteya pratijānīhi na me bhaktaḥ praṇaśhyati"
+    ]
+   }
+  },
+  {
+   "id": "d5-0600-affirm",
+   "at": "2026-10-28T06:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b5",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "I give today\nmy best attention."
+  },
+  {
+   "id": "d5-0700-reel_am7",
+   "at": "2026-10-28T07:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b4",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "A leaf, a flower,",
+    "a fruit, some water,",
+    "offered to Me with love:",
+    "I accept it."
+   ],
+   "credit": "Bhagavad Gita 9.26",
+   "voice": false,
+   "verse": {
+    "ref": "9.26",
+    "deva": [
+     "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।",
+     "तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥"
+    ],
+    "tr": [
+     "patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati",
+     "tadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ"
+    ]
+   },
+   "caption": "The most generous verse in the Gita. Krishna asks for a leaf.\n\nNo gold, no big ritual, no grand gesture. Something small, given with love.\n\nBhagavad Gita 9.26, on devotion.\n\nWhat small thing did you give with love lately? Tell me below.\n\n#bhagavadgita #krishna #bhakti"
+  },
+  {
+   "id": "d5-0800-card",
+   "at": "2026-10-28T08:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b5",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "quote",
+   "media": "IMAGE",
+   "quote": "Keep your mind on Me, love Me, worship Me and bow to Me. You will come to Me. This I promise, for you are dear to Me.",
+   "author": "Krishna to Arjuna",
+   "source": "Bhagavad Gita 18.65",
+   "verse": {
+    "ref": "18.65",
+    "deva": [
+     "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।",
+     "मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ॥"
+    ],
+    "tr": [
+     "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru",
+     "mām evaiṣhyasi satyaṁ te pratijāne priyo ‘si me"
+    ]
+   },
+   "caption": "Near the end of the Gita, Krishna stops explaining and makes a promise.\n\nAfter seventeen chapters of philosophy he says it simply: you are dear to me.\n\nRead it as a friend talking, not as a rule.\n\nBhagavad Gita 18.65, on devotion.\n\nShare it with someone who needs to hear they are dear.\n\n#bhagavadgita #krishna #bhakti"
+  },
+  {
+   "id": "d5-0900-quote",
+   "at": "2026-10-28T09:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b4",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story",
+   "story": "quote",
+   "media": "STORIES",
+   "quote": "To those who think of Me alone,\nI bring what they lack\nand protect what they have.",
+   "author": "Bhagavad Gita 9.22",
+   "verse": {
+    "ref": "9.22",
+    "deva": [
+     "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।",
+     "तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥"
+    ],
+    "tr": [
+     "ananyāśh chintayanto māṁ ye janāḥ paryupāsate",
+     "teṣhāṁ nityābhiyuktānāṁ yoga-kṣhemaṁ vahāmyaham"
+    ]
+   }
+  },
+  {
+   "id": "d5-1000-choice",
+   "at": "2026-10-28T10:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b5",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Prayer",
+   "b": "Music"
+  },
+  {
+   "id": "d5-1100-reel_am11",
+   "at": "2026-10-28T11:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b4",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "As people come to Me,",
+    "so I receive them.",
+    "Whatever path they take,",
+    "it is My path they follow."
+   ],
+   "credit": "Bhagavad Gita 4.11",
+   "voice": false,
+   "verse": {
+    "ref": "4.11",
+    "deva": [
+     "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् ।",
+     "मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥"
+    ],
+    "tr": [
+     "ye yathā māṁ prapadyante tāns tathaiva bhajāmyaham",
+     "mama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ"
+    ]
+   },
+   "caption": "Krishna on every road leading to the same place.\n\nVerse 4.11. However you come, you are received the same way.\n\nBhagavad Gita 4.11, on devotion.\n\nShare it with someone on a different path from yours.\n\n#bhagavadgita #krishna #bhakti"
+  },
+  {
+   "id": "d5-1200-pointer",
+   "at": "2026-10-28T12:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b5",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "This morning's reel:\nA leaf, a flower, a fruit, some water,",
+   "note": "Watch it on the page"
+  },
+  {
+   "id": "d5-1300-noon",
+   "at": "2026-10-28T13:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b4",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "5 small ways to offer your day",
+    "sub": "A leaf, a flower, a fruit, some water.",
+    "stake": "Krishna asks for something small, so we made a list of small things.",
+    "slides": [
+     [
+      "Say thank you before you eat.",
+      "",
+      "A few seconds. Out loud or not."
+     ],
+     [
+      "Do one chore with full attention.",
+      "",
+      "The cup, the floor, the fold. Do it with care."
+     ],
+     [
+      "Call one person just to ask how they are.",
+      "",
+      "No agenda. Just ask."
+     ],
+     [
+      "Give something away today.",
+      "",
+      "A seat, a snack, a minute."
+     ],
+     [
+      "End the day with a quiet word of gratitude.",
+      "",
+      "9.26: it's not the size. It's the love."
+     ]
+    ],
+    "recap": [
+     "Thank before eating",
+     "Chores with care",
+     "Call someone",
+     "Give a little",
+     "End with thanks"
+    ],
+    "cta": "Save this. Pick one for tomorrow.",
+    "verses": [
+     null,
+     null,
+     null,
+     null,
+     {
+      "ref": "9.26",
+      "deva": [
+       "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।",
+       "तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥"
+      ],
+      "tr": [
+       "patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati",
+       "tadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ"
+      ]
+     }
+    ]
+   },
+   "caption": "5 small ways to offer your day. Gita 9.26 style.\n\nThe verse asks for a leaf, a flower, a fruit and some water. Our list is as small.\n\nBhagavad Gita, on devotion.\n\nWhich one will you do today?\n\n#bhakti #bhagavadgita #krishna"
+  },
+  {
+   "id": "d5-1400-prompt",
+   "at": "2026-10-28T14:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b5",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "What did you give\nwith love lately?",
+   "note": "Reply here. I read every one."
+  },
+  {
+   "id": "d5-1500-line",
+   "at": "2026-10-28T15:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b4",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Love that asks for nothing",
+    "is the lightest thing",
+    "you will ever carry.",
+    "Try it today."
+   ],
+   "credit": "in plain words",
+   "voice": false,
+   "verse": null,
+   "caption": "The Gita on love, in plain words.\n\nNot a translation. The verses behind it are 9.26 and 18.65.\n\nBhagavad Gita, on devotion.\n\nShare it with someone you love.\n\n#bhakti #gitawisdom #krishna"
+  },
+  {
+   "id": "d5-1600-reminder",
+   "at": "2026-10-28T16:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b5",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "Say thank you\nto someone\nright now."
+  },
+  {
+   "id": "d5-1700-choice2",
+   "at": "2026-10-28T17:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b4",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Temple bells",
+   "b": "River sounds"
+  },
+  {
+   "id": "d5-1800-main",
+   "at": "2026-10-28T18:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b5",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "Gita 9.26: what Krishna asks for",
+    "sub": "He lists four things. None of them cost much.",
+    "stake": "In a whole book of big ideas, this verse asks for almost nothing.",
+    "slides": [
+     [
+      "A leaf.",
+      "9.26, part 1",
+      "Something that grows by the road."
+     ],
+     [
+      "A flower.",
+      "9.26, part 2",
+      "Something that lasts a day."
+     ],
+     [
+      "A fruit and some water.",
+      "9.26, part 3",
+      "Something to eat and drink."
+     ],
+     [
+      "Offered with love, and he accepts.",
+      "9.26, part 4",
+      "The love is the offering. The rest is wrapping."
+     ]
+    ],
+    "recap": [
+     "A leaf",
+     "A flower",
+     "Fruit and water",
+     "Love is the gift"
+    ],
+    "cta": "Share it with someone who gives quietly.",
+    "verses": [
+     {
+      "ref": "9.26",
+      "deva": [
+       "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।"
+      ],
+      "tr": [
+       "patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati"
+      ]
+     },
+     {
+      "ref": "9.26",
+      "deva": [
+       "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।"
+      ],
+      "tr": [
+       "patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati"
+      ]
+     },
+     {
+      "ref": "9.26",
+      "deva": [
+       "तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥"
+      ],
+      "tr": [
+       "tadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ"
+      ]
+     },
+     {
+      "ref": "9.26",
+      "deva": [
+       "तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥"
+      ],
+      "tr": [
+       "tadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ"
+      ]
+     }
+    ]
+   },
+   "caption": "Gita 9.26: Krishna asks for a leaf. That's the verse.\n\nChapter 9, verse 26. A small verse with a very big idea.\n\nBhagavad Gita, on devotion.\n\nWhat would you offer? Tell me below.\n\n#bhagavadgita #krishna #bhakti"
+  },
+  {
+   "id": "d5-1900-reel_pm19",
+   "at": "2026-10-28T19:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b4",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "I am equal to all beings.",
+    "No one is hateful to Me, no one is dear.",
+    "But those who love Me are in Me,",
+    "and I am in them."
+   ],
+   "credit": "Bhagavad Gita 9.29",
+   "voice": false,
+   "verse": {
+    "ref": "9.29",
+    "deva": [
+     "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।",
+     "ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥"
+    ],
+    "tr": [
+     "samo ’haṁ sarva-bhūteṣhu na me dveṣhyo ’sti na priyaḥ",
+     "ye bhajanti tu māṁ bhaktyā mayi te teṣhu chāpyaham"
+    ]
+   },
+   "caption": "Krishna says he has no favourites. Then says who is close.\n\nVerse 9.29. Equal to everyone, and still, love makes the difference.\n\nBhagavad Gita 9.29, on devotion.\n\nWho would you call right now if you could? Tell me below.\n\n#bhagavadgita #krishna #bhakti"
+  },
+  {
+   "id": "d5-2000-pointer2",
+   "at": "2026-10-28T20:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b5",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\nGita 9.26: what Krishna asks for",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d5-2100-fragment",
+   "at": "2026-10-28T21:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b4",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "A flower asks for nothing.\nIt opens anyway."
+  },
+  {
+   "id": "d5-2200-poem",
+   "at": "2026-10-28T22:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b5",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "I brought a small flower",
+    "to a very large sky.",
+    "The sky did not laugh.",
+    "It made room."
+   ],
+   "credit": "",
+   "voice": false,
+   "verse": null,
+   "caption": "A short poem about small offerings.\n\nOur own words, inspired by Bhagavad Gita 9.26.\n\nBhagavad Gita, on devotion.\n\nSave it for the day you feel your offering is too small.\n\n#poetry #shortpoems #krishna"
+  },
+  {
+   "id": "d5-2300-fill",
+   "at": "2026-10-28T23:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b4",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nI offer today to ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d5-0000-night",
+   "at": "2026-10-29T00:00:00+05:30",
+   "day": "2026-10-28",
+   "bg": "b5",
+   "palette": 4,
+   "theme": "Devotion",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "Come to Me alone.",
+    "I will free you.",
+    "Do not grieve."
+   ],
+   "credit": "Bhagavad Gita 18.66",
+   "voice": false,
+   "verse": {
+    "ref": "18.66",
+    "deva": [
+     "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।",
+     "अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥"
+    ],
+    "tr": [
+     "sarva-dharmān parityajya mām ekaṁ śharaṇaṁ vraja",
+     "ahaṁ tvāṁ sarva-pāpebhyo mokṣhayiṣhyāmi mā śhuchaḥ"
+    ]
+   }
+  },
+  {
+   "id": "d6-0500-morning",
+   "at": "2026-10-29T05:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "b3",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "Learn by asking,",
+    "with humility,",
+    "and by serving."
+   ],
+   "credit": "Bhagavad Gita 4.34",
+   "voice": false,
+   "verse": {
+    "ref": "4.34",
+    "deva": [
+     "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।"
+    ],
+    "tr": [
+     "tad viddhi praṇipātena paripraśhnena sevayā"
+    ]
+   }
+  },
+  {
+   "id": "d6-0600-affirm",
+   "at": "2026-10-29T06:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "a6",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "I am allowed\nto not know yet."
+  },
+  {
+   "id": "d6-0700-reel_am7",
+   "at": "2026-10-29T07:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "b3",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "In this world,",
+    "there is nothing",
+    "as purifying",
+    "as knowledge."
+   ],
+   "credit": "Bhagavad Gita 4.38",
+   "voice": false,
+   "verse": {
+    "ref": "4.38",
+    "deva": [
+     "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।"
+    ],
+    "tr": [
+     "na hi jñānena sadṛiśhaṁ pavitramiha vidyate"
+    ]
+   },
+   "caption": "Krishna on why understanding beats everything else.\n\nVerse 4.38. It's not about degrees. It's about seeing clearly.\n\nBhagavad Gita 4.38, on knowledge.\n\nWhat did you understand this week that you didn't last week? Tell me below.\n\n#bhagavadgita #krishna #gyan"
+  },
+  {
+   "id": "d6-0800-card",
+   "at": "2026-10-29T08:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "a6",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "quote",
+   "media": "IMAGE",
+   "quote": "Reflect on this fully. Then do as you wish.",
+   "author": "Krishna to Arjuna",
+   "source": "Bhagavad Gita 18.63",
+   "verse": {
+    "ref": "18.63",
+    "deva": [
+     "विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥"
+    ],
+    "tr": [
+     "vimṛiśhyaitad aśheṣheṇa yathechchhasi tathā kuru"
+    ]
+   },
+   "caption": "At the end of eighteen chapters, Krishna says: now you decide.\n\nNo commands. After teaching everything, he hands the choice back to Arjuna.\n\nA rare thing for a teacher to do.\n\nBhagavad Gita 18.63, on knowledge.\n\nSave it for the next big decision.\n\n#bhagavadgita #krishna #wisdom"
+  },
+  {
+   "id": "d6-0900-quote",
+   "at": "2026-10-29T09:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "b3",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story",
+   "story": "quote",
+   "media": "STORIES",
+   "quote": "As a blazing fire turns wood to ash,\nthe fire of knowledge turns\nall results of action to ash.",
+   "author": "Bhagavad Gita 4.37",
+   "verse": {
+    "ref": "4.37",
+    "deva": [
+     "यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन ।",
+     "ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ॥"
+    ],
+    "tr": [
+     "yathaidhānsi samiddho ’gnir bhasma-sāt kurute ’rjuna",
+     "jñānāgniḥ sarva-karmāṇi bhasma-sāt kurute tathā"
+    ]
+   }
+  },
+  {
+   "id": "d6-1000-choice",
+   "at": "2026-10-29T10:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "a6",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Read",
+   "b": "Listen"
+  },
+  {
+   "id": "d6-1100-reel_am11",
+   "at": "2026-10-29T11:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "b3",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Hating no one,",
+    "friendly and kind,",
+    "free of \"mine\" and \"I\",",
+    "the same in pain and pleasure,",
+    "and forgiving."
+   ],
+   "credit": "Bhagavad Gita 12.13",
+   "voice": false,
+   "verse": {
+    "ref": "12.13",
+    "deva": [
+     "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।",
+     "निर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥"
+    ],
+    "tr": [
+     "adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha",
+     "nirmamo nirahankāraḥ sama-duḥkha-sukhaḥ kṣhamī"
+    ]
+   },
+   "caption": "Krishna's description of a person he loves. Read it slowly.\n\nVerse 12.13. It starts with not hating anyone. That's the whole first test.\n\nBhagavad Gita 12.13, on knowledge.\n\nShare it with someone who fits this.\n\n#bhagavadgita #krishna #wisdom"
+  },
+  {
+   "id": "d6-1200-pointer",
+   "at": "2026-10-29T12:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "a6",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "This morning's reel:\nIn this world, there is nothing",
+   "note": "Watch it on the page"
+  },
+  {
+   "id": "d6-1300-noon",
+   "at": "2026-10-29T13:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "b3",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "5 questions the Gita asks you to reflect on",
+    "sub": "Not for answering fast. For sitting with.",
+    "stake": "Krishna ends with \"reflect on this fully.\" These are the things worth reflecting on.",
+    "slides": [
+     [
+      "Am I doing the work, or only wanting the result?",
+      "",
+      "2.47: effort is yours."
+     ],
+     [
+      "Is my mind helping me or fighting me today?",
+      "",
+      "6.6: friend or enemy."
+     ],
+     [
+      "What in me stays steady when everything changes?",
+      "",
+      "2.20: the part that doesn't change."
+     ],
+     [
+      "Who did I show kindness to this week?",
+      "",
+      "12.13: hating no one, friendly and kind."
+     ],
+     [
+      "What have I finally understood?",
+      "",
+      "4.38: understanding purifies."
+     ]
+    ],
+    "recap": [
+     "Effort or result",
+     "Mind friend or enemy",
+     "What stays steady",
+     "Who got kindness",
+     "What I understand"
+    ],
+    "cta": "Save this. Answer one on Sunday.",
+    "verses": [
+     {
+      "ref": "2.47",
+      "deva": [
+       "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+       "मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥"
+      ],
+      "tr": [
+       "karmaṇy-evādhikāras te mā phaleṣhu kadāchana",
+       "mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi"
+      ]
+     },
+     {
+      "ref": "6.6",
+      "deva": [
+       "बन्धुरात्माऽऽत्मनस्तस्य येनात्मैवात्मना जितः ।",
+       "अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥"
+      ],
+      "tr": [
+       "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ",
+       "anātmanas tu śhatrutve vartetātmaiva śhatru-vat"
+      ]
+     },
+     {
+      "ref": "2.20",
+      "deva": [
+       "न जायते म्रियते वा कदाचि ।",
+       "न्नायं भूत्वा भविता वा न भूयः ।",
+       "अजो नित्यः शाश्वतोऽयं पुराणो ।",
+       "न हन्यते हन्यमाने शरीरे ॥"
+      ],
+      "tr": [
+       "na jāyate mriyate vā kadāchin",
+       "nāyaṁ bhūtvā bhavitā vā na bhūyaḥ",
+       "ajo nityaḥ śhāśhvato ’yaṁ purāṇo",
+       "na hanyate hanyamāne śharīre"
+      ]
+     },
+     {
+      "ref": "12.13",
+      "deva": [
+       "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।",
+       "निर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥"
+      ],
+      "tr": [
+       "adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha",
+       "nirmamo nirahankāraḥ sama-duḥkha-sukhaḥ kṣhamī"
+      ]
+     },
+     {
+      "ref": "4.38",
+      "deva": [
+       "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।",
+       "तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ॥"
+      ],
+      "tr": [
+       "na hi jñānena sadṛiśhaṁ pavitramiha vidyate",
+       "tatsvayaṁ yogasansiddhaḥ kālenātmani vindati"
+      ]
+     }
+    ]
+   },
+   "caption": "5 questions from the Gita to sit with this week.\n\nOne for each theme of the week so far. No right answers.\n\nBhagavad Gita, on knowledge.\n\nWhich question will you take with you? Comment its number.\n\n#bhagavadgita #krishna #reflection"
+  },
+  {
+   "id": "d6-1400-prompt",
+   "at": "2026-10-29T14:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "a6",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "One thing you finally\nunderstood this year?",
+   "note": "Reply here. I read every one."
+  },
+  {
+   "id": "d6-1500-line",
+   "at": "2026-10-29T15:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "b3",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Knowing is not enough.",
+    "Understand it, reflect on it,",
+    "then live it",
+    "on an ordinary Thursday."
+   ],
+   "credit": "in plain words",
+   "voice": false,
+   "verse": null,
+   "caption": "The Gita on learning, in plain words.\n\nNot a translation. The verses behind it are 4.38 and 18.63.\n\nBhagavad Gita, on knowledge.\n\nSave it for your next study session.\n\n#wisdom #gitawisdom #krishna"
+  },
+  {
+   "id": "d6-1600-reminder",
+   "at": "2026-10-29T16:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "a6",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "Read one page\nbefore you scroll."
+  },
+  {
+   "id": "d6-1700-choice2",
+   "at": "2026-10-29T17:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "b3",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Teacher",
+   "b": "Student"
+  },
+  {
+   "id": "d6-1800-main",
+   "at": "2026-10-29T18:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "a6",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "Gita 4.34, how to learn",
+    "sub": "Three things Krishna says a learner does.",
+    "stake": "Krishna doesn't say study harder. He says how to learn.",
+    "slides": [
+     [
+      "Approach with humility.",
+      "4.34, part 1",
+      "Come to a teacher without already knowing."
+     ],
+     [
+      "Ask questions.",
+      "4.34, part 2",
+      "The Gita itself is Arjuna's questions answered."
+     ],
+     [
+      "Serve.",
+      "4.34, part 3",
+      "Learning goes both ways. Give something back."
+     ],
+     [
+      "Then those who know can teach you.",
+      "4.34, part 4",
+      "Knowledge is passed to people who are ready."
+     ]
+    ],
+    "recap": [
+     "Be humble",
+     "Ask",
+     "Serve",
+     "Be taught"
+    ],
+    "cta": "Share it with your favourite teacher.",
+    "verses": [
+     {
+      "ref": "4.34",
+      "deva": [
+       "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।"
+      ],
+      "tr": [
+       "tad viddhi praṇipātena paripraśhnena sevayā"
+      ]
+     },
+     {
+      "ref": "4.34",
+      "deva": [
+       "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।"
+      ],
+      "tr": [
+       "tad viddhi praṇipātena paripraśhnena sevayā"
+      ]
+     },
+     {
+      "ref": "4.34",
+      "deva": [
+       "उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥"
+      ],
+      "tr": [
+       "upadekṣhyanti te jñānaṁ jñāninas tattva-darśhinaḥ"
+      ]
+     },
+     {
+      "ref": "4.34",
+      "deva": [
+       "उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥"
+      ],
+      "tr": [
+       "upadekṣhyanti te jñānaṁ jñāninas tattva-darśhinaḥ"
+      ]
+     }
+    ]
+   },
+   "caption": "Gita 4.34: Krishna's three steps for learning.\n\nChapter 4, verse 34. It might be the only verse in any scripture that says: ask questions.\n\nBhagavad Gita, on knowledge.\n\nWho taught you something that stuck? Tell me below.\n\n#bhagavadgita #krishna #wisdom"
+  },
+  {
+   "id": "d6-1900-reel_pm19",
+   "at": "2026-10-29T19:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "b3",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Peace of mind, gentleness,",
+    "silence, self-control,",
+    "a clean heart.",
+    "This is the discipline of the mind."
+   ],
+   "credit": "Bhagavad Gita 17.16",
+   "voice": false,
+   "verse": {
+    "ref": "17.16",
+    "deva": [
+     "मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः ।",
+     "भावसंशुद्धिरित्येतत्तपो मानसमुच्यते ॥"
+    ],
+    "tr": [
+     "manaḥ-prasādaḥ saumyatvaṁ maunam ātma-vinigrahaḥ",
+     "bhāva-sanśhuddhir ity etat tapo mānasam uchyate"
+    ]
+   },
+   "caption": "Krishna on what discipline of the mind looks like. It is quieter than you expect.\n\nVerse 17.16. No fasting, no performance. Just gentleness and a clear mind.\n\nBhagavad Gita 17.16, on knowledge.\n\nWhich one is hardest for you? Tell me below.\n\n#bhagavadgita #krishna #wisdom"
+  },
+  {
+   "id": "d6-2000-pointer2",
+   "at": "2026-10-29T20:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "a6",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\nGita 4.34, how to learn",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d6-2100-fragment",
+   "at": "2026-10-29T21:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "b3",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "A good question\nis half the answer."
+  },
+  {
+   "id": "d6-2200-poem",
+   "at": "2026-10-29T22:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "a6",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "I read a hundred wise lines.",
+    "Then I forgave one person.",
+    "That was the one",
+    "that taught me anything."
+   ],
+   "credit": "",
+   "voice": false,
+   "verse": null,
+   "caption": "A short poem about knowing and doing.\n\nOur own words, inspired by Bhagavad Gita 4.38.\n\nBhagavad Gita, on knowledge.\n\nShare it with someone who is still learning.\n\n#poetry #shortpoems #krishna"
+  },
+  {
+   "id": "d6-2300-fill",
+   "at": "2026-10-29T23:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "b3",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nSomething I understand now is ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d6-0000-night",
+   "at": "2026-10-30T00:00:00+05:30",
+   "day": "2026-10-29",
+   "bg": "a6",
+   "palette": 5,
+   "theme": "Knowledge",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "One who does not disturb the world,",
+    "and is not disturbed by it,",
+    "free from fear and anxiety,",
+    "is dear to Me."
+   ],
+   "credit": "Bhagavad Gita 12.15",
+   "voice": false,
+   "verse": {
+    "ref": "12.15",
+    "deva": [
+     "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।",
+     "हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ॥"
+    ],
+    "tr": [
+     "yasmān nodvijate loko lokān nodvijate cha yaḥ",
+     "harṣhāmarṣha-bhayodvegair mukto yaḥ sa cha me priyaḥ"
+    ]
+   }
+  },
+  {
+   "id": "d7-0500-morning",
+   "at": "2026-10-30T05:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a3",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "At all times, remember Me,",
+    "and fight."
+   ],
+   "credit": "Bhagavad Gita 8.7",
+   "voice": false,
+   "verse": {
+    "ref": "8.7",
+    "deva": [
+     "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।"
+    ],
+    "tr": [
+     "tasmāt sarveṣhu kāleṣhu mām anusmara yudhya cha"
+    ]
+   }
+  },
+  {
+   "id": "d7-0600-affirm",
+   "at": "2026-10-30T06:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a5",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "I end the week lighter\nthan I began it."
+  },
+  {
+   "id": "d7-0700-reel_am7",
+   "at": "2026-10-30T07:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a3",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "There is no wisdom for the restless,",
+    "no peace without it,",
+    "and without peace,",
+    "where is happiness?"
+   ],
+   "credit": "Bhagavad Gita 2.66",
+   "voice": false,
+   "verse": {
+    "ref": "2.66",
+    "deva": [
+     "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना ।",
+     "न चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ॥"
+    ],
+    "tr": [
+     "nāsti buddhir-ayuktasya na chāyuktasya bhāvanā",
+     "na chābhāvayataḥ śhāntir aśhāntasya kutaḥ sukham"
+    ]
+   },
+   "caption": "Krishna asks a question and doesn't answer it. You already know.\n\nVerse 2.66. A chain: a calm mind, then peace, then happiness. Skip the first link and the rest don't come.\n\nBhagavad Gita 2.66, on peace.\n\nWhat is one thing that calms you? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d7-0800-card",
+   "at": "2026-10-30T08:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a5",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "quote",
+   "media": "IMAGE",
+   "quote": "Give up craving, move through life without \"mine\" and \"I\", and you will find peace.",
+   "author": "Krishna to Arjuna",
+   "source": "Bhagavad Gita 2.71",
+   "verse": {
+    "ref": "2.71",
+    "deva": [
+     "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः ।",
+     "निर्ममो निरहंकारः स शांतिमधिगच्छति ॥"
+    ],
+    "tr": [
+     "vihāya kāmān yaḥ sarvān pumānśh charati niḥspṛihaḥ",
+     "nirmamo nirahankāraḥ sa śhāntim adhigachchhati"
+    ]
+   },
+   "caption": "Gita 2.71: Krishna's recipe for peace has two ingredients, and both are things to let go of.\n\nCraving, and the ownership of everything. That's it.\n\nTry letting go of one \"mine\" today. A grudge counts.\n\nBhagavad Gita 2.71, on peace.\n\nSave it for a Friday evening.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d7-0900-quote",
+   "at": "2026-10-30T09:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a3",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story",
+   "story": "quote",
+   "media": "STORIES",
+   "quote": "The one who keeps the mind steady\nattains the peace\nthat lives in Me.",
+   "author": "Bhagavad Gita 6.15",
+   "verse": {
+    "ref": "6.15",
+    "deva": [
+     "युञ्जन्नेवं सदाऽऽत्मानं योगी नियतमानसः ।",
+     "शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥"
+    ],
+    "tr": [
+     "yuñjann evaṁ sadātmānaṁ yogī niyata-mānasaḥ",
+     "śhantiṁ nirvāṇa-paramāṁ mat-sansthām adhigachchhati"
+    ]
+   }
+  },
+  {
+   "id": "d7-1000-choice",
+   "at": "2026-10-30T10:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a5",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Quiet evening",
+   "b": "Evening out"
+  },
+  {
+   "id": "d7-1100-reel_am11",
+   "at": "2026-10-30T11:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a3",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Whenever goodness declines",
+    "and wrong rises,",
+    "at that time, Arjuna,",
+    "I appear."
+   ],
+   "credit": "Bhagavad Gita 4.7",
+   "voice": false,
+   "verse": {
+    "ref": "4.7",
+    "deva": [
+     "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।",
+     "अभ्युत्थानमधर्मस्य तदाऽऽत्मानं सृजाम्यहम् ॥"
+    ],
+    "tr": [
+     "yadā yadā hi dharmasya glānir bhavati bhārata",
+     "abhyutthānam adharmasya tadātmānaṁ sṛijāmyaham"
+    ]
+   },
+   "caption": "Krishna's promise to show up when things fall apart.\n\nVerse 4.7, one of the most quoted in the Gita. It is a promise, said out loud.\n\nBhagavad Gita 4.7, on peace.\n\nShare it with someone who is losing hope.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d7-1200-pointer",
+   "at": "2026-10-30T12:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a5",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "This morning's reel:\nThere is no wisdom for the restless, no peace without it,",
+   "note": "Watch it on the page"
+  },
+  {
+   "id": "d7-1300-noon",
+   "at": "2026-10-30T13:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a3",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "7 days, 7 lines from the Gita",
+    "sub": "One for each day of this week.",
+    "stake": "A week ago we started with a verse about work. Here is the whole week in seven lines.",
+    "slides": [
+     [
+      "Saturday: you own the effort, not the result.",
+      "Gita 2.47",
+      "Karma."
+     ],
+     [
+      "Sunday: lift yourself by your own mind.",
+      "Gita 6.5",
+      "The mind."
+     ],
+     [
+      "Monday: pleasure and pain pass.",
+      "Gita 2.14",
+      "Staying steady."
+     ],
+     [
+      "Tuesday: the soul is never born and never dies.",
+      "Gita 2.20",
+      "The soul."
+     ],
+     [
+      "Wednesday: a leaf, offered with love.",
+      "Gita 9.26",
+      "Devotion."
+     ],
+     [
+      "Thursday: reflect fully, then decide.",
+      "Gita 18.63",
+      "Knowledge."
+     ],
+     [
+      "Friday: keep your mind steady, and you cross every obstacle.",
+      "Gita 18.58",
+      "Peace."
+     ]
+    ],
+    "recap": [
+     "Karma",
+     "Mind",
+     "Steadiness",
+     "Soul",
+     "Devotion",
+     "Knowledge",
+     "Peace"
+    ],
+    "cta": "Save it. Read one a day next week.",
+    "verses": [
+     {
+      "ref": "2.47",
+      "deva": [
+       "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+       "मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥"
+      ],
+      "tr": [
+       "karmaṇy-evādhikāras te mā phaleṣhu kadāchana",
+       "mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi"
+      ]
+     },
+     {
+      "ref": "6.5",
+      "deva": [
+       "उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत् ।",
+       "आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥"
+      ],
+      "tr": [
+       "uddhared ātmanātmānaṁ nātmānam avasādayet",
+       "ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ"
+      ]
+     },
+     {
+      "ref": "2.14",
+      "deva": [
+       "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः ।",
+       "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥"
+      ],
+      "tr": [
+       "mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ",
+       "āgamāpāyino ’nityās tans-titikṣhasva bhārata"
+      ]
+     },
+     {
+      "ref": "2.20",
+      "deva": [
+       "न जायते म्रियते वा कदाचि ।",
+       "न्नायं भूत्वा भविता वा न भूयः ।",
+       "अजो नित्यः शाश्वतोऽयं पुराणो ।",
+       "न हन्यते हन्यमाने शरीरे ॥"
+      ],
+      "tr": [
+       "na jāyate mriyate vā kadāchin",
+       "nāyaṁ bhūtvā bhavitā vā na bhūyaḥ",
+       "ajo nityaḥ śhāśhvato ’yaṁ purāṇo",
+       "na hanyate hanyamāne śharīre"
+      ]
+     },
+     {
+      "ref": "9.26",
+      "deva": [
+       "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।",
+       "तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥"
+      ],
+      "tr": [
+       "patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati",
+       "tadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ"
+      ]
+     },
+     {
+      "ref": "18.63",
+      "deva": [
+       "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया ।",
+       "विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥"
+      ],
+      "tr": [
+       "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā",
+       "vimṛiśhyaitad aśheṣheṇa yathechchhasi tathā kuru"
+      ]
+     },
+     {
+      "ref": "18.58",
+      "deva": [
+       "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।",
+       "अथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि ॥"
+      ],
+      "tr": [
+       "mach-chittaḥ sarva-durgāṇi mat-prasādāt tariṣhyasi",
+       "atha chet tvam ahankārān na śhroṣhyasi vinaṅkṣhyasi"
+      ]
+     }
+    ]
+   },
+   "caption": "7 days, 7 lines from the Gita, one for each day of this week.\n\nA summary of the week for anyone who joined late, and a reminder for anyone who didn't.\n\nBhagavad Gita, on peace.\n\nWhich day was yours? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d7-1400-prompt",
+   "at": "2026-10-30T14:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a5",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "One thing you're letting go of\nbefore the weekend?",
+   "note": "Reply here. I read every one."
+  },
+  {
+   "id": "d7-1500-line",
+   "at": "2026-10-30T15:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a3",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Peace is not",
+    "the end of problems.",
+    "It is a quiet place",
+    "you keep returning to."
+   ],
+   "credit": "in plain words",
+   "voice": false,
+   "verse": null,
+   "caption": "The Gita on peace, in plain words.\n\nNot a translation. The verses behind it are 2.66 and 6.15.\n\nBhagavad Gita, on peace.\n\nShare it with someone who needs a quiet place.\n\n#peace #gitawisdom #krishna"
+  },
+  {
+   "id": "d7-1600-reminder",
+   "at": "2026-10-30T16:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a5",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "Unclench your jaw.\nDrop your shoulders."
+  },
+  {
+   "id": "d7-1700-choice2",
+   "at": "2026-10-30T17:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a3",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story",
+   "story": "choice",
+   "media": "STORIES",
+   "a": "Sunrise walk",
+   "b": "Late sleep"
+  },
+  {
+   "id": "d7-1800-main",
+   "at": "2026-10-30T18:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a5",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "carousel",
+   "media": "CAROUSEL",
+   "deck": {
+    "cover": "How the Gita ends",
+    "sub": "The last two things anyone says in it.",
+    "stake": "After eighteen chapters, the book closes with two short lines.",
+    "slides": [
+     [
+      "Arjuna says: my doubt is gone.",
+      "Gita 18.73",
+      "\"I will act on your word.\" The man who put his bow down picks it up."
+     ],
+     [
+      "Sanjaya says: where Krishna and Arjuna are,",
+      "Gita 18.78",
+      "wisdom and action together."
+     ],
+     [
+      "There will be fortune, victory and good judgment.",
+      "Gita 18.78",
+      "Sanjaya, the narrator, gives his view."
+     ],
+     [
+      "It starts with a man who can't. It ends with one who will.",
+      "",
+      "That is the whole book."
+     ]
+    ],
+    "recap": [
+     "Doubt is gone",
+     "Wisdom and action",
+     "Fortune follows",
+     "He will"
+    ],
+    "cta": "Share it with someone starting something.",
+    "verses": [
+     {
+      "ref": "18.73",
+      "deva": [
+       "मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत ।",
+       "स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ॥"
+      ],
+      "tr": [
+       "naṣhṭo mohaḥ smṛitir labdhā tvat-prasādān mayāchyuta",
+       "sthito ‘smi gata-sandehaḥ kariṣhye vachanaṁ tava"
+      ]
+     },
+     {
+      "ref": "18.78",
+      "deva": [
+       "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।",
+       "तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥"
+      ],
+      "tr": [
+       "yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥ",
+       "tatra śhrīr vijayo bhūtir dhruvā nītir matir mama"
+      ]
+     },
+     {
+      "ref": "18.78",
+      "deva": [
+       "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।",
+       "तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥"
+      ],
+      "tr": [
+       "yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥ",
+       "tatra śhrīr vijayo bhūtir dhruvā nītir matir mama"
+      ]
+     },
+     null
+    ]
+   },
+   "caption": "The Gita begins with a man who can't. It ends with one who will.\n\nChapter 18, the last. If you've followed this week, you've read the arc of the whole book.\n\nBhagavad Gita, on peace.\n\nWhat is your \"I will\" for next week? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d7-1900-reel_pm19",
+   "at": "2026-10-30T19:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a3",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "Keep your mind on Me,",
+    "and by My grace",
+    "you will cross every obstacle."
+   ],
+   "credit": "Bhagavad Gita 18.58",
+   "voice": false,
+   "verse": {
+    "ref": "18.58",
+    "deva": [
+     "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।"
+    ],
+    "tr": [
+     "mach-chittaḥ sarva-durgāṇi mat-prasādāt tariṣhyasi"
+    ]
+   },
+   "caption": "Krishna's promise for the end of the week.\n\nVerse 18.58. A week of Gita verses in, this is the thread: keep the mind steady, and obstacles get crossed one at a time.\n\nBhagavad Gita 18.58, on peace.\n\nWhat obstacle are you carrying into the weekend? Tell me below.\n\n#bhagavadgita #krishna #gitaquotes"
+  },
+  {
+   "id": "d7-2000-pointer2",
+   "at": "2026-10-30T20:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a5",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story",
+   "story": "pointer",
+   "media": "STORIES",
+   "text": "Tonight's carousel:\nHow the Gita ends",
+   "note": "Swipe through it on the page"
+  },
+  {
+   "id": "d7-2100-fragment",
+   "at": "2026-10-30T21:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a3",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story",
+   "story": "text",
+   "media": "STORIES",
+   "text": "A week is just\nseven small doors."
+  },
+  {
+   "id": "d7-2200-poem",
+   "at": "2026-10-30T22:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a5",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "reel",
+   "media": "REELS",
+   "lines": [
+    "The week was loud.",
+    "I sat by the window.",
+    "Everything I carried",
+    "was lighter than it looked."
+   ],
+   "credit": "",
+   "voice": false,
+   "verse": null,
+   "caption": "A short poem for Friday night.\n\nOur own words, inspired by Bhagavad Gita 6.15.\n\nBhagavad Gita, on peace.\n\nShare it with someone who made it to the weekend.\n\n#poetry #shortpoems #krishna"
+  },
+  {
+   "id": "d7-2300-fill",
+   "at": "2026-10-30T23:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a3",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story",
+   "story": "prompt",
+   "media": "STORIES",
+   "text": "Finish this:\nThis week taught me ___",
+   "note": "Reply and tell me."
+  },
+  {
+   "id": "d7-0000-night",
+   "at": "2026-10-31T00:00:00+05:30",
+   "day": "2026-10-30",
+   "bg": "a5",
+   "palette": 6,
+   "theme": "Peace",
+   "kind": "story_video",
+   "media": "STORIES",
+   "lines": [
+    "One who sees Me everywhere,",
+    "and sees everything in Me,",
+    "is never lost to Me,",
+    "and I am never lost to them."
+   ],
+   "credit": "Bhagavad Gita 6.30",
+   "voice": false,
+   "verse": {
+    "ref": "6.30",
+    "deva": [
+     "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति ।",
+     "तस्याहं न प्रणश्यामि स च मे न प्रणश्यति ॥"
+    ],
+    "tr": [
+     "yo māṁ paśhyati sarvatra sarvaṁ cha mayi paśhyati",
+     "tasyāhaṁ na praṇaśhyāmi sa cha me na praṇaśhyati"
+    ]
+   }
+  }
+ ]
+}

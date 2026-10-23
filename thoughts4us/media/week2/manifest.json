@@ -1,0 +1,564 @@
+{
+ "d1-0600-affirm": [
+  "media/week2/d1-0600-affirm.jpg"
+ ],
+ "d1-0800-card": [
+  "media/week2/d1-0800-card.jpg"
+ ],
+ "d1-0900-quote": [
+  "media/week2/d1-0900-quote.jpg"
+ ],
+ "d1-1000-choice": [
+  "media/week2/d1-1000-choice.jpg"
+ ],
+ "d1-0500-morning": [
+  "media/week2/d1-0500-morning.mp4"
+ ],
+ "d1-1200-pointer": [
+  "media/week2/d1-1200-pointer.jpg"
+ ],
+ "d1-1300-noon": [
+  "media/week2/d1-1300-noon-01.jpg",
+  "media/week2/d1-1300-noon-02.jpg",
+  "media/week2/d1-1300-noon-03.jpg",
+  "media/week2/d1-1300-noon-04.jpg",
+  "media/week2/d1-1300-noon-05.jpg",
+  "media/week2/d1-1300-noon-06.jpg",
+  "media/week2/d1-1300-noon-07.jpg",
+  "media/week2/d1-1300-noon-08.jpg",
+  "media/week2/d1-1300-noon-09.jpg"
+ ],
+ "d1-1400-prompt": [
+  "media/week2/d1-1400-prompt.jpg"
+ ],
+ "d1-1100-reel_am11": [
+  "media/week2/d1-1100-reel_am11.mp4",
+  "media/week2/d1-1100-reel_am11-cover.jpg"
+ ],
+ "d1-1600-reminder": [
+  "media/week2/d1-1600-reminder.jpg"
+ ],
+ "d1-1700-choice2": [
+  "media/week2/d1-1700-choice2.jpg"
+ ],
+ "d1-1800-main": [
+  "media/week2/d1-1800-main-01.jpg",
+  "media/week2/d1-1800-main-02.jpg",
+  "media/week2/d1-1800-main-03.jpg",
+  "media/week2/d1-1800-main-04.jpg",
+  "media/week2/d1-1800-main-05.jpg",
+  "media/week2/d1-1800-main-06.jpg",
+  "media/week2/d1-1800-main-07.jpg",
+  "media/week2/d1-1800-main-08.jpg"
+ ],
+ "d1-1500-line": [
+  "media/week2/d1-1500-line.mp4",
+  "media/week2/d1-1500-line-cover.jpg"
+ ],
+ "d1-2000-pointer2": [
+  "media/week2/d1-2000-pointer2.jpg"
+ ],
+ "d1-2100-fragment": [
+  "media/week2/d1-2100-fragment.jpg"
+ ],
+ "d1-0700-reel_am7": [
+  "media/week2/d1-0700-reel_am7.mp4",
+  "media/week2/d1-0700-reel_am7-cover.jpg"
+ ],
+ "d1-2300-fill": [
+  "media/week2/d1-2300-fill.jpg"
+ ],
+ "d1-2200-poem": [
+  "media/week2/d1-2200-poem.mp4",
+  "media/week2/d1-2200-poem-cover.jpg"
+ ],
+ "d1-1900-reel_pm19": [
+  "media/week2/d1-1900-reel_pm19.mp4",
+  "media/week2/d1-1900-reel_pm19-cover.jpg"
+ ],
+ "d2-0600-affirm": [
+  "media/week2/d2-0600-affirm.jpg"
+ ],
+ "d1-0000-night": [
+  "media/week2/d1-0000-night.mp4"
+ ],
+ "d2-0800-card": [
+  "media/week2/d2-0800-card.jpg"
+ ],
+ "d2-0900-quote": [
+  "media/week2/d2-0900-quote.jpg"
+ ],
+ "d2-1000-choice": [
+  "media/week2/d2-1000-choice.jpg"
+ ],
+ "d2-0500-morning": [
+  "media/week2/d2-0500-morning.mp4"
+ ],
+ "d2-1200-pointer": [
+  "media/week2/d2-1200-pointer.jpg"
+ ],
+ "d2-1300-noon": [
+  "media/week2/d2-1300-noon-01.jpg",
+  "media/week2/d2-1300-noon-02.jpg",
+  "media/week2/d2-1300-noon-03.jpg",
+  "media/week2/d2-1300-noon-04.jpg",
+  "media/week2/d2-1300-noon-05.jpg",
+  "media/week2/d2-1300-noon-06.jpg",
+  "media/week2/d2-1300-noon-07.jpg",
+  "media/week2/d2-1300-noon-08.jpg",
+  "media/week2/d2-1300-noon-09.jpg"
+ ],
+ "d2-1400-prompt": [
+  "media/week2/d2-1400-prompt.jpg"
+ ],
+ "d2-1100-reel_am11": [
+  "media/week2/d2-1100-reel_am11.mp4",
+  "media/week2/d2-1100-reel_am11-cover.jpg"
+ ],
+ "d2-1600-reminder": [
+  "media/week2/d2-1600-reminder.jpg"
+ ],
+ "d2-1700-choice2": [
+  "media/week2/d2-1700-choice2.jpg"
+ ],
+ "d2-1800-main": [
+  "media/week2/d2-1800-main-01.jpg",
+  "media/week2/d2-1800-main-02.jpg",
+  "media/week2/d2-1800-main-03.jpg",
+  "media/week2/d2-1800-main-04.jpg",
+  "media/week2/d2-1800-main-05.jpg",
+  "media/week2/d2-1800-main-06.jpg",
+  "media/week2/d2-1800-main-07.jpg",
+  "media/week2/d2-1800-main-08.jpg"
+ ],
+ "d2-1500-line": [
+  "media/week2/d2-1500-line.mp4",
+  "media/week2/d2-1500-line-cover.jpg"
+ ],
+ "d2-2000-pointer2": [
+  "media/week2/d2-2000-pointer2.jpg"
+ ],
+ "d2-2100-fragment": [
+  "media/week2/d2-2100-fragment.jpg"
+ ],
+ "d2-2200-poem": [
+  "media/week2/d2-2200-poem.mp4",
+  "media/week2/d2-2200-poem-cover.jpg"
+ ],
+ "d2-2300-fill": [
+  "media/week2/d2-2300-fill.jpg"
+ ],
+ "d2-0700-reel_am7": [
+  "media/week2/d2-0700-reel_am7.mp4",
+  "media/week2/d2-0700-reel_am7-cover.jpg"
+ ],
+ "d2-0000-night": [
+  "media/week2/d2-0000-night.mp4"
+ ],
+ "d3-0600-affirm": [
+  "media/week2/d3-0600-affirm.jpg"
+ ],
+ "d3-0500-morning": [
+  "media/week2/d3-0500-morning.mp4"
+ ],
+ "d3-0800-card": [
+  "media/week2/d3-0800-card.jpg"
+ ],
+ "d2-1900-reel_pm19": [
+  "media/week2/d2-1900-reel_pm19.mp4",
+  "media/week2/d2-1900-reel_pm19-cover.jpg"
+ ],
+ "d3-1000-choice": [
+  "media/week2/d3-1000-choice.jpg"
+ ],
+ "d3-0900-quote": [
+  "media/week2/d3-0900-quote.jpg"
+ ],
+ "d3-1200-pointer": [
+  "media/week2/d3-1200-pointer.jpg"
+ ],
+ "d3-1300-noon": [
+  "media/week2/d3-1300-noon-01.jpg",
+  "media/week2/d3-1300-noon-02.jpg",
+  "media/week2/d3-1300-noon-03.jpg",
+  "media/week2/d3-1300-noon-04.jpg",
+  "media/week2/d3-1300-noon-05.jpg",
+  "media/week2/d3-1300-noon-06.jpg",
+  "media/week2/d3-1300-noon-07.jpg",
+  "media/week2/d3-1300-noon-08.jpg",
+  "media/week2/d3-1300-noon-09.jpg"
+ ],
+ "d3-1400-prompt": [
+  "media/week2/d3-1400-prompt.jpg"
+ ],
+ "d3-1500-line": [
+  "media/week2/d3-1500-line.mp4",
+  "media/week2/d3-1500-line-cover.jpg"
+ ],
+ "d3-1600-reminder": [
+  "media/week2/d3-1600-reminder.jpg"
+ ],
+ "d3-1700-choice2": [
+  "media/week2/d3-1700-choice2.jpg"
+ ],
+ "d3-1800-main": [
+  "media/week2/d3-1800-main-01.jpg",
+  "media/week2/d3-1800-main-02.jpg",
+  "media/week2/d3-1800-main-03.jpg",
+  "media/week2/d3-1800-main-04.jpg",
+  "media/week2/d3-1800-main-05.jpg",
+  "media/week2/d3-1800-main-06.jpg",
+  "media/week2/d3-1800-main-07.jpg",
+  "media/week2/d3-1800-main-08.jpg"
+ ],
+ "d3-1100-reel_am11": [
+  "media/week2/d3-1100-reel_am11.mp4",
+  "media/week2/d3-1100-reel_am11-cover.jpg"
+ ],
+ "d3-2000-pointer2": [
+  "media/week2/d3-2000-pointer2.jpg"
+ ],
+ "d3-2100-fragment": [
+  "media/week2/d3-2100-fragment.jpg"
+ ],
+ "d3-0700-reel_am7": [
+  "media/week2/d3-0700-reel_am7.mp4",
+  "media/week2/d3-0700-reel_am7-cover.jpg"
+ ],
+ "d3-2300-fill": [
+  "media/week2/d3-2300-fill.jpg"
+ ],
+ "d3-2200-poem": [
+  "media/week2/d3-2200-poem.mp4",
+  "media/week2/d3-2200-poem-cover.jpg"
+ ],
+ "d3-1900-reel_pm19": [
+  "media/week2/d3-1900-reel_pm19.mp4",
+  "media/week2/d3-1900-reel_pm19-cover.jpg"
+ ],
+ "d4-0600-affirm": [
+  "media/week2/d4-0600-affirm.jpg"
+ ],
+ "d4-0500-morning": [
+  "media/week2/d4-0500-morning.mp4"
+ ],
+ "d4-0800-card": [
+  "media/week2/d4-0800-card.jpg"
+ ],
+ "d4-0900-quote": [
+  "media/week2/d4-0900-quote.jpg"
+ ],
+ "d4-1000-choice": [
+  "media/week2/d4-1000-choice.jpg"
+ ],
+ "d3-0000-night": [
+  "media/week2/d3-0000-night.mp4"
+ ],
+ "d4-1200-pointer": [
+  "media/week2/d4-1200-pointer.jpg"
+ ],
+ "d4-1300-noon": [
+  "media/week2/d4-1300-noon-01.jpg",
+  "media/week2/d4-1300-noon-02.jpg",
+  "media/week2/d4-1300-noon-03.jpg",
+  "media/week2/d4-1300-noon-04.jpg",
+  "media/week2/d4-1300-noon-05.jpg",
+  "media/week2/d4-1300-noon-06.jpg",
+  "media/week2/d4-1300-noon-07.jpg",
+  "media/week2/d4-1300-noon-08.jpg",
+  "media/week2/d4-1300-noon-09.jpg"
+ ],
+ "d4-1400-prompt": [
+  "media/week2/d4-1400-prompt.jpg"
+ ],
+ "d4-1100-reel_am11": [
+  "media/week2/d4-1100-reel_am11.mp4",
+  "media/week2/d4-1100-reel_am11-cover.jpg"
+ ],
+ "d4-1600-reminder": [
+  "media/week2/d4-1600-reminder.jpg"
+ ],
+ "d4-1700-choice2": [
+  "media/week2/d4-1700-choice2.jpg"
+ ],
+ "d4-1800-main": [
+  "media/week2/d4-1800-main-01.jpg",
+  "media/week2/d4-1800-main-02.jpg",
+  "media/week2/d4-1800-main-03.jpg",
+  "media/week2/d4-1800-main-04.jpg",
+  "media/week2/d4-1800-main-05.jpg",
+  "media/week2/d4-1800-main-06.jpg",
+  "media/week2/d4-1800-main-07.jpg",
+  "media/week2/d4-1800-main-08.jpg"
+ ],
+ "d4-1500-line": [
+  "media/week2/d4-1500-line.mp4",
+  "media/week2/d4-1500-line-cover.jpg"
+ ],
+ "d4-2000-pointer2": [
+  "media/week2/d4-2000-pointer2.jpg"
+ ],
+ "d4-2100-fragment": [
+  "media/week2/d4-2100-fragment.jpg"
+ ],
+ "d4-0700-reel_am7": [
+  "media/week2/d4-0700-reel_am7.mp4",
+  "media/week2/d4-0700-reel_am7-cover.jpg"
+ ],
+ "d4-2300-fill": [
+  "media/week2/d4-2300-fill.jpg"
+ ],
+ "d4-2200-poem": [
+  "media/week2/d4-2200-poem.mp4",
+  "media/week2/d4-2200-poem-cover.jpg"
+ ],
+ "d4-1900-reel_pm19": [
+  "media/week2/d4-1900-reel_pm19.mp4",
+  "media/week2/d4-1900-reel_pm19-cover.jpg"
+ ],
+ "d5-0600-affirm": [
+  "media/week2/d5-0600-affirm.jpg"
+ ],
+ "d5-0500-morning": [
+  "media/week2/d5-0500-morning.mp4"
+ ],
+ "d5-0800-card": [
+  "media/week2/d5-0800-card.jpg"
+ ],
+ "d5-0900-quote": [
+  "media/week2/d5-0900-quote.jpg"
+ ],
+ "d5-1000-choice": [
+  "media/week2/d5-1000-choice.jpg"
+ ],
+ "d4-0000-night": [
+  "media/week2/d4-0000-night.mp4"
+ ],
+ "d5-1200-pointer": [
+  "media/week2/d5-1200-pointer.jpg"
+ ],
+ "d5-1300-noon": [
+  "media/week2/d5-1300-noon-01.jpg",
+  "media/week2/d5-1300-noon-02.jpg",
+  "media/week2/d5-1300-noon-03.jpg",
+  "media/week2/d5-1300-noon-04.jpg",
+  "media/week2/d5-1300-noon-05.jpg",
+  "media/week2/d5-1300-noon-06.jpg",
+  "media/week2/d5-1300-noon-07.jpg",
+  "media/week2/d5-1300-noon-08.jpg",
+  "media/week2/d5-1300-noon-09.jpg"
+ ],
+ "d5-1400-prompt": [
+  "media/week2/d5-1400-prompt.jpg"
+ ],
+ "d5-1100-reel_am11": [
+  "media/week2/d5-1100-reel_am11.mp4",
+  "media/week2/d5-1100-reel_am11-cover.jpg"
+ ],
+ "d5-1600-reminder": [
+  "media/week2/d5-1600-reminder.jpg"
+ ],
+ "d5-1700-choice2": [
+  "media/week2/d5-1700-choice2.jpg"
+ ],
+ "d5-1800-main": [
+  "media/week2/d5-1800-main-01.jpg",
+  "media/week2/d5-1800-main-02.jpg",
+  "media/week2/d5-1800-main-03.jpg",
+  "media/week2/d5-1800-main-04.jpg",
+  "media/week2/d5-1800-main-05.jpg",
+  "media/week2/d5-1800-main-06.jpg",
+  "media/week2/d5-1800-main-07.jpg",
+  "media/week2/d5-1800-main-08.jpg"
+ ],
+ "d5-1500-line": [
+  "media/week2/d5-1500-line.mp4",
+  "media/week2/d5-1500-line-cover.jpg"
+ ],
+ "d5-2000-pointer2": [
+  "media/week2/d5-2000-pointer2.jpg"
+ ],
+ "d5-2100-fragment": [
+  "media/week2/d5-2100-fragment.jpg"
+ ],
+ "d5-0700-reel_am7": [
+  "media/week2/d5-0700-reel_am7.mp4",
+  "media/week2/d5-0700-reel_am7-cover.jpg"
+ ],
+ "d5-2300-fill": [
+  "media/week2/d5-2300-fill.jpg"
+ ],
+ "d5-2200-poem": [
+  "media/week2/d5-2200-poem.mp4",
+  "media/week2/d5-2200-poem-cover.jpg"
+ ],
+ "d5-0000-night": [
+  "media/week2/d5-0000-night.mp4"
+ ],
+ "d6-0600-affirm": [
+  "media/week2/d6-0600-affirm.jpg"
+ ],
+ "d5-1900-reel_pm19": [
+  "media/week2/d5-1900-reel_pm19.mp4",
+  "media/week2/d5-1900-reel_pm19-cover.jpg"
+ ],
+ "d6-0800-card": [
+  "media/week2/d6-0800-card.jpg"
+ ],
+ "d6-0900-quote": [
+  "media/week2/d6-0900-quote.jpg"
+ ],
+ "d6-0500-morning": [
+  "media/week2/d6-0500-morning.mp4"
+ ],
+ "d6-1000-choice": [
+  "media/week2/d6-1000-choice.jpg"
+ ],
+ "d6-1200-pointer": [
+  "media/week2/d6-1200-pointer.jpg"
+ ],
+ "d6-1300-noon": [
+  "media/week2/d6-1300-noon-01.jpg",
+  "media/week2/d6-1300-noon-02.jpg",
+  "media/week2/d6-1300-noon-03.jpg",
+  "media/week2/d6-1300-noon-04.jpg",
+  "media/week2/d6-1300-noon-05.jpg",
+  "media/week2/d6-1300-noon-06.jpg",
+  "media/week2/d6-1300-noon-07.jpg",
+  "media/week2/d6-1300-noon-08.jpg",
+  "media/week2/d6-1300-noon-09.jpg"
+ ],
+ "d6-1400-prompt": [
+  "media/week2/d6-1400-prompt.jpg"
+ ],
+ "d6-1500-line": [
+  "media/week2/d6-1500-line.mp4",
+  "media/week2/d6-1500-line-cover.jpg"
+ ],
+ "d6-1600-reminder": [
+  "media/week2/d6-1600-reminder.jpg"
+ ],
+ "d6-1700-choice2": [
+  "media/week2/d6-1700-choice2.jpg"
+ ],
+ "d6-1800-main": [
+  "media/week2/d6-1800-main-01.jpg",
+  "media/week2/d6-1800-main-02.jpg",
+  "media/week2/d6-1800-main-03.jpg",
+  "media/week2/d6-1800-main-04.jpg",
+  "media/week2/d6-1800-main-05.jpg",
+  "media/week2/d6-1800-main-06.jpg",
+  "media/week2/d6-1800-main-07.jpg",
+  "media/week2/d6-1800-main-08.jpg"
+ ],
+ "d6-1100-reel_am11": [
+  "media/week2/d6-1100-reel_am11.mp4",
+  "media/week2/d6-1100-reel_am11-cover.jpg"
+ ],
+ "d6-2000-pointer2": [
+  "media/week2/d6-2000-pointer2.jpg"
+ ],
+ "d6-2100-fragment": [
+  "media/week2/d6-2100-fragment.jpg"
+ ],
+ "d6-0700-reel_am7": [
+  "media/week2/d6-0700-reel_am7.mp4",
+  "media/week2/d6-0700-reel_am7-cover.jpg"
+ ],
+ "d6-2300-fill": [
+  "media/week2/d6-2300-fill.jpg"
+ ],
+ "d6-2200-poem": [
+  "media/week2/d6-2200-poem.mp4",
+  "media/week2/d6-2200-poem-cover.jpg"
+ ],
+ "d7-0500-morning": [
+  "media/week2/d7-0500-morning.mp4"
+ ],
+ "d7-0600-affirm": [
+  "media/week2/d7-0600-affirm.jpg"
+ ],
+ "d6-1900-reel_pm19": [
+  "media/week2/d6-1900-reel_pm19.mp4",
+  "media/week2/d6-1900-reel_pm19-cover.jpg"
+ ],
+ "d7-0800-card": [
+  "media/week2/d7-0800-card.jpg"
+ ],
+ "d7-0900-quote": [
+  "media/week2/d7-0900-quote.jpg"
+ ],
+ "d7-1000-choice": [
+  "media/week2/d7-1000-choice.jpg"
+ ],
+ "d6-0000-night": [
+  "media/week2/d6-0000-night.mp4"
+ ],
+ "d7-1200-pointer": [
+  "media/week2/d7-1200-pointer.jpg"
+ ],
+ "d7-1300-noon": [
+  "media/week2/d7-1300-noon-01.jpg",
+  "media/week2/d7-1300-noon-02.jpg",
+  "media/week2/d7-1300-noon-03.jpg",
+  "media/week2/d7-1300-noon-04.jpg",
+  "media/week2/d7-1300-noon-05.jpg",
+  "media/week2/d7-1300-noon-06.jpg",
+  "media/week2/d7-1300-noon-07.jpg",
+  "media/week2/d7-1300-noon-08.jpg",
+  "media/week2/d7-1300-noon-09.jpg",
+  "media/week2/d7-1300-noon-10.jpg",
+  "media/week2/d7-1300-noon-11.jpg"
+ ],
+ "d7-1400-prompt": [
+  "media/week2/d7-1400-prompt.jpg"
+ ],
+ "d7-1500-line": [
+  "media/week2/d7-1500-line.mp4",
+  "media/week2/d7-1500-line-cover.jpg"
+ ],
+ "d7-1600-reminder": [
+  "media/week2/d7-1600-reminder.jpg"
+ ],
+ "d7-1700-choice2": [
+  "media/week2/d7-1700-choice2.jpg"
+ ],
+ "d7-1800-main": [
+  "media/week2/d7-1800-main-01.jpg",
+  "media/week2/d7-1800-main-02.jpg",
+  "media/week2/d7-1800-main-03.jpg",
+  "media/week2/d7-1800-main-04.jpg",
+  "media/week2/d7-1800-main-05.jpg",
+  "media/week2/d7-1800-main-06.jpg",
+  "media/week2/d7-1800-main-07.jpg",
+  "media/week2/d7-1800-main-08.jpg"
+ ],
+ "d7-1100-reel_am11": [
+  "media/week2/d7-1100-reel_am11.mp4",
+  "media/week2/d7-1100-reel_am11-cover.jpg"
+ ],
+ "d7-2000-pointer2": [
+  "media/week2/d7-2000-pointer2.jpg"
+ ],
+ "d7-2100-fragment": [
+  "media/week2/d7-2100-fragment.jpg"
+ ],
+ "d7-0700-reel_am7": [
+  "media/week2/d7-0700-reel_am7.mp4",
+  "media/week2/d7-0700-reel_am7-cover.jpg"
+ ],
+ "d7-2300-fill": [
+  "media/week2/d7-2300-fill.jpg"
+ ],
+ "d7-2200-poem": [
+  "media/week2/d7-2200-poem.mp4",
+  "media/week2/d7-2200-poem-cover.jpg"
+ ],
+ "d7-1900-reel_pm19": [
+  "media/week2/d7-1900-reel_pm19.mp4",
+  "media/week2/d7-1900-reel_pm19-cover.jpg"
+ ],
+ "d7-0000-night": [
+  "media/week2/d7-0000-night.mp4"
+ ]
+}

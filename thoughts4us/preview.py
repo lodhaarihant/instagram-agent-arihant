@@ -34,6 +34,8 @@ def main(path):
             out.append(f"<div class='card{' story' if story else ''}'><div class=meta>{p['at'][11:16]} &middot; {p['media'].lower()}</div>")
             if p["media"] == "REELS":
                 out.append(f"<video src='{files[0]}' poster='{files[1]}' controls muted playsinline></video>")
+            elif files and files[0].endswith(".mp4"):
+                out.append(f"<video src='{files[0]}' controls muted playsinline></video>")
             elif p["media"] == "CAROUSEL":
                 out.append("<div class=strip>" + "".join(f"<img src='{f}' loading=lazy>" for f in files) + "</div>")
             elif files:

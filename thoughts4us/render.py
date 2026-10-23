@@ -7,7 +7,7 @@ Print-quote style, one motif per weekday so the grid stays varied.
 
   feed      1080x1350 JPEG (4:5)
   stories   1080x1920 JPEG, text kept between y=250 and y=1600
-  reels     1080x1920 H.264 MP4 with a silent audio track, plus a cover JPEG
+  reels     1080x1920 H.264 MP4 with a background track from music/, plus a cover JPEG
 
 Usage:
   ../.venv/bin/python render.py schedule/week1.json
@@ -15,9 +15,14 @@ Usage:
 
 Needs Pillow and imageio-ffmpeg (pip install Pillow imageio-ffmpeg).
 Fonts are macOS system fonts (Baskerville, Avenir Next).
+Reel audio: any .mp3 under music/ (subfolders fine). Each reel gets a track and
+start point picked from its post id, so re-renders sound the same. No MP3s means
+a silent track.
 """
 import argparse
 import datetime as dt
+import glob
+import hashlib
 import json
 import math
 import os
@@ -27,6 +32,7 @@ import tempfile
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+MUSIC = os.path.join(HERE, "music")
 FEED = (1080, 1350)
 STORY = (1080, 1920)
 
@@ -373,6 +379,15 @@ def carousel(p, th, handle, out):
     return files
 
 
+def track_for(post_id):
+    """Pick (mp3 path, start seconds) for a reel, stable per post id. None if no music."""
+    tracks = sorted(glob.glob(os.path.join(MUSIC, "**", "*.mp3"), recursive=True))
+    if not tracks:
+        return None
+    h = int(hashlib.sha1(post_id.encode()).hexdigest(), 16)
+    return tracks[h % len(tracks)], (h // len(tracks)) % 21   # start 0-20s into the track
+
+
 def reel(p, th, handle, out):
     lines = p["lines"]
     tmp = tempfile.mkdtemp()
@@ -409,13 +424,24 @@ def reel(p, th, handle, out):
     ff = imageio_ffmpeg.get_ffmpeg_exe()
     mp4 = out + ".mp4"
     total = sum(durations)
-    subprocess.run([
+    cmd = [
         ff, "-y", "-loglevel", "error",
         "-f", "concat", "-safe", "0", "-i", listing,
-        "-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100",
+    ]
+    pick = track_for(os.path.basename(out))
+    if pick:
+        cmd += ["-ss", str(pick[1]), "-i", pick[0]]
+        fade = f"afade=t=in:d=0.6,afade=t=out:st={total - 1.5:.1f}:d=1.5,volume=0.8"
+    else:
+        cmd += ["-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100"]
+        fade = "anull"
+    cmd += [
+        "-map", "0:v", "-map", "1:a",
         "-vf", "fps=30,format=yuv420p", "-c:v", "libx264", "-profile:v", "high", "-crf", "18",
+        "-af", f"{fade},aresample=44100", "-ac", "2",
         "-c:a", "aac", "-b:a", "128k", "-t", f"{total:.1f}", "-movflags", "+faststart", mp4,
-    ], check=True)
+    ]
+    subprocess.run(cmd, check=True)
     return [mp4, cover]
 
 
