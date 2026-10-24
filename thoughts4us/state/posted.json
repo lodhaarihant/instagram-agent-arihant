@@ -740,7 +740,7 @@
   "posted_at": "2026-10-24T01:30:44.374755+00:00"
  },
  "d1-0800-card": {
-  "attempts": 1,
+  "attempts": 2,
   "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
  }
 }
