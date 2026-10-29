@@ -848,5 +848,9 @@
   "permalink": "https://www.instagram.com/reel/DfD1rV-jisr/",
   "media": "REELS",
   "posted_at": "2026-10-29T01:35:12.318128+00:00"
+ },
+ "d6-0800-card": {
+  "attempts": 1,
+  "error": "POST 17841421482603186/media_publish: HTTP 403: Application request limit reached"
  }
 }
